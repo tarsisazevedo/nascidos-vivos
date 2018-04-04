@@ -1,0 +1,601 @@
+600 4 L
+      1  0101 Oficiais Generais das Forças Armadas          0101
+      2  0102 Oficiais das Forças Armadas                   0102
+      3  0103 Praças das Forças Armadas                     0103
+      4  0201 Oficiais superiores da polícia militar        0201
+      5  0202 Capitães da  polícia militar                  0202
+      6  0203 Tenentes da polícia militar                   0203
+      7  0211 Subtenentes e sargentos da policia militar    0211
+      8  0212 Cabos e soldados da polícia militar           0212
+      9  0301 Oficiais sup do corpo de bombeiros militar    0301
+     10  0302 Oficiais intermediários do corpo de bombeiros 0302
+     11  0303 Tenentes do corpo de bombeiros militar        0303
+     12  0311 Subtenentes e sarg do corpo de bombeiros milit0311
+     13  0312 Cabos e soldados do corpo de bombeiros militar0312
+     14  1111 Legisladores                                  1111
+     15  1112 Dirigentes gerais da administração pública    1112
+     16  1113 Magistrados                                   1113
+     17  1114 Dirigentes do serviço público                 1114
+     18  1130 Dirigentes de povos indig, de quilombolas     1130
+     19  1141 Dirigentes de partidos políticos              1141
+     20  1142 Dirig adm entid patronais dos trabalhadores   1142
+     21  1143 Dirig adm entid religiosas                    1143
+     22  1144 Dirig adm de org da soc civil sem fins lucrat 1144
+     23  1210 Diretores gerais                              1210
+     24  1221 Dir prod oper empresa agropec, pesq, agric    1221
+     25  1222 Dir prod e oper emp ind extr, transf util publ1222
+     26  1223 Diretores de operac de obras em empresa constr1223
+     27  1224 Diretores de operações em empresa do comercio 1224
+     28  1225 Dir oper serv em emp de turismo, de aloj de al1225
+     29  1226 Dir oper serv em emp de armaz, transp telecom 1226
+     30  1227 Dir oper serv em emp instit interm finaceira  1227
+     31  1231 Diretores administrativos e financeiros       1231
+     32  1232 Diretores de recursos humanos e relações      1232
+     33  1233 Diretores de comercialização e marketing      1233
+     34  1234 Diretores de suprimentos e afins              1234
+     35  1236 Diretores de serviços de informática          1236
+     36  1237 Diretores de pesquisa e desenvolvimento       1237
+     37  1238 Diretores de manutenção                       1238
+     38  1311 Dir ger de oper em emp de serv pessoais, cult 1311
+     39  1312 Dir e gerentes de oper em empresa serviços de 1312
+     40  1313 Dir e gerentes de instituição de serviços educ1313
+     41  1411 Ger de prod e oper em emp agropec, pesq,aqüíco1411
+     42  1412 Ger de prod oper emp da ind extrat de transf  1412
+     43  1413 Gerentes de obras em empresa de construção    1413
+     44  1414 Ger de operações comerciais e de assistência  1414
+     45  1415 Ger de oper de serv em emp turismo, alojamento1415
+     46  1416 Ger de oper de serv em emp de transp distrib  1416
+     47  1417 Ger de oper de serviços em instit de intermed 1417
+     48  1421 Gerentes administrativos, financeiros riscos  1421
+     49  1422 Ger de recursos humanos e de relações do trab 1422
+     50  1423 Ger de comercialização, marketing e comunic   1423
+     51  1424 Gerentes de suprimentos e afins               1424
+     52  1425 Gerentes de tecnologia da informação          1425
+     53  1426 Gerentes de pesquisa e desenvolvimento        1426
+     54  1427 Gerentes de manutenção                        1427
+     55  2011 Profissionais da biotecnologia                2011
+     56  2012 Profissionais da metrologia                   2012
+     57  2021 Engenheiros mecatrônicos                      2021
+     58  2030 Pesquisadores das ciências biológicas         2030
+     59  2031 Pesquisadores das ciências naturais e exatas  2031
+     60  2032 Pesquisadores de engenharia e tecnologia      2032
+     61  2033 Pesquisadores das ciências da saúde           2033
+     62  2034 Pesquisadores das ciências da agricultura     2034
+     63  2035 Pesquisadores das ciências sociais e humanas  2035
+     64  2041 Peritos criminais                             2041
+     65  2111 Profissionais da matemática                   2111
+     66  2112 Profissionais de estatística                  2112
+     67  2122 Engenheiros em computação                     2122
+     68  2123 Adm de redes, sistemas e banco de dados       2123
+     69  2124 Analistas de sistemas computacionais          2124
+     70  2131 Físicos                                       2131
+     71  2132 Químicos                                      2132
+     72  2133 Profissionais das ciências atmosf espaciais   2133
+     73  2134 Geólogos e geofísicos                         2134
+     74  2141 Arquitetos e Urbanistas                       2141
+     75  2142 Engenheiros civis e afins                     2142
+     76  2143 Engenheiros eletricistas, eletrônicos e afins 2143
+     77  2144 Engenheiros mecânicos                         2144
+     78  2145 Engenheiros químicos                          2145
+     79  2146 Engenheiros metalurgistas e de materiais      2146
+     80  2147 Engenheiros de minas                          2147
+     81  2148 Engenheiros agrimensores e engenheiros cart   2148
+     82  2149 Engenheiros de produção, qualidade e segurança2149
+     83  2151 Oficiais de convés e afins                    2151
+     84  2152 Oficiais de máquinas da marinha mercante      2152
+     85  2153 Profissionais da pilotagem aeronáutica        2153
+     86  2211 Biólogos e Afins                              2211
+     87  2221 Engenheiros agrossilvipecuários               2221
+     88  2231 Médicos                                       2231
+     89  2232 Cirurgiões-dentistas                          2232
+     90  2233 Veterinários e zootecnistas                   2233
+     91  2234 Farmacêuticos                                 2234
+     92  2235 Enfermeiros                                   2235
+     93  2236 Profissionais da fisioterapia e afins         2236
+     94  2237 Nutricionistas                                2237
+     95  2238 Fonoaudiólogos                                2238
+     96  2241 Profissionais da educação física              2241
+     97  2311 Professores de nível superior na educação inf 2311
+     98  2312 Prof de nível sup do Ensino Fundamental(1 a 4)2312
+     99  2313 Prof de nível sup no Ensino Fundamental(5 a 8)2313
+    100  2321 Professores do Ensino Médio                   2321
+    101  2331 Professores do Ensino Profissional            2331
+    102  2332 Instrutores de Ensino Profissional            2332
+    103  2341 Prof de mat, estat e informática Ens Superior 2341
+    104  2342 Prof ciências físicas, quim e afins Superior  2342
+    105  r2343 Prof de arquitet, urban, eng, geof, geol Supe2343
+    106  2344 Prof de ciências biol e da saúde do Ensino Sup2344
+    107  2345 Prof área de formação pedagógica do Ensino Sup2345
+    108  2346 Prof áreas de língua  literatura do E Superior2346
+    109  r2347 Prof de ciências humanas do Ensino Superior  2347
+    110  2348 Prof de ciências econ, adm e cont Ens Superior2348
+    111  2349 Professores de artes do Ensino Superior       2349
+    112  2392 Professores de educação especial              2392
+    113  2394 Programadores, avaliadores e orientadores     2394
+    114  2410 Advogados                                     2410
+    115  2412 Procuradores e advogados públicos             2412
+    116  2413 Tabeliães e registradores                     2413
+    117  2422 Membros do ministério público                 2422
+    118  2423 Delegados de polícia                          2423
+    119  2424 Defensores públicos e proc da assist judiciar 2424
+    120  2511 Profissionais em pesquisa e análise antropolog2511
+    121  2512 Economistas                                   2512
+    122  2513 Profissionais em pesquisa e análise geográfica2513
+    123  2514 Filósofos                                     2514
+    124  2515 Psicólogos e psicanalistas                    2515
+    125  2516 Assistentes sociais e economistas domésticos  2516
+    126  2521 Administradores                               2521
+    127  2522 Contadores e afins                            2522
+    128  2523 Secretárias  executivas e bilíngües           2523
+    129  2524 Profissionais de recursos humanos             2524
+    130  2525 Profissionais de administração ecônomico-finan2525
+    131  2531 Profissionais de rel públicas, public, mercado2531
+    132  2532 Profissionais de comerc consult de serv banco 2532
+    133  2533 Corretores de valores, ativos financ, mercado 2533
+    134  2541 Auditores fiscais e técnicos da rec federal   2541
+    135  2542 Auditores fiscais da previdência social       2542
+    136  2543 Auditores fiscais do trabalho                 2543
+    137  2544 Fiscais de tributos estaduais e municipais    2544
+    138  2611 Profissionais do jornalismo                   2611
+    139  2612 Profissionais da informação                   2612
+    140  2613 Arquivistas e museólogos                      2613
+    141  2614 Filólogos, intérpretes e tradutores           2614
+    142  2615 Profissionais da escrita                      2615
+    143  2616 Editores                                      2616
+    144  2617 Locutores, comentaristas, repórteres de rádio 2617
+    145  2618 Fotógrafos profissionais                      2618
+    146  2621 Produtores de espetáculos                     2621
+    147  2622 Diretores de espetáculos e afins              2622
+    148  2623 Cenógrafos                                    2623
+    149  2624 Artistas visuais e desenhistas industriais    2624
+    150  2625 Atores                                        2625
+    151  2626 Músicos comp, arranjadores, regentes          2626
+    152  2627 Músicos intérpretes                           2627
+    153  2628 Artistas da dança (exceto dança tradicional   2628
+    154  2629 Designer de interiores de nível superior      2629
+    155  2631 Ministros de culto, mission, teólogos assemelh2631
+    156  3001 Técnicos em mecatrônica                       3001
+    157  3003 Técnicos em eletromecânica                    3003
+    158  3011 Técnicos de laboratório industrial            3011
+    159  3012 Técnicos de apoio à bioengenharia             3012
+    160  3111 Técnicos químicos                             3111
+    161  3112 Tec de prod ind quím, petroq, ref de petróleo 3112
+    162  3113 Técnicos em mater, produtos cerâmicos e vidro 3113
+    163  3114 Técnicos em fabric de produtos plásticos      3114
+    164  3115 Técnicos em controle amb, util trat efluente  3115
+    165  3116 Técnicos têxteis                              3116
+    166  3117 Coloristas                                    3117
+    167  3121 Técnicos em construção civil (edificações)    3121
+    168  3122 Técnicos em construção civil (obras infraestru3122
+    169  3123 Técnicos em geomática                         3123
+    170  3131 Técnicos em eletricidade e eletrotécnica      3131
+    171  3132 Técnicos em eletrônica                        3132
+    172  3133 Técnicos em telecomunicações                  3133
+    173  3134 Técnicos em calibração e instrumentação       3134
+    174  3135 Técnicos em fotônica                          3135
+    175  3141 Tec mec na fabric e mont de maq, sist e instru3141
+    176  3142 Técnicos mecânicos (ferramentas)              3142
+    177  3143 Técnicos em mecânica veicular                 3143
+    178  3144 Tec mec manut de máquinas, sistemas e instru  3144
+    179  3146 Técnicos em metalurgia (estruturas metálicas) 3146
+    180  3147 Técnicos em siderurgia                        3147
+    181  3161 Técnicos em geologia                          3161
+    182  3163 Técnicos em mineração                         3163
+    183  3171 Técnicos de desenvolvimento de sistemas       3171
+    184  3172 Tec em operação e monitoração de computadores 3172
+    185  3180 Desenhistas técnicos, em geral                3180
+    186  3181 Desenhistas técnicos da const civil e arquit  3181
+    187  3182 Desenhistas técnicos da mecânica              3182
+    188  3183 Des tec eletric, eletrônica, eletromec, calef 3183
+    189  3184 Desenhistas técnicos de prod serv diversos    3184
+    190  3185 Desenhistas projetistas de construção civil   3185
+    191  3186 Desenhistas projetistas da mecânica           3186
+    192  3187 Desenhistas projetistas da eletrônica         3187
+    193  3188 Desenhistas proj e modelistas diversos        3188
+    194  3191 Técnicos do vestuário                         3191
+    195  3192 Técnicos do mobiliário e afins                3192
+    196  3201 Técnicos em biologia                          3201
+    197  3211 Técnicos agrícolas                            3211
+    198  3212 Técnicos florestais                           3212
+    199  3213 Técnicos em aqüicultura                       3213
+    200  3221 Acupunturistas, podólogos, quiropraxistas     3221
+    201  3222 Técnicos e auxiliares de enfermagem           3222
+    202  3223 Técnicos em Óptica e Optometria               3223
+    203  3224 Técnicos de odontologia                       3224
+    204  3225 Técnicos em próteses ortopédicas              3225
+    205  3226 Técnicos de imobilizações ortopédicas         3226
+    206  3231 Técnicos em pecuária                          3231
+    207  3241 Técnicos em equipamentos médicos odontologicos3241
+    208  3242 Técnicos e aux técnicos em patologia clinica  3242
+    209  3250 Enólogos, Perfumistas e Aromistas             3250
+    210  3251 Técnico em farmácia em manipulação farmacêutic3251
+    211  3252 Tec em prod, conservação  e de qual alimentos 3252
+    212  3253 Técnicos de apoio à biotecnologia             3253
+    213  3281 Técnicos em necrópsia e taxidermistas         3281
+    214  3311 Professores de nível médio na Educação Infant 3311
+    215  3312 Professores de nível médio no Ensino Fundament3312
+    216  3313 Professores de nível médio no Ensino Profiss  3313
+    217  3321 Professores leigos no Ensino Fundamental      3321
+    218  3322 Professores práticos no Ensino Profissionaliz 3322
+    219  3331 Instrutores e professores de cursos livres    3331
+    220  3341 Inspetores de alunos                          3341
+    221  3411 Pilotos de aviação comercial, mecânicos de vôo3411
+    222  3412 Técnicos marítimos, fluviários e pesc conves  3412
+    223  3413 Técnicos marítimos e fluviários de máquinas   3413
+    224  3421 Técnicos em logística de transportes multimoda3421
+    225  3422 Despachantes aduaneiros                       3422
+    226  3423 Técnicos em transportes rodoviários           3423
+    227  3424 Técnicos em transportes metroferroviários     3424
+    228  3425 Técnicos em transportes aéreos                3425
+    229  3426 Técnicos em transp vias navegáveis e oper port3426
+    230  3511 Técnicos em contabilidade                     3511
+    231  3513 Técnicos em administração                     3513
+    232  3514 Serventuários da justiça e afins              3514
+    233  3515 Técs em secretariado, taquígrafos e estenotip 3515
+    234  3516 Técnicos em segurança no trabalho             3516
+    235  3517 Técnicos de seguros e afins                   3517
+    236  3518 Agentes de investigação e identificação       3518
+    237  3522 Agentes da saúde e do meio ambiente           3522
+    238  3523 Agentes  fiscais metrológicos e de qualidade  3523
+    239  3524 Profis direitos autorais aval de prod comunic 3524
+    240  3532 Técnicos em operações e serviços bancários    3532
+    241  3541 Técnicos de vendas especializadas             3541
+    242  3542 Compradores                                   3542
+    243  3543 Analistas de comércio exterior                3543
+    244  3544 Leiloeiros e avaliadores                      3544
+    245  3545 Corretores de seguros                         3545
+    246  3546 Corretores de imóveis                         3546
+    247  3547 Representantes comerciais autônomos           3547
+    248  3548 Técnicos em turismo                           3548
+    249  3711 Técnicos em biblioteconomia                   3711
+    250  3712 Técnicos em museologia e afins                3712
+    251  3713 Técnicos em artes gráficas                    3713
+    252  3714 Recreadores                                   3714
+    253  3721 Captadores de imagens em movimento            3721
+    254  3722 Operadores de rede de teleprocessamento  afins3722
+    255  3731 Técnicos de operação de emissoras de rádio    3731
+    256  3732 Tec em oper de sist de tv e de produtoras de v3732
+    257  3741 Técnicos em áudio                             3741
+    258  3742 Técnicos em cenografia                        3742
+    259  3743 Técnicos em operação de aparelhos de projeção 3743
+    260  3744 Tec em montagem, edição e finalização de filme3744
+    261  3751 Designers de inter, vitrines e visual (niv md 3751
+    262  3761 Dançarinos tradicionais e populares           3761
+    263  3762 Artistas de circo (circenses)                 3762
+    264  3763 Apresentadores de espetáculos, eventos e progr3763
+    265  3764 Modelos                                       3764
+    266  3771 Atletas profissionais                         3771
+    267  3772 Árbitros desportivos                          3772
+    268  3911 Técnicos de planejamento e controle de prod   3911
+    269  3912 Técnicos de controle da produção              3912
+    270  3951 Técnicos de apoio em pesquisa e desenvolviment3951
+    271  4101 Supervisores administrativos                  4101
+    272  4102 Sup de serviços financeiros, de câmbio        4102
+    273  4110 Escrit em geral, agentes, assist auxiliares   4110
+    274  4121 Operadores de equip entrada e transmissão dado4121
+    275  s4122 Contínuos                                    4122
+    276  4131 Auxiliares de contabilidade                   4131
+    277  4132 Escriturários de serviços bancários           4132
+    278  4141 Almoxarifes e armazenistas                    4141
+    279  4142 Apontadores e conferentes                     4142
+    280  4151 Aux de serv de documentação, informação e pesq4151
+    281  4152 Carteiros e operadores de triagem de serviços 4152
+    282  4201 Supers de atendimento ao público e de pesquisa4201
+    283  4211 Caixas e bilheteiros (exceto caixa de banco)  4211
+    284  4212 Coletadores de apostas e de jogos             4212
+    285  4213 Cobradores e afins                            4213
+    286  4221 Recepcionistas                                4221
+    287  4222 Operadores de telefonia                       4222
+    288  4223 Operadores de telemarketing                   4223
+    289  4231 Despachantes documentalistas                  4231
+    290  4241 Entrevistadores e recenseadores               4241
+    291  5101 Superv serv de transp, turismo, hotel e adm   5101
+    292  5102 Supervisores de lavanderia                    5102
+    293  5103 Supervisores dos serv de proteção, segurança  5103
+    294  5111 Trab de segur e atendim aos usuar nos transp  5111
+    295  5112 Fiscais e cobradores dos transportes coletivos5112
+    296  5114 Guias de turismo                              5114
+    297  5121 Trabalhadores dos serviços domésticos em geral5121
+    298  5131 Mordomos e governantas                        5131
+    299  5132 Cozinheiros                                   5132
+    300  5133 Camareiros, roupeiros e afins                 5133
+    301  5134 Garçons, barmen, copeiros e sommeliers        5134
+    302  5141 Trabalhadores nos serviços de admin edificios 5141
+    303  5142 Trab nos serviços de manutenção e conser edif 5142
+    304  5151 Agentes comunitários de saúde e afins         5151
+    305  5152 Auxiliares de laboratório da saúde            5152
+    306  5161 Trabalhadores nos serviços de embelezamento   5161
+    307  5162 Cuidadores de crianças, jovens, adultos idosos5162
+    308  5163 Tintureiros, lavadeiros e afins, a máquina    5163
+    309  5164 Lavadores e passadores de roupa, a mão        5164
+    310  5165 Trabalhadores dos serviços funerários         5165
+    311  5166 Trabalhadores auxiliares dos serviços funer   5166
+    312  5167 Astrólogos e numerólogos                      5167
+    313  5168 Esotéricos e paranormais                      5168
+    314  5171 Bombeiros e salva-vidas                       5171
+    315  5172 Policiais, guardas-civis municipais e agentes 5172
+    316  5173 Vigilantes e guardas de segurança             5173
+    317  5174 Porteiros e vigias                            5174
+    318  5191 Motociclistas e ciclistas de entregas rápidas 5191
+    319  5192 Catadores de material reciclável              5192
+    320  5193 Trab de serv veterin, de hig estética anim dom5193
+    321  5198 Profissionais do sexo                         5198
+    322  5199 Outros trabalhadores dos serviços             5199
+    323  5201 Supervisores de vendas e de prestação servicos5201
+    324  5211 Operadores do comércio em lojas e mercados    5211
+    325  5231 Instaladores de produtos e acessórios         5231
+    326  5241 Vendedores em domicílio                       5241
+    327  5242 Vendedores em bancas, quiosques e barracas    5242
+    328  5243 Vendedores ambulantes                         5243
+    329  6110 Produtores agropecuários em geral             6110
+    330  6120 Produtores agrícolas polivalentes             6120
+    331  6121 Produtores agrícolas na cultura de gramíneas  6121
+    332  6122 Produtores agrícolas na cultura de pl fibrosas6122
+    333  6123 Produtores agrícolas na olericultura          6123
+    334  6124 Prod agric no cultivo de flores e plantas orn 6124
+    335  6125 Produtores agrícolas na fruticultura          6125
+    336  6126 Produtores agrícolas na cultura de plantas est6126
+    337  6127 Produtores agrícolas na cultura de oleaginosas6127
+    338  6128 Prod de especiarias e de plantas aromat medic 6128
+    339  6130 Produtores em pecuária polivalente            6130
+    340  6131 Produtores em pecuária de animais de gd porte 6131
+    341  6132 Produtores em pecuária de animais de md porte 6132
+    342  6133 Produtores da avicultura e cunicultura        6133
+    343  6134 Produtores de animais e insetos úteis         6134
+    344  6201 Supervisores na exploração agropecuária       6201
+    345  6210 Trabalhadores agropecuários em geral          6210
+    346  6220 Trabalhadores de apoio à agricultura          6220
+    347  6221 Trabalhadores agrícolas na cultura de gramínea6221
+    348  6222 Trabalhadores agrícolas na cultura de plantas 6222
+    349  6223 Trabalhadores agrícolas na olericultura       6223
+    350  6224 Trab agr no cultivo de flores e plantas ornam 6224
+    351  6225 Trabalhadores agrícolas na fruticultura       6225
+    352  6226 Trab agrícolas nas culturas de plantas estimul6226
+    353  6227 Trab agrícolas na cultura de plantas oleaginos6227
+    354  6228 Trab agr da cultura de espec, plantas arom med6228
+    355  6230 Tratadores polivalentes de animais            6230
+    356  6231 Trabalhadores na pecuária de animais de grande6231
+    357  6232 Trabalhadores na pecuária de animais de médio 6232
+    358  6233 Trabalhadores na avicultura e cunicultura     6233
+    359  6234 Trabalhadores na criação de insetos e animais 6234
+    360  6301 Supervisores na área florestal e aqüicultura  6301
+    361  6310 Pescadores polivalentes                       6310
+    362  6311 Pescadores profissionais artes de agua doce e 6311
+    363  6312 Pescadores de água costeira e alto mar        6312
+    364  6313 Criadores de animais aquáticos                6313
+    365  6314 Trabalhadores de apoio à pesca                6314
+    366  6320 Trabalhadores florestais polivalentes         6320
+    367  6321 Extrat e reflorestadores de espécies produtora6321
+    368  6322 Extrat florestais esp produtoras gomas e resin6322
+    369  6323 Extrat florestais de esp prod fibras, ceras   6323
+    370  6324 Extrat florestais espec produt alimentos silv 6324
+    371  6325 Extrat flor espec produt subst aromat, medic  6325
+    372  6326 Carvoejadores                                 6326
+    373  6410 Trabalhadores da mecanização agrícola         6410
+    374  6420 Trabalhadores da mecanização florestal        6420
+    375  6430 Trabalhadores da irrigação e drenagem         6430
+    376  7101 Supervisores da extração mineral              7101
+    377  7102 Supervisores da construção civil              7102
+    378  7111 Trabalhadores da extração de minerais sólidos 7111
+    379  7112 Trab de extração de minerais sólidos(maquinas)7112
+    380  7113 Trab da extração de minerais líquidos e gasoso7113
+    381  7114 Garimpeiros e operadores de salinas           7114
+    382  7121 Trabalhadores de beneficiamento de minérios   7121
+    383  7122 Trab de beneficiamento de pedras ornamentais  7122
+    384  7151 Trab na operação de máquinas de terraplenag   7151
+    385  7152 Trabalhadores de estruturas de alvenaria      7152
+    386  7153 Montadores de estruturas de concreto armado   7153
+    387  7154 Trab operação de máquinas de concreto usinado 7154
+    388  7155 Trab de montagem de estrut de mad, metal obras7155
+    389  7156 Trabalhadores de instalações elétricas        7156
+    390  7157 Aplicadores de materiais isolantes            7157
+    391  7161 Revestidores de concreto                      7161
+    392  7162 Telhadores (revestimentos rígidos)            7162
+    393  7163 Vidraceiros (revestimentos rígidos)           7163
+    394  7164 Gesseiros                                     7164
+    395  7165 Aplic de revest cerâmicos, pastilhas, pedras  7165
+    396  7166 Pintores de obras e revests de interiores(reve7166
+    397  7170 Ajudantes de obras civis                      7170
+    398  7201 Superv de usinagem, conformação e trat metais 7201
+    399  s7202 Supervisores da fabricação e montagem metalme7202
+    400  7211 Ferramenteiros e afins                        7211
+    401  7212 Prepar e oper de máquinas-ferramenta convencio7212
+    402  7213 Afiadores e polidores de metais               7213
+    403  7214 Operadores de máquinas de usinagem CNC        7214
+    404  7221 Trabalhadores de forjamento de metais         7221
+    405  7222 Trab de fund de metais puros e de ligas metal 7222
+    406  7223 Trab de moldagem de metais e de ligas metálica7223
+    407  7224 Trab de trefilação e estiram metais puros liga7224
+    408  7231 Trabalhadores de tratamento térmico de metais 7231
+    409  7232 Trab de tratam de superf metais (termoquímicos7232
+    410  7233 Trab pintura de equip, veic, estrut metal     7233
+    411  7241 Encanadores e instaladores de tubulações      7241
+    412  7242 Trab de traçagem e mont estrut metal e de comp7242
+    413  7243 Trabalhadores de soldagem e corte de ligas met7243
+    414  7244 Trabalhadores de caldeiraria e serralheria    7244
+    415  7245 Operadores de máquinas de conformação de metai7245
+    416  7246 Trançadores e laceiros de cabos de aço        7246
+    417  7250 Ajustadores mecânicos polivalentes            7250
+    418  7251 Montadores de maq, apar e acess linhas montage7251
+    419  7252 Montadores de máquinas industriais            7252
+    420  7253 Montadores de máquinas pesadas e equip agrico 7253
+    421  7254 Mecânicos montadores motores e turboalimentado7254
+    422  7255 Montadores de veículos automot (linha de monta7255
+    423  7256 Montadores de sistemas e estruturas de aeronav7256
+    424  7257 Instaladores de equip de refrigeração e ventil7257
+    425  7301 Supervisores de montagens e instal eletroeletr7301
+    426  7311 Montadores de equipamentos eletroeletrônicos  7311
+    427  7312 Montadores de aparelhos de telecomunicações   7312
+    428  7313 Instal-reparadores  linhas e equip de telecom 7313
+    429  7321 Instal e reparadores linhas e cabos e comunic 7321
+    430  7401 Supervisores da mec de precisão e inst musical7401
+    431  7411 Mecânicos de instrumentos de precisão         7411
+    432  7421 Confeccionadores de instrumentos musicais     7421
+    433  7501 Supervisores de joalheria e afins             7501
+    434  7502 Supervisores de vidraria, cerâmica e afins    7502
+    435  7510 Joalheiros e lapidadores de gemas             7510
+    436  7511 Artesãos de metais preciosos e semi-preciosos 7511
+    437  7521 Sopradores, moldadores e modeladores de vidros7521
+    438  7522 Trabalhadores da transformação de vidros plano7522
+    439  7523 Ceramistas (preparação e fabricação)          7523
+    440  7524 Vidreiros e ceramistas (arte e decoração)     7524
+    441  7601 Supervisores da indústria têxtil              7601
+    442  7602 Supervisores na indústria do curtimento       7602
+    443  7603 Supervisores na confecção do vestuário        7603
+    444  7604 Supervisores na confecção de calçados         7604
+    445  7605 Superv confecção de artef de tecidos, couro   7605
+    446  7606 Supervisores das artes gráficas               7606
+    447  7610 Trabalhadores polivalentes das ind textil     7610
+    448  7611 Trab da classificação de fibras têxteis e lava7611
+    449  7612 Operadores da fiação                          7612
+    450  7613 Operadores de tear e máquinas similares       7613
+    451  7614 Trab de acab, tingimento e estamparia das ind 7614
+    452  7618 Inspetores e revisores de produção têxtil     7618
+    453  7620 Trab polivalentes do curtimento de couros     7620
+    454  7621 Trab da preparação do curtimento de couros    7621
+    455  7622 Trabalhadores do curtimento de couros e peles 7622
+    456  7623 Trabalhadores do acabamento de couros e peles 7623
+    457  7630 Profissionais polivalentes da confec roupas   7630
+    458  7631 Trabalhadores da preparação da confec roupas  7631
+    459  7632 Oper de máquinas para costura de peças do vest7632
+    460  7633 Oper de máquinas para bordado  acabamento     7633
+    461  7640 Trabalhadores polivalentes da confec de calcad7640
+    462  7641 Trabalhadores da preparação da confec calcados7641
+    463  7642 Operadores de máquinas de costurar e montar   7642
+    464  7643 Trabalhadores de acabamento de calçados       7643
+    465  7650 Trab polival da confec de artefatos de tecidos7650
+    466  7651 Trab da prep de artefatos de tecidos, couros  7651
+    467  7652 Trabalhadores da confec de artef de tecidos   7652
+    468  7653 Oper de máquinas na confecção de artef couro  7653
+    469  7654 Trab do acabamento de artefatos de tecidos    7654
+    470  7661 Trabalhadores da pré-impressão gráfica        7661
+    471  7662 Trabalhadores da impressão gráfica            7662
+    472  7663 Trabalhadores do acabamento gráfico           7663
+    473  7664 Trabalhadores de laboratório fotográfico e rad7664
+    474  7681 Trab de tecelagem manual, tricô, crochê, renda7681
+    475  7682 Trab artesanais da confecção de peças e tecido7682
+    476  7683 Trab artes da confec de calçados e artef couro7683
+    477  7686 Trabalhadores tipográficos linotipistas afins 7686
+    478  7687 Encadernadores e recuper de livros            7687
+    479  7701 Superv em ind de madeira, mobil e da carpint  7701
+    480  7711 Marceneiros e afins                           7711
+    481  7721 Trabalhadores de tratamento e prep da madeira 7721
+    482  7731 Operadores de máquinas de desdobramento da mad7731
+    483  7732 Oper de máquinas de aglomer e prens de chapas 7732
+    484  7733 Operadores de usinagem convencional de madeira7733
+    485  7734 Oper de máquina de usinar madeira (prod serie)7734
+    486  7735 Operadores de máquinas de usinagem de madeira 7735
+    487  7741 Montadores de móveis e artefatos de madeira   7741
+    488  7751 Trab de arte e do acabamento em madeira       7751
+    489  7764 Confecc de artef madeira, móveis de vime afins7764
+    490  7771 Carpinteiros navais                           7771
+    491  7772 Carpinteiros de carrocerias e carretas        7772
+    492  7801 Superv de trab de embalagem e etiquetagem     7801
+    493  7811 Condutores de processos robotizados           7811
+    494  7813 Operadores de veic subaquáticos control remota7813
+    495  7817 Trabalhadores subaquáticos                    7817
+    496  7821 Operadores de máquinas e equipamentos de eleva7821
+    497  7822 Operadores de equip de movimentação de cargas 7822
+    498  7823 Motoristas de veículos de pequeno e médio port7823
+    499  7824 Motoristas de ônibus urbanos, metropol e rodov7824
+    500  7825 Motoristas de veículos de cargas em geral     7825
+    501  7826 Operadores de veículos sobre trilhos e cabos  7826
+    502  7827 Trabalhadores aquaviários                     7827
+    503  7828 Cond de animais e de veic tração animal e ped 7828
+    504  7831 Trab de manobras de transportes sobre trilhos 7831
+    505  7832 Trabalhadores de cargas e descargas de mercado7832
+    506  7841 Trabalhadores de embalagem e de etiquetagem   7841
+    507  7842 Alimentadores de linhas de produção           7842
+    508  8101 Superv de prod em ind químicas, petroquímicas 8101
+    509  8102 Superv de prod em ind transf de plast borracha8102
+    510  8103 Superv de prod em ind de prod farmac, cosmetic8103
+    511  8110 Oper polival de equip em ind químicas, petroq 8110
+    512  8111 Oper de equip moagem e mistura de mat (quim   8111
+    513  8112 Oper de calcinação e de tratam quim de mat rad8112
+    514  8113 Operadores de equipamentos de filtragem e sepa8113
+    515  8114 Oper de equip destilação, evaporação e reação 8114
+    516  8115 Opers de equip de prod e refino de petroleo   8115
+    517  8116 Operadores de equipamentos de coqueificação   8116
+    518  8117 Oper de instal e maq de prod plásticos, borrac8117
+    519  8118 Oper de maq e instal de prods farm, cosméticos8118
+    520  8121 Trabs da fabric de munição e explos quimicos  8121
+    521  8131 Oper proc das ind de transf de prods químicos 8131
+    522  8181 Laboratoristas industriais auxiliares         8181
+    523  8201 Superv de prod em indústrias siderúrgicas     8201
+    524  8202 Superv na fabric de mat para const (vidros    8202
+    525  8211 Operadores de instalações de sinterização     8211
+    526  8212 Operadores de fornos de primeira  fusão       8212
+    527  8213 Operadores de equipamentos de laminação       8213
+    528  8214 Oper de equip de acabamento de chapas e metais8214
+    529  8221 Forneiros metalúrgicos(segunda fusão e reaquec8221
+    530  8231 Oper prepar de massas p/abras, vidro, ceram   8231
+    531  8232 Oper equip de fabric e benef de cristais, vidr8232
+    532  8233 Oper de instal e equip de fabricação mat const8233
+    533  8281 Trab da fabric de cerâmica estrutural construc8281
+    534  8301 Supervisores da fabricação de celulose e papel8301
+    535  8311 Preparadores de pasta para fabricação de papel8311
+    536  8321 Operadores de máquinas de fabricar papel e pap8321
+    537  8331 Oper de maq na fabric de produtos de papel    8331
+    538  8332 Trabalhadores artesanais de prod de papel     8332
+    539  8401 Superv da fabric alimentos, bebidas e fumo    8401
+    540  8411 Trab da ind de benefic de grãos, cereais      8411
+    541  8412 Trabalhadores no beneficiamento do sal        8412
+    542  8413 Trabalhadores na fabricação e refino de açúcar8413
+    543  8414 Trab na fabricação e conservação de alimentos 8414
+    544  8415 Trab na pasteuriz do leite e fabric de latic  8415
+    545  8416 Trab na industrializ café, cacau, mate        8416
+    546  8417 Trab na fabric de cachaça, cerveja, vinhos    8417
+    547  8418 Oper de equip fabric pães, massas alim, doces 8418
+    548  8421 Beneficiadores de fumo                        8421
+    549  8422 Charuteiros                                   8422
+    550  8423 Cigarreiros                                   8423
+    551  8481 Trab artesanais na conservação de alimentos   8481
+    552  8482 Trab artes pasteuriz leite e fabric de laticin8482
+    553  8483 Padeiros, confeiteiros e afins                8483
+    554  8484 Trabalhadores em análises sensoriais          8484
+    555  8485 Magarefes e afins                             8485
+    556  8486 Trabalhadores artesanais na indústria do fumo 8486
+    557  8601 Supervisores da produção de utilidades        8601
+    558  8611 Oper instal ger distrib energ elet, hidr, term8611
+    559  8612 Oper de instalações de distribuição de energia8612
+    560  8621 Operadores de máquinas a vapor e utilidades   8621
+    561  8622 Oper de instal de captação, tratamento e distr8622
+    562  8623 Operadores de instalações de captação e esgoto8623
+    563  8624 Oper de instal de extrac, proc,envas distribui8624
+    564  8625 Operadores de instal de refrigeração e ar-cond8625
+    565  9101 Superv em serv repar e manut de maq e equipam 9101
+    566  9102 Superv em serviços de reparação e manutenção  9102
+    567  9109 Superv de outros trab service de reparo       9109
+    568  9111 Mec de manut de bombas, motores, compressores 9111
+    569  9112 Mec de manut e instal de apar de climat e refr9112
+    570  9113 Mecânicos de manutenção de máquinas industr   9113
+    571  9131 Mecânicos de manut de maq pesadas equip agrico9131
+    572  9141 Mecânicos de manutenção aeronáutica           9141
+    573  9142 Mecânicos de manutenção de motores e equip nav9142
+    574  9143 Mecânicos de manutenção metroferroviária      9143
+    575  9144 Mecânicos de manutenção de veiculos automot   9144
+    576  9151 Tec em manut e repar de instrum de medição    9151
+    577  9152 Restauradores de instrumentos musicais        9152
+    578  9153 Técnicos em manut e repar de equip biomédicos 9153
+    579  9154 Reparadores de equipamentos fotográficos      9154
+    580  9191 Lubrificadores                                9191
+    581  9192 Trab de manut de roçadeiras, motoserras       9192
+    582  9193 Mec de manut de bicicletas e equip esp ginast 9193
+    583  9501 Sup de manut eletroele industrial, comercial  9501
+    584  9502 Supervisores de manutenção eletroeletrônica   9502
+    585  9503 Supervisores de manutenção eletromecânica     9503
+    586  9511 Eletricistas de manutenção eletroeletrônica   9511
+    587  9513 Instal e mantenedores de sist eletroeletronico9513
+    588  9531 Eletric eletr de manut veicular (aérea, terre 9531
+    589  9541 Instal e mantened eletromec elevadores, esc   9541
+    590  9542 Reparadores de aparelhos eletrodomésticos     9542
+    591  9543 Reparadores de equipamentos de escritório     9543
+    592  9911 Conservadores de vias permanentes (trilhos)   9911
+    593  9912 Mantenedores de equip de parques de diver     9912
+    594  9913 Reparadores de carrocerias de veículos        9913
+    595  9914 Mantenedores de edificações                   9914
+    596  9921 Trabalhadores elem de serviços de manutenção  9921
+    597  9922 Trab operac de conserv de vias perm (ex trilho9922
+    598  Ignorada                                           9989
+    599  Codigos de exclusao                                9999
+    600  Nao Informada                                          ,

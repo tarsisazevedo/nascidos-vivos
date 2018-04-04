@@ -1,0 +1,309 @@
+    307  6                                                                                    
+      1  520005 Abadia de Goiás                             520005                            
+      2  520010 Abadiânia                                   520010                            
+      3  520013 Acreúna                                     520013                            
+      4  520015 Adelândia                                   520015                            
+      5  520017 Água Fria de Goiás                          520017                            
+      6  520020 Água Limpa                                  520020                            
+      7  520025 Águas Lindas de Goiás                       520025                            
+      8  520030 Alexânia                                    520030                            
+      9  520050 Aloândia                                    520050                            
+     10  520055 Alto Horizonte                              520055                            
+     11  520060 Alto Paraíso de Goiás                       520060                            
+     12  520080 Alvorada do Norte                           520080                            
+     13  520082 Amaralina                                   520082                            
+     14  520085 Americano do Brasil                         520085                            
+     15  520090 Amorinópolis                                520090                            
+     16  520110 Anápolis                                    520110                            
+     17  520120 Anhanguera                                  520120                            
+     18  520130 Anicuns                                     520130                            
+     19  520140 Aparecida de Goiânia                        520140                            
+     20  520145 Aparecida do Rio Doce                       520145                            
+     21  520150 Aporé                                       520150                            
+     22  520160 Araçu                                       520160                            
+     23  520170 Aragarças                                   520170                            
+     24  520180 Aragoiânia                                  520180                            
+     25  520215 Araguapaz                                   520215                            
+     26  520235 Arenópolis                                  520235                            
+     27  520250 Aruanã                                      520250                            
+     28  520260 Aurilândia                                  520260                            
+     29  520280 Avelinópolis                                520280                            
+     30  520310 Baliza                                      520310                            
+     31  520320 Barro Alto                                  520320                            
+     32  520330 Bela Vista de Goiás                         520330                            
+     33  520340 Bom Jardim de Goiás                         520340                            
+     34  520350 Bom Jesus de Goiás                          520350                            
+     35  520355 Bonfinópolis                                520355                            
+     36  520357 Bonópolis                                   520357                            
+     37  520360 Brazabrantes                                520360                            
+     38  520380 Britânia                                    520380                            
+     39  520390 Buriti Alegre                               520390                            
+     40  520393 Buriti de Goiás                             520393                            
+     41  520396 Buritinópolis                               520396                            
+     42  520400 Cabeceiras                                  520400                            
+     43  520410 Cachoeira Alta                              520410                            
+     44  520420 Cachoeira de Goiás                          520420                            
+     45  520425 Cachoeira Dourada                           520425                            
+     46  520430 Caçu                                        520430                            
+     47  520440 Caiapônia                                   520440                            
+     48  520450 Caldas Novas                                520450                            
+     49  520455 Caldazinha                                  520455                            
+     50  520460 Campestre de Goiás                          520460                            
+     51  520465 Campinaçu                                   520465                            
+     52  520470 Campinorte                                  520470                            
+     53  520480 Campo Alegre de Goiás                       520480                            
+     54  520485 Campo Limpo de Goiás                        520485                            
+     55  520490 Campos Belos                                520490                            
+     56  520495 Campos Verdes                               520495                            
+     57  520500 Carmo do Rio Verde                          520500                            
+     58  520505 Castelândia                                 520505                            
+     59  520510 Catalão                                     520510                            
+     60  520520 Caturaí                                     520520                            
+     61  520530 Cavalcante                                  520530                            
+     62  520540 Ceres                                       520540                            
+     63  520545 Cezarina                                    520545                            
+     64  520547 Chapadão do Céu                             520547                            
+     65  520549 Cidade Ocidental                            520549                            
+     66  520551 Cocalzinho de Goiás                         520551                            
+     67  520552 Colinas do Sul                              520552                            
+     68  520570 Córrego do Ouro                             520570                            
+     69  520580 Corumbá de Goiás                            520580                            
+     70  520590 Corumbaíba                                  520590                            
+     71  520620 Cristalina                                  520620                            
+     72  520630 Cristianópolis                              520630                            
+     73  520640 Crixás                                      520640                            
+     74  520650 Cromínia                                    520650                            
+     75  520660 Cumari                                      520660                            
+     76  520670 Damianópolis                                520670                            
+     77  520680 Damolândia                                  520680                            
+     78  520690 Davinópolis                                 520690                            
+     79  520710 Diorama                                     520710                            
+     80  520830 Divinópolis de Goiás                        520830                            
+     81  520725 Doverlândia                                 520725                            
+     82  520735 Edealina                                    520735                            
+     83  520740 Edéia                                       520740                            
+     84  520750 Estrela do Norte                            520750                            
+     85  520753 Faina                                       520753                            
+     86  520760 Fazenda Nova                                520760                            
+     87  520780 Firminópolis                                520780                            
+     88  520790 Flores de Goiás                             520790                            
+     89  520800 Formosa                                     520800                            
+     90  520810 Formoso                                     520810                            
+     91  520815 Gameleira de Goiás                          520815                            
+     92  520840 Goianápolis                                 520840                            
+     93  520850 Goiandira                                   520850                            
+     94  520860 Goianésia                                   520860                            
+     95  520870 Goiânia                                     520870,528707                     
+     96  520880 Goianira                                    520880                            
+     97  520890 Goiás                                       520890                            
+     98  520910 Goiatuba                                    520910                            
+     99  520915 Gouvelândia                                 520915                            
+    100  520920 Guapó                                       520920                            
+    101  520929 Guaraíta                                    520929                            
+    102  520940 Guarani de Goiás                            520940                            
+    103  520945 Guarinos                                    520945                            
+    104  520960 Heitoraí                                    520960                            
+    105  520970 Hidrolândia                                 520970                            
+    106  520980 Hidrolina                                   520980                            
+    107  520990 Iaciara                                     520990                            
+    108  520993 Inaciolândia                                520993                            
+    109  520995 Indiara                                     520995                            
+    110  521000 Inhumas                                     521000                            
+    111  521010 Ipameri                                     521010                            
+    112  521015 Ipiranga de Goiás                           521015                            
+    113  521020 Iporá                                       521020                            
+    114  521030 Israelândia                                 521030                            
+    115  521040 Itaberaí                                    521040                            
+    116  521056 Itaguari                                    521056                            
+    117  521060 Itaguaru                                    521060                            
+    118  521080 Itajá                                       521080                            
+    119  521090 Itapaci                                     521090                            
+    120  521100 Itapirapuã                                  521100                            
+    121  521120 Itapuranga                                  521120                            
+    122  521130 Itarumã                                     521130                            
+    123  521140 Itauçu                                      521140                            
+    124  521150 Itumbiara                                   521150                            
+    125  521160 Ivolândia                                   521160                            
+    126  521170 Jandaia                                     521170                            
+    127  521180 Jaraguá                                     521180                            
+    128  521190 Jataí                                       521190                            
+    129  521200 Jaupaci                                     521200                            
+    130  521205 Jesúpolis                                   521205                            
+    131  521210 Joviânia                                    521210                            
+    132  521220 Jussara                                     521220                            
+    133  521225 Lagoa Santa                                 521225                            
+    134  521230 Leopoldo de Bulhões                         521230                            
+    135  521250 Luziânia                                    521250                            
+    136  521260 Mairipotaba                                 521260                            
+    137  521270 Mambaí                                      521270                            
+    138  521280 Mara Rosa                                   521280                            
+    139  521290 Marzagão                                    521290                            
+    140  521295 Matrinchã                                   521295                            
+    141  521300 Maurilândia                                 521300                            
+    142  521305 Mimoso de Goiás                             521305                            
+    143  521308 Minaçu                                      521308                            
+    144  521310 Mineiros                                    521310                            
+    145  521340 Moiporá                                     521340                            
+    146  521350 Monte Alegre de Goiás                       521350                            
+    147  521370 Montes Claros de Goiás                      521370                            
+    148  521375 Montividiu                                  521375                            
+    149  521377 Montividiu do Norte                         521377                            
+    150  521380 Morrinhos                                   521380                            
+    151  521385 Morro Agudo de Goiás                        521385                            
+    152  521390 Mossâmedes                                  521390                            
+    153  521400 Mozarlândia                                 521400                            
+    154  521405 Mundo Novo                                  521405                            
+    155  521410 Mutunópolis                                 521410                            
+    156  521440 Nazário                                     521440                            
+    157  521450 Nerópolis                                   521450                            
+    158  521460 Niquelândia                                 521460                            
+    159  521470 Nova América                                521470                            
+    160  521480 Nova Aurora                                 521480                            
+    161  521483 Nova Crixás                                 521483                            
+    162  521486 Nova Glória                                 521486                            
+    163  521487 Nova Iguaçu de Goiás                        521487                            
+    164  521490 Nova Roma                                   521490                            
+    165  521500 Nova Veneza                                 521500                            
+    166  521520 Novo Brasil                                 521520                            
+    167  521523 Novo Gama                                   521523                            
+    168  521525 Novo Planalto                               521525                            
+    169  521530 Orizona                                     521530                            
+    170  521540 Ouro Verde de Goiás                         521540                            
+    171  521550 Ouvidor                                     521550                            
+    172  521560 Padre Bernardo                              521560                            
+    173  521565 Palestina de Goiás                          521565                            
+    174  521570 Palmeiras de Goiás                          521570                            
+    175  521580 Palmelo                                     521580                            
+    176  521590 Palminópolis                                521590                            
+    177  521600 Panamá                                      521600                            
+    178  521630 Paranaiguara                                521630                            
+    179  521640 Paraúna                                     521640                            
+    180  521645 Perolândia                                  521645                            
+    181  521680 Petrolina de Goiás                          521680                            
+    182  521690 Pilar de Goiás                              521690                            
+    183  521710 Piracanjuba                                 521710                            
+    184  521720 Piranhas                                    521720                            
+    185  521730 Pirenópolis                                 521730                            
+    186  521740 Pires do Rio                                521740                            
+    187  521760 Planaltina                                  521760                            
+    188  521770 Pontalina                                   521770                            
+    189  521800 Porangatu                                   521800                            
+    190  521805 Porteirão                                   521805                            
+    191  521810 Portelândia                                 521810                            
+    192  521830 Posse                                       521830                            
+    193  521839 Professor Jamil                             521839                            
+    194  521850 Quirinópolis                                521850                            
+    195  521860 Rialma                                      521860                            
+    196  521870 Rianápolis                                  521870                            
+    197  521878 Rio Quente                                  521878                            
+    198  521880 Rio Verde                                   521880                            
+    199  521890 Rubiataba                                   521890                            
+    200  521900 Sanclerlândia                               521900                            
+    201  521910 Santa Bárbara de Goiás                      521910                            
+    202  521920 Santa Cruz de Goiás                         521920                            
+    203  521925 Santa Fé de Goiás                           521925                            
+    204  521930 Santa Helena de Goiás                       521930                            
+    205  521935 Santa Isabel                                521935                            
+    206  521940 Santa Rita do Araguaia                      521940                            
+    207  521945 Santa Rita do Novo Destino                  521945                            
+    208  521950 Santa Rosa de Goiás                         521950                            
+    209  521960 Santa Tereza de Goiás                       521960                            
+    210  521970 Santa Terezinha de Goiás                    521970                            
+    211  521971 Santo Antônio da Barra                      521971                            
+    212  521973 Santo Antônio de Goiás                      521973                            
+    213  521975 Santo Antônio do Descoberto                 521975                            
+    214  521980 São Domingos                                521980                            
+    215  521990 São Francisco de Goiás                      521990                            
+    216  522000 São João d'Aliança                          522000                            
+    217  522005 São João da Paraúna                         522005                            
+    218  522010 São Luís de Montes Belos                    522010                            
+    219  522015 São Luíz do Norte                           522015                            
+    220  522020 São Miguel do Araguaia                      522020                            
+    221  522026 São Miguel do Passa Quatro                  522026                            
+    222  522028 São Patrício                                522028                            
+    223  522040 São Simão                                   522040                            
+    224  522045 Senador Canedo                              522045                            
+    225  522050 Serranópolis                                522050                            
+    226  522060 Silvânia                                    522060                            
+    227  522068 Simolândia                                  522068                            
+    228  522070 Sítio d'Abadia                              522070                            
+    229  522100 Taquaral de Goiás                           522100                            
+    230  522108 Teresina de Goiás                           522108                            
+    231  522119 Terezópolis de Goiás                        522119                            
+    232  522130 Três Ranchos                                522130                            
+    233  522140 Trindade                                    522140                            
+    234  522145 Trombas                                     522145                            
+    235  522150 Turvânia                                    522150                            
+    236  522155 Turvelândia                                 522155                            
+    237  522157 Uirapuru                                    522157                            
+    238  522160 Uruaçu                                      522160                            
+    239  522170 Uruana                                      522170                            
+    240  522180 Urutaí                                      522180                            
+    241  522185 Valparaíso de Goiás                         522185                            
+    242  522190 Varjão                                      522190                            
+    243  522200 Vianópolis                                  522200                            
+    244  522205 Vicentinópolis                              522205                            
+    245  522220 Vila Boa                                    522220                            
+    246  522230 Vila Propício                               522230                            
+    247  520040 Almas (transf. p/TO)                        520040                            
+    248  520070 Alvorada (transf. p/TO)                     520070                            
+    249  520100 Ananás (transf. p/TO)                       520100                            
+    250  520190 Araguacema (transf. p/TO)                   520190                            
+    251  520200 Araguaçu (transf. p/TO)                     520200                            
+    252  520210 Araguaína (transf. p/TO)                    520210                            
+    253  520220 Araguatins (transf. p/TO)                   520220                            
+    254  520230 Arapoema (transf. p/TO)                     520230                            
+    255  520240 Arraias (transf. p/TO)                      520240                            
+    256  520255 Augustinópolis (transf. p/TO)               520255                            
+    257  520270 Aurora do Norte (transf. p/TO)              520270                            
+    258  520290 Axixá de Goiás (transf. p/TO)               520290                            
+    259  520300 Babaçulândia (transf. p/TO)                 520300                            
+    260  520370 Brejinho de Nazaré (transf. p/TO)           520370                            
+    261  520550 Colinas de Goiás (transf. p/TO)             520550                            
+    262  521670 Colméia (transf. p/TO)                      521670                            
+    263  520560 Conceição do Norte (transf. p/TO)           520560                            
+    264  520600 Couto de Magalhães (transf. p/TO)           520600                            
+    265  520610 Cristalândia (transf. p/TO)                 520610                            
+    266  520700 Dianópolis (transf. p/TO)                   520700                            
+    267  520720 Dois Irmãos (transf. p/TO)                  520720                            
+    268  520730 Dueré (transf. p/TO)                        520730                            
+    269  520755 Fátima (transf. p/TO)                       520755                            
+    270  520765 Figueirópolis (transf. p/TO)                520765                            
+    271  520770 Filadélfia (transf. p/TO)                   520770                            
+    272  520820 Formoso do Araguaia (transf. p/TO)          520820                            
+    273  520900 Goiatins (transf. p/TO)                     520900                            
+    274  520930 Guaraí (transf. p/TO)                       520930                            
+    275  520950 Gurupi (transf. p/TO)                       520950                            
+    276  521050 Itacajá (transf. p/TO)                      521050                            
+    277  521070 Itaguatins (transf. p/TO)                   521070                            
+    278  521110 Itaporã de Goiás (transf. p/TO)             521110                            
+    279  521240 Lizarda (transf. p/TO)                      521240                            
+    280  521320 Miracema do Norte (transf. p/TO)            521320                            
+    281  521330 Miranorte (transf. p/TO)                    521330                            
+    282  521360 Monte do Carmo (transf. p/TO)               521360                            
+    283  521420 Natividade (transf. p/TO)                   521420                            
+    284  521430 Nazaré (transf. p/TO)                       521430                            
+    285  521488 Nova Olinda (transf. p/TO)                  521488                            
+    286  521510 Novo Acordo (transf. p/TO)                  521510                            
+    287  521575 Palmeirópolis (transf. p/TO)                521575                            
+    288  521610 Paraíso do Norte de Goiás (transf. p/TO)    521610                            
+    289  521620 Paranã (transf. p/TO)                       521620                            
+    290  521650 Pedro Afonso (transf. p/TO)                 521650                            
+    291  521660 Peixe (transf. p/TO)                        521660                            
+    292  521700 Pindorama de Goiás (transf. p/TO)           521700                            
+    293  521750 Pium (transf. p/TO)                         521750                            
+    294  521780 Ponte Alta do Bom Jesus (transf. p/TO)      521780                            
+    295  521790 Ponte Alta do Norte (transf. p/TO)          521790                            
+    296  521820 Porto Nacional (transf. p/TO)               521820                            
+    297  521840 Presidente Kennedy (transf. p/TO)           521840                            
+    298  521875 Rio Sono (transf. p/TO)                     521875                            
+    299  522030 São Sebastião do Tocantins (transf. p/TO)   522030                            
+    300  522065 Silvanópolis (transf. p/TO)                 522065                            
+    301  522080 Sítio Novo de Goiás (transf. p/TO)          522080                            
+    302  522090 Taguatinga (transf. p/TO)                   522090                            
+    303  522110 Tocantínia (transf. p/TO)                   522110                            
+    304  522120 Tocantinópolis (transf. p/TO)               522120                            
+    305  522208 Wanderlândia (transf. p/TO)                 522208                            
+    306  522210 Xambioá (transf. p/TO)                      522210                            
+    307  520000 Município ignorado - GO                     520000,529999                     
+

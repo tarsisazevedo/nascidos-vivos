@@ -1,0 +1,144 @@
+    142  6                                                                                    
+      1  510010 Acorizal                                    510010                            
+      2  510020 Água Boa                                    510020                            
+      3  510025 Alta Floresta                               510025                            
+      4  510030 Alto Araguaia                               510030                            
+      5  510035 Alto Boa Vista                              510035                            
+      6  510040 Alto Garças                                 510040                            
+      7  510050 Alto Paraguai                               510050                            
+      8  510060 Alto Taquari                                510060                            
+      9  510080 Apiacás                                     510080                            
+     10  510100 Araguaiana                                  510100                            
+     11  510120 Araguainha                                  510120                            
+     12  510125 Araputanga                                  510125                            
+     13  510130 Arenápolis                                  510130                            
+     14  510140 Aripuanã                                    510140                            
+     15  510160 Barão de Melgaço                            510160                            
+     16  510170 Barra do Bugres                             510170                            
+     17  510180 Barra do Garças                             510180                            
+     18  510185 Bom Jesus do Araguaia                       510185                            
+     19  510190 Brasnorte                                   510190                            
+     20  510250 Cáceres                                     510250                            
+     21  510260 Campinápolis                                510260                            
+     22  510263 Campo Novo do Parecis                       510263                            
+     23  510267 Campo Verde                                 510267                            
+     24  510268 Campos de Júlio                             510268                            
+     25  510269 Canabrava do Norte                          510269                            
+     26  510270 Canarana                                    510270                            
+     27  510279 Carlinda                                    510279                            
+     28  510285 Castanheira                                 510285                            
+     29  510300 Chapada dos Guimarães                       510300                            
+     30  510305 Cláudia                                     510305                            
+     31  510310 Cocalinho                                   510310                            
+     32  510320 Colíder                                     510320                            
+     33  510325 Colniza                                     510325                            
+     34  510330 Comodoro                                    510330                            
+     35  510335 Confresa                                    510335                            
+     36  510336 Conquista D'Oeste                           510336                            
+     37  510337 Cotriguaçu                                  510337                            
+     38  510340 Cuiabá                                      510340                            
+     39  510343 Curvelândia                                 510343                            
+     40  510345 Denise                                      510345                            
+     41  510350 Diamantino                                  510350                            
+     42  510360 Dom Aquino                                  510360                            
+     43  510370 Feliz Natal                                 510370                            
+     44  510380 Figueirópolis D'Oeste                       510380                            
+     45  510385 Gaúcha do Norte                             510385                            
+     46  510390 General Carneiro                            510390                            
+     47  510395 Glória D'Oeste                              510395                            
+     48  510410 Guarantã do Norte                           510410                            
+     49  510420 Guiratinga                                  510420                            
+     50  510450 Indiavaí                                    510450                            
+     51  510452 Ipiranga do Norte                           510452                            
+     52  510454 Itanhangá                                   510454,510445                     
+     53  510455 Itaúba                                      510455                            
+     54  510460 Itiquira                                    510460                            
+     55  510480 Jaciara                                     510480                            
+     56  510490 Jangada                                     510490                            
+     57  510500 Jauru                                       510500                            
+     58  510510 Juara                                       510510                            
+     59  510515 Juína                                       510515                            
+     60  510517 Juruena                                     510517                            
+     61  510520 Juscimeira                                  510520                            
+     62  510523 Lambari D'Oeste                             510523                            
+     63  510525 Lucas do Rio Verde                          510525                            
+     64  510530 Luciara                                     510530                            
+     65  510558 Marcelândia                                 510558                            
+     66  510560 Matupá                                      510560                            
+     67  510562 Mirassol d'Oeste                            510562                            
+     68  510590 Nobres                                      510590                            
+     69  510600 Nortelândia                                 510600                            
+     70  510610 Nossa Senhora do Livramento                 510610                            
+     71  510615 Nova Bandeirantes                           510615                            
+     72  510620 Nova Brasilândia                            510620                            
+     73  510621 Nova Canaã do Norte                         510621                            
+     74  510880 Nova Guarita                                510880                            
+     75  510618 Nova Lacerda                                510618                            
+     76  510885 Nova Marilândia                             510885                            
+     77  510890 Nova Maringá                                510890                            
+     78  510895 Nova Monte Verde                            510895                            
+     79  510622 Nova Mutum                                  510622                            
+     80  510617 Nova Nazaré                                 510617                            
+     81  510623 Nova Olímpia                                510623                            
+     82  510619 Nova Santa Helena                           510619                            
+     83  510624 Nova Ubiratã                                510624                            
+     84  510625 Nova Xavantina                              510625                            
+     85  510627 Novo Horizonte do Norte                     510627                            
+     86  510626 Novo Mundo                                  510626                            
+     87  510631 Novo Santo Antônio                          510631                            
+     88  510628 Novo São Joaquim                            510628                            
+     89  510629 Paranaíta                                   510629                            
+     90  510630 Paranatinga                                 510630                            
+     91  510637 Pedra Preta                                 510637                            
+     92  510642 Peixoto de Azevedo                          510642                            
+     93  510645 Planalto da Serra                           510645                            
+     94  510650 Poconé                                      510650                            
+     95  510665 Pontal do Araguaia                          510665                            
+     96  510670 Ponte Branca                                510670                            
+     97  510675 Pontes e Lacerda                            510675                            
+     98  510677 Porto Alegre do Norte                       510677                            
+     99  510680 Porto dos Gaúchos                           510680                            
+    100  510682 Porto Esperidião                            510682                            
+    101  510685 Porto Estrela                               510685                            
+    102  510700 Poxoréo                                     510700                            
+    103  510704 Primavera do Leste                          510704                            
+    104  510706 Querência                                   510706                            
+    105  510715 Reserva do Cabaçal                          510715                            
+    106  510718 Ribeirão Cascalheira                        510718                            
+    107  510719 Ribeirãozinho                               510719                            
+    108  510720 Rio Branco                                  510720                            
+    109  510757 Rondolândia                                 510757                            
+    110  510760 Rondonópolis                                510760                            
+    111  510770 Rosário Oeste                               510770                            
+    112  510775 Salto do Céu                                510775                            
+    113  510724 Santa Carmem                                510724                            
+    114  510774 Santa Cruz do Xingu                         510774                            
+    115  510776 Santa Rita do Trivelato                     510776                            
+    116  510777 Santa Terezinha                             510777                            
+    117  510726 Santo Afonso                                510726                            
+    118  510779 Santo Antônio do Leste                      510779                            
+    119  510780 Santo Antônio do Leverger                   510780                            
+    120  510785 São Félix do Araguaia                       510785                            
+    121  510729 São José do Povo                            510729                            
+    122  510730 São José do Rio Claro                       510730                            
+    123  510735 São José do Xingu                           510735                            
+    124  510710 São José dos Quatro Marcos                  510710                            
+    125  510740 São Pedro da Cipa                           510740                            
+    126  510787 Sapezal                                     510787                            
+    127  510788 Serra Nova Dourada                          510788                            
+    128  510790 Sinop                                       510790                            
+    129  510792 Sorriso                                     510792                            
+    130  510794 Tabaporã                                    510794                            
+    131  510795 Tangará da Serra                            510795                            
+    132  510800 Tapurah                                     510800                            
+    133  510805 Terra Nova do Norte                         510805                            
+    134  510810 Tesouro                                     510810                            
+    135  510820 Torixoréu                                   510820                            
+    136  510830 União do Sul                                510830                            
+    137  510835 Vale de São Domingos                        510835                            
+    138  510840 Várzea Grande                               510840                            
+    139  510850 Vera                                        510850                            
+    140  510550 Vila Bela da Santíssima Trindade            510550                            
+    141  510860 Vila Rica                                   510860                            
+    142  510000 Município ignorado - MT                     510000,519999                     
+

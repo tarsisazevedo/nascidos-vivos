@@ -1,0 +1,142 @@
+    140  6                                                                                    
+      1  170025 Abreulândia                                 170025                            
+      2  170030 Aguiarnópolis                               170030                            
+      3  170035 Aliança do Tocantins                        170035                            
+      4  170040 Almas                                       170040                            
+      5  170070 Alvorada                                    170070                            
+      6  170100 Ananás                                      170100                            
+      7  170105 Angico                                      170105                            
+      8  170110 Aparecida do Rio Negro                      170110                            
+      9  170130 Aragominas                                  170130                            
+     10  170190 Araguacema                                  170190                            
+     11  170200 Araguaçu                                    170200                            
+     12  170210 Araguaína                                   170210                            
+     13  170215 Araguanã                                    170215                            
+     14  170220 Araguatins                                  170220                            
+     15  170230 Arapoema                                    170230                            
+     16  170240 Arraias                                     170240                            
+     17  170255 Augustinópolis                              170255                            
+     18  170270 Aurora do Tocantins                         170270                            
+     19  170290 Axixá do Tocantins                          170290                            
+     20  170300 Babaçulândia                                170300                            
+     21  170305 Bandeirantes do Tocantins                   170305                            
+     22  170307 Barra do Ouro                               170307                            
+     23  170310 Barrolândia                                 170310                            
+     24  170320 Bernardo Sayão                              170320                            
+     25  170330 Bom Jesus do Tocantins                      170330                            
+     26  170360 Brasilândia do Tocantins                    170360                            
+     27  170370 Brejinho de Nazaré                          170370                            
+     28  170380 Buriti do Tocantins                         170380                            
+     29  170382 Cachoeirinha                                170382                            
+     30  170384 Campos Lindos                               170384                            
+     31  170386 Cariri do Tocantins                         170386                            
+     32  170388 Carmolândia                                 170388                            
+     33  170389 Carrasco Bonito                             170389                            
+     34  170390 Caseara                                     170390                            
+     35  170410 Centenário                                  170410                            
+     36  170510 Chapada da Natividade                       170510                            
+     37  170460 Chapada de Areia                            170460                            
+     38  170550 Colinas do Tocantins                        170550                            
+     39  171670 Colméia                                     171670                            
+     40  170555 Combinado                                   170555                            
+     41  170560 Conceição do Tocantins                      170560                            
+     42  170600 Couto Magalhães                             170600                            
+     43  170610 Cristalândia                                170610                            
+     44  170625 Crixás do Tocantins                         170625                            
+     45  170650 Darcinópolis                                170650                            
+     46  170700 Dianópolis                                  170700                            
+     47  170710 Divinópolis do Tocantins                    170710                            
+     48  170720 Dois Irmãos do Tocantins                    170720                            
+     49  170730 Dueré                                       170730                            
+     50  170740 Esperantina                                 170740                            
+     51  170755 Fátima                                      170755                            
+     52  170765 Figueirópolis                               170765                            
+     53  170770 Filadélfia                                  170770                            
+     54  170820 Formoso do Araguaia                         170820                            
+     55  170825 Fortaleza do Tabocão                        170825                            
+     56  170830 Goianorte                                   170830                            
+     57  170900 Goiatins                                    170900                            
+     58  170930 Guaraí                                      170930                            
+     59  170950 Gurupi                                      170950                            
+     60  170980 Ipueiras                                    170980                            
+     61  171050 Itacajá                                     171050                            
+     62  171070 Itaguatins                                  171070                            
+     63  171090 Itapiratins                                 171090                            
+     64  171110 Itaporã do Tocantins                        171110                            
+     65  171150 Jaú do Tocantins                            171150                            
+     66  171180 Juarina                                     171180                            
+     67  171190 Lagoa da Confusão                           171190                            
+     68  171195 Lagoa do Tocantins                          171195                            
+     69  171200 Lajeado                                     171200                            
+     70  171215 Lavandeira                                  171215                            
+     71  171240 Lizarda                                     171240                            
+     72  171245 Luzinópolis                                 171245                            
+     73  171250 Marianópolis do Tocantins                   171250                            
+     74  171270 Mateiros                                    171270                            
+     75  171280 Maurilândia do Tocantins                    171280                            
+     76  171320 Miracema do Tocantins                       171320                            
+     77  171330 Miranorte                                   171330                            
+     78  171360 Monte do Carmo                              171360                            
+     79  171370 Monte Santo do Tocantins                    171370                            
+     80  171395 Muricilândia                                171395                            
+     81  171420 Natividade                                  171420                            
+     82  171430 Nazaré                                      171430                            
+     83  171488 Nova Olinda                                 171488                            
+     84  171500 Nova Rosalândia                             171500                            
+     85  171510 Novo Acordo                                 171510                            
+     86  171515 Novo Alegre                                 171515                            
+     87  171525 Novo Jardim                                 171525                            
+     88  171550 Oliveira de Fátima                          171550                            
+     89  172100 Palmas                                      172100                            
+     90  171570 Palmeirante                                 171570                            
+     91  171380 Palmeiras do Tocantins                      171380                            
+     92  171575 Palmeirópolis                               171575                            
+     93  171610 Paraíso do Tocantins                        171610                            
+     94  171620 Paranã                                      171620                            
+     95  171630 Pau D'Arco                                  171630                            
+     96  171650 Pedro Afonso                                171650                            
+     97  171660 Peixe                                       171660                            
+     98  171665 Pequizeiro                                  171665                            
+     99  171700 Pindorama do Tocantins                      171700                            
+    100  171720 Piraquê                                     171720                            
+    101  171750 Pium                                        171750                            
+    102  171780 Ponte Alta do Bom Jesus                     171780                            
+    103  171790 Ponte Alta do Tocantins                     171790                            
+    104  171800 Porto Alegre do Tocantins                   171800                            
+    105  171820 Porto Nacional                              171820                            
+    106  171830 Praia Norte                                 171830                            
+    107  171840 Presidente Kennedy                          171840                            
+    108  171845 Pugmil                                      171845                            
+    109  171850 Recursolândia                               171850                            
+    110  171855 Riachinho                                   171855                            
+    111  171865 Rio da Conceição                            171865                            
+    112  171870 Rio dos Bois                                171870                            
+    113  171875 Rio Sono                                    171875                            
+    114  171880 Sampaio                                     171880                            
+    115  171884 Sandolândia                                 171884                            
+    116  171886 Santa Fé do Araguaia                        171886                            
+    117  171888 Santa Maria do Tocantins                    171888                            
+    118  171889 Santa Rita do Tocantins                     171889                            
+    119  171890 Santa Rosa do Tocantins                     171890                            
+    120  171900 Santa Tereza do Tocantins                   171900                            
+    121  172000 Santa Terezinha do Tocantins                172000                            
+    122  172010 São Bento do Tocantins                      172010                            
+    123  172015 São Félix do Tocantins                      172015                            
+    124  172020 São Miguel do Tocantins                     172020                            
+    125  172025 São Salvador do Tocantins                   172025                            
+    126  172030 São Sebastião do Tocantins                  172030                            
+    127  172049 São Valério da Natividade                   172049                            
+    128  172065 Silvanópolis                                172065                            
+    129  172080 Sítio Novo do Tocantins                     172080                            
+    130  172085 Sucupira                                    172085                            
+    131  172090 Taguatinga                                  172090                            
+    132  172093 Taipas do Tocantins                         172093                            
+    133  172097 Talismã                                     172097                            
+    134  172110 Tocantínia                                  172110                            
+    135  172120 Tocantinópolis                              172120                            
+    136  172125 Tupirama                                    172125                            
+    137  172130 Tupiratins                                  172130                            
+    138  172208 Wanderlândia                                172208                            
+    139  172210 Xambioá                                     172210                            
+    140  170000 Município ignorado - TO                     170000,179999,170172,171350,172206
+

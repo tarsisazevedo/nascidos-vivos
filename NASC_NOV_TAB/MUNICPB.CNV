@@ -1,0 +1,226 @@
+    224  6                                                                                    
+      1  250010 Água Branca                                 250010                            
+      2  250020 Aguiar                                      250020                            
+      3  250030 Alagoa Grande                               250030                            
+      4  250040 Alagoa Nova                                 250040                            
+      5  250050 Alagoinha                                   250050,250502                     
+      6  250053 Alcantil                                    250053                            
+      7  250057 Algodão de Jandaíra                         250057                            
+      8  250060 Alhandra                                    250060                            
+      9  250073 Amparo                                      250073                            
+     10  250077 Aparecida                                   250077                            
+     11  250080 Araçagi                                     250080                            
+     12  250090 Arara                                       250090,250908                     
+     13  250100 Araruna                                     250100                            
+     14  250110 Areia                                       250110                            
+     15  250115 Areia de Baraúnas                           250115                            
+     16  250120 Areial                                      250120                            
+     17  250130 Aroeiras                                    250130                            
+     18  250135 Assunção                                    250135                            
+     19  250140 Baía da Traição                             250140                            
+     20  250150 Bananeiras                                  250150                            
+     21  250153 Baraúna                                     250153                            
+     22  250160 Barra de Santa Rosa                         250160                            
+     23  250157 Barra de Santana                            250157                            
+     24  250170 Barra de São Miguel                         250170                            
+     25  250180 Bayeux                                      250180                            
+     26  250190 Belém                                       250190                            
+     27  250200 Belém do Brejo do Cruz                      250200                            
+     28  250205 Bernardino Batista                          250205                            
+     29  250210 Boa Ventura                                 250210                            
+     30  250215 Boa Vista                                   250215                            
+     31  250220 Bom Jesus                                   250220                            
+     32  250230 Bom Sucesso                                 250230                            
+     33  250240 Bonito de Santa Fé                          250240                            
+     34  250250 Boqueirão                                   250250                            
+     35  250270 Borborema                                   250270                            
+     36  250280 Brejo do Cruz                               250280                            
+     37  250290 Brejo dos Santos                            250290                            
+     38  250300 Caaporã                                     250300                            
+     39  250310 Cabaceiras                                  250310                            
+     40  250320 Cabedelo                                    250320                            
+     41  250330 Cachoeira dos Índios                        250330                            
+     42  250340 Cacimba de Areia                            250340                            
+     43  250350 Cacimba de Dentro                           250350                            
+     44  250355 Cacimbas                                    250355                            
+     45  250360 Caiçara                                     250360                            
+     46  250370 Cajazeiras                                  250370                            
+     47  250375 Cajazeirinhas                               250375                            
+     48  250380 Caldas Brandão                              250380                            
+     49  250390 Camalaú                                     250390                            
+     50  250400 Campina Grande                              250400,254009                     
+     51  251640 Campo de Santana                            251640                            
+     52  250403 Capim                                       250403                            
+     53  250407 Caraúbas                                    250407                            
+     54  250410 Carrapateira                                250410                            
+     55  250415 Casserengue                                 250415                            
+     56  250420 Catingueira                                 250420                            
+     57  250430 Catolé do Rocha                             250430                            
+     58  250435 Caturité                                    250435                            
+     59  250440 Conceição                                   250440                            
+     60  250450 Condado                                     250450                            
+     61  250460 Conde                                       250460                            
+     62  250470 Congo                                       250470                            
+     63  250480 Coremas                                     250480                            
+     64  250485 Coxixola                                    250485                            
+     65  250490 Cruz do Espírito Santo                      250490                            
+     66  250500 Cubati                                      250500                            
+     67  250510 Cuité                                       250510                            
+     68  250523 Cuité de Mamanguape                         250523                            
+     69  250520 Cuitegi                                     250520                            
+     70  250527 Curral de Cima                              250527                            
+     71  250530 Curral Velho                                250530                            
+     72  250535 Damião                                      250535                            
+     73  250540 Desterro                                    250540                            
+     74  250560 Diamante                                    250560                            
+     75  250570 Dona Inês                                   250570                            
+     76  250580 Duas Estradas                               250580                            
+     77  250590 Emas                                        250590                            
+     78  250600 Esperança                                   250600                            
+     79  250610 Fagundes                                    250610                            
+     80  250620 Frei Martinho                               250620                            
+     81  250625 Gado Bravo                                  250625                            
+     82  250630 Guarabira                                   250630                            
+     83  250640 Gurinhém                                    250640                            
+     84  250650 Gurjão                                      250650                            
+     85  250660 Ibiara                                      250660                            
+     86  250260 Igaracy                                     250260                            
+     87  250670 Imaculada                                   250670                            
+     88  250680 Ingá                                        250680                            
+     89  250690 Itabaiana                                   250690                            
+     90  250700 Itaporanga                                  250700                            
+     91  250710 Itapororoca                                 250710                            
+     92  250720 Itatuba                                     250720                            
+     93  250730 Jacaraú                                     250730                            
+     94  250740 Jericó                                      250740                            
+     95  250750 João Pessoa                                 250750,257507                     
+     96  250760 Juarez Távora                               250760                            
+     97  250770 Juazeirinho                                 250770                            
+     98  250780 Junco do Seridó                             250780                            
+     99  250790 Juripiranga                                 250790                            
+    100  250800 Juru                                        250800                            
+    101  250810 Lagoa                                       250810                            
+    102  250820 Lagoa de Dentro                             250820                            
+    103  250830 Lagoa Seca                                  250830                            
+    104  250840 Lastro                                      250840                            
+    105  250850 Livramento                                  250850                            
+    106  250855 Logradouro                                  250855                            
+    107  250860 Lucena                                      250860                            
+    108  250870 Mãe d'Água                                  250870                            
+    109  250880 Malta                                       250880                            
+    110  250890 Mamanguape                                  250890                            
+    111  250900 Manaíra                                     250900                            
+    112  250905 Marcação                                    250905                            
+    113  250910 Mari                                        250910                            
+    114  250915 Marizópolis                                 250915                            
+    115  250920 Massaranduba                                250920                            
+    116  250930 Mataraca                                    250930                            
+    117  250933 Matinhas                                    250933                            
+    118  250937 Mato Grosso                                 250937                            
+    119  250939 Maturéia                                    250939                            
+    120  250940 Mogeiro                                     250940                            
+    121  250950 Montadas                                    250950                            
+    122  250960 Monte Horebe                                250960                            
+    123  250970 Monteiro                                    250970                            
+    124  250980 Mulungu                                     250980                            
+    125  250990 Natuba                                      250990                            
+    126  251000 Nazarezinho                                 251000                            
+    127  251010 Nova Floresta                               251010                            
+    128  251020 Nova Olinda                                 251020                            
+    129  251030 Nova Palmeira                               251030                            
+    130  251040 Olho d'Água                                 251040                            
+    131  251050 Olivedos                                    251050                            
+    132  251060 Ouro Velho                                  251060                            
+    133  251065 Parari                                      251065                            
+    134  251070 Passagem                                    251070                            
+    135  251080 Patos                                       251080                            
+    136  251090 Paulista                                    251090                            
+    137  251100 Pedra Branca                                251100                            
+    138  251110 Pedra Lavrada                               251110                            
+    139  251120 Pedras de Fogo                              251120                            
+    140  251272 Pedro Régis                                 251272                            
+    141  251130 Piancó                                      251130                            
+    142  251140 Picuí                                       251140                            
+    143  251150 Pilar                                       251150                            
+    144  251160 Pilões                                      251160                            
+    145  251170 Pilõezinhos                                 251170                            
+    146  251180 Pirpirituba                                 251180                            
+    147  251190 Pitimbu                                     251190                            
+    148  251200 Pocinhos                                    251200                            
+    149  251203 Poço Dantas                                 251203                            
+    150  251207 Poço de José de Moura                       251207                            
+    151  251210 Pombal                                      251210                            
+    152  251220 Prata                                       251220                            
+    153  251230 Princesa Isabel                             251230                            
+    154  251240 Puxinanã                                    251240                            
+    155  251250 Queimadas                                   251250                            
+    156  251260 Quixabá                                     251260                            
+    157  251270 Remígio                                     251270                            
+    158  251274 Riachão                                     251274                            
+    159  251275 Riachão do Bacamarte                        251275                            
+    160  251276 Riachão do Poço                             251276                            
+    161  251278 Riacho de Santo Antônio                     251278                            
+    162  251280 Riacho dos Cavalos                          251280                            
+    163  251290 Rio Tinto                                   251290                            
+    164  251300 Salgadinho                                  251300                            
+    165  251310 Salgado de São Félix                        251310                            
+    166  251315 Santa Cecília                               251315                            
+    167  251320 Santa Cruz                                  251320                            
+    168  251330 Santa Helena                                251330                            
+    169  251335 Santa Inês                                  251335                            
+    170  251340 Santa Luzia                                 251340                            
+    171  251370 Santa Rita                                  251370                            
+    172  251380 Santa Teresinha                             251380                            
+    173  251350 Santana de Mangueira                        251350                            
+    174  251360 Santana dos Garrotes                        251360                            
+    175  251365 Santarém                                    251365                            
+    176  251385 Santo André                                 251385                            
+    177  251392 São Bentinho                                251392                            
+    178  251390 São Bento                                   251390                            
+    179  251396 São Domingos                                251396                            
+    180  251394 São Domingos do Cariri                      251394                            
+    181  251398 São Francisco                               251398                            
+    182  251400 São João do Cariri                          251400                            
+    183  250070 São João do Rio do Peixe                    250070                            
+    184  251410 São João do Tigre                           251410                            
+    185  251420 São José da Lagoa Tapada                    251420                            
+    186  251430 São José de Caiana                          251430                            
+    187  251440 São José de Espinharas                      251440                            
+    188  251450 São José de Piranhas                        251450                            
+    189  251455 São José de Princesa                        251455                            
+    190  251460 São José do Bonfim                          251460                            
+    191  251465 São José do Brejo do Cruz                   251465                            
+    192  251470 São José do Sabugi                          251470                            
+    193  251480 São José dos Cordeiros                      251480                            
+    194  251445 São José dos Ramos                          251445                            
+    195  251490 São Mamede                                  251490                            
+    196  251500 São Miguel de Taipu                         251500                            
+    197  251510 São Sebastião de Lagoa de Roça              251510                            
+    198  251520 São Sebastião do Umbuzeiro                  251520                            
+    199  251530 Sapé                                        251530                            
+    200  251540 Seridó                                      251540                            
+    201  251550 Serra Branca                                251550                            
+    202  251560 Serra da Raiz                               251560                            
+    203  251570 Serra Grande                                251570                            
+    204  251580 Serra Redonda                               251580                            
+    205  251590 Serraria                                    251590                            
+    206  251593 Sertãozinho                                 251593                            
+    207  251597 Sobrado                                     251597                            
+    208  251600 Solânea                                     251600                            
+    209  251610 Soledade                                    251610                            
+    210  251615 Sossêgo                                     251615                            
+    211  251620 Sousa                                       251620                            
+    212  251630 Sumé                                        251630                            
+    213  251650 Taperoá                                     251650                            
+    214  251660 Tavares                                     251660                            
+    215  251670 Teixeira                                    251670                            
+    216  251675 Tenório                                     251675                            
+    217  251680 Triunfo                                     251680                            
+    218  251690 Uiraúna                                     251690                            
+    219  251700 Umbuzeiro                                   251700                            
+    220  251710 Várzea                                      251710                            
+    221  251720 Vieirópolis                                 251720                            
+    222  250550 Vista Serrana                               250550                            
+    223  251740 Zabelê                                      251740                            
+    224  250000 Município ignorado - PB                     250000,259999                     
+

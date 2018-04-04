@@ -1,0 +1,93 @@
+092 3 
+    092  Ignorado                                           000-999
+    001  Procura prim emprego                               001
+    002  Ocup nao identificavel                             002
+    003  Ocup nao declarada                                 003
+    004  Militar                                            004
+    005  Desempregado                                       005
+    006  Estudante                                          006
+    007  Aposentado/pension                                 007
+    008  Dona-de-casa                                       008
+    009  Quimicos/fisicos                                   011-019
+    010  Engenheiro/arquiteto                               021-029
+    011  Tecnico/desenh tecn                                030-039
+    012  Oficial bordo                                      041-043
+    013  Biologista/agron                                   051-053
+    014  Medico/dentista/vet                                061-079
+    015  Estat/mat/anal sist                                081-084
+    016  Economista/admin                                   091-092
+    017  Contador                                           110
+    018  Jurista                                            121-129
+    019  Professor                                          131-149
+    020  Escritor/jorn/locut                                151-159
+    021  Pintor/fotografo                                   161-163
+    022  Musico/artista/prod                                171-179
+    023  Atleta/tecn desport                                181-189
+    024  Out cient/tecnicos                                 191-199
+    025  Sup exec/legisl/jud                                211-214
+    026  Diplomata                                          221
+    027  Diretor empresa                                    231-239
+    028  Gerente empresa                                    241-249
+    029  Chefe interm admin                                 301-309
+    030  Ag admin publica                                   311-319
+    031  Secretario/datilogr                                321-323
+    032  Caixa/trab contab                                  331-339
+    033  Oper maq contab/PD                                 341-343
+    034  Chefe transp/comun                                 351-355
+    035  Desp/fisc transp col                               360
+    036  Carteiro/mensageiro                                370
+    037  Telefonista/telegraf                               380
+    038  Out trab admin                                     391-399
+    039  Comerciante                                        410
+    040  Sup compra/venda                                   421-422
+    041  Ag venda/repr com                                  431-432
+    042  Corretor/vend serv                                 441-443
+    043  Vendedor/comerciario                               451-453
+    044  Out comerciarios                                   490
+    045  Ger hotel/rest/bar                                 500
+    046  Mordomo/governanta                                 520
+    047  Cozinheiro/garcom                                  531-532
+    048  Domestico/comissario                               540-541
+    049  Trab edif/logradouro                               551-552
+    050  Lavadeiro/tintureiro                               560
+    051  Trab higiene/beleza                                570
+    052  Trab prot/seguranca                                581-589
+    053  Out trab servicos                                  591-599
+    054  Admin agrop/florest                                600-601
+    055  Produtor agropec                                   611-612
+    056  Trab agropec poliv                                 621
+    057  Trab agricola espec                                631-639
+    058  Trab pecuaria                                      641-649
+    059  Trab florestal                                     651-659
+    060  Pescador                                           661-669
+    061  Oper maq agropec                                   671-673
+    062  Agente mestria                                     701-704
+    063  Trab minas/sondador                                711-719
+    064  Trab metal/siderurg                                721-729
+    065  Trab madeira/papel                                 731-739
+    066  Oper inst quimica                                  741-749
+    067  Fiandeiro/tecelao                                  751-759
+    068  Trab curtimento                                    761
+    069  Trab alimento/bebida                               771-779
+    070  Trab fumo/cigarro                                  781-783
+    071  Trab costura/estofam                               791-799
+    072  Trab calcado/couro                                 801-803
+    073  Marceneiro/lavra mad                               811-819
+    074  Cort/polidor pedra                                 820
+    075  Trab usinagem metal                                831-839
+    076  Trab mecanico                                      840-849
+    077  Eletricista/eletron                                851-859
+    078  Oper radio/TV/cinema                               861-862
+    079  Encanador/sold/chap                                871-874
+    080  Joalheiro/ourives                                  880
+    081  Vidreiro/ceramista                                 890-899
+    082  Trab prod borr/plast                               901-903
+    083  Conf papel/papelao                                 910
+    084  Trab grafico                                       921-929
+    085  Pintor                                             931-939
+    086  Conf inst music/vime                               941-949
+    087  Trab const civil                                   951-959
+    088  Oper maq fixas                                     961-969
+    089  Trab manip mercador                                971-979
+    090  Condutor veiculo                                   981-989
+    091  Out trab bracais                                   999

@@ -1,0 +1,170 @@
+    168  6                                                                                    
+      1  240010 Acari                                       240010                            
+      2  240020 Açu                                         240020                            
+      3  240030 Afonso Bezerra                              240030                            
+      4  240040 Água Nova                                   240040                            
+      5  240050 Alexandria                                  240050                            
+      6  240060 Almino Afonso                               240060                            
+      7  240070 Alto do Rodrigues                           240070                            
+      8  240080 Angicos                                     240080                            
+      9  240090 Antônio Martins                             240090                            
+     10  240100 Apodi                                       240100                            
+     11  240110 Areia Branca                                240110                            
+     12  240120 Arês                                        240120                            
+     13  240130 Augusto Severo                              240130                            
+     14  240140 Baía Formosa                                240140                            
+     15  240145 Baraúna                                     240145                            
+     16  240150 Barcelona                                   240150                            
+     17  240160 Bento Fernandes                             240160                            
+     18  240165 Bodó                                        240165                            
+     19  240170 Bom Jesus                                   240170                            
+     20  240180 Brejinho                                    240180                            
+     21  240185 Caiçara do Norte                            240185                            
+     22  240190 Caiçara do Rio do Vento                     240190                            
+     23  240200 Caicó                                       240200                            
+     24  240210 Campo Redondo                               240210                            
+     25  240220 Canguaretama                                240220                            
+     26  240230 Caraúbas                                    240230                            
+     27  240240 Carnaúba dos Dantas                         240240                            
+     28  240250 Carnaubais                                  240250                            
+     29  240260 Ceará-Mirim                                 240260                            
+     30  240270 Cerro Corá                                  240270                            
+     31  240280 Coronel Ezequiel                            240280                            
+     32  240290 Coronel João Pessoa                         240290                            
+     33  240300 Cruzeta                                     240300                            
+     34  240310 Currais Novos                               240310                            
+     35  240320 Doutor Severiano                            240320                            
+     36  240330 Encanto                                     240330                            
+     37  240340 Equador                                     240340                            
+     38  240350 Espírito Santo                              240350                            
+     39  240360 Extremoz                                    240360                            
+     40  240370 Felipe Guerra                               240370                            
+     41  240375 Fernando Pedroza                            240375                            
+     42  240380 Florânia                                    240380                            
+     43  240390 Francisco Dantas                            240390                            
+     44  240400 Frutuoso Gomes                              240400                            
+     45  240410 Galinhos                                    240410                            
+     46  240420 Goianinha                                   240420                            
+     47  240430 Governador Dix-Sept Rosado                  240430                            
+     48  240440 Grossos                                     240440                            
+     49  240450 Guamaré                                     240450                            
+     50  240460 Ielmo Marinho                               240460                            
+     51  240470 Ipanguaçu                                   240470                            
+     52  240480 Ipueira                                     240480                            
+     53  240485 Itajá                                       240485                            
+     54  240490 Itaú                                        240490                            
+     55  240500 Jaçanã                                      240500                            
+     56  240510 Jandaíra                                    240510                            
+     57  240520 Janduís                                     240520                            
+     58  240530 Januário Cicco                              240530                            
+     59  240540 Japi                                        240540                            
+     60  240550 Jardim de Angicos                           240550                            
+     61  240560 Jardim de Piranhas                          240560                            
+     62  240570 Jardim do Seridó                            240570                            
+     63  240580 João Câmara                                 240580                            
+     64  240590 João Dias                                   240590                            
+     65  240600 José da Penha                               240600                            
+     66  240610 Jucurutu                                    240610                            
+     67  240615 Jundiá                                      240615                            
+     68  240620 Lagoa d'Anta                                240620                            
+     69  240630 Lagoa de Pedras                             240630                            
+     70  240640 Lagoa de Velhos                             240640                            
+     71  240650 Lagoa Nova                                  240650                            
+     72  240660 Lagoa Salgada                               240660                            
+     73  240670 Lajes                                       240670                            
+     74  240680 Lajes Pintadas                              240680                            
+     75  240690 Lucrécia                                    240690                            
+     76  240700 Luís Gomes                                  240700                            
+     77  240710 Macaíba                                     240710                            
+     78  240720 Macau                                       240720                            
+     79  240725 Major Sales                                 240725                            
+     80  240730 Marcelino Vieira                            240730                            
+     81  240740 Martins                                     240740                            
+     82  240750 Maxaranguape                                240750                            
+     83  240760 Messias Targino                             240760                            
+     84  240770 Montanhas                                   240770                            
+     85  240780 Monte Alegre                                240780                            
+     86  240790 Monte das Gameleiras                        240790                            
+     87  240800 Mossoró                                     240800                            
+     88  240810 Natal                                       240810                            
+     89  240820 Nísia Floresta                              240820                            
+     90  240830 Nova Cruz                                   240830                            
+     91  240840 Olho-d'Água do Borges                       240840                            
+     92  240850 Ouro Branco                                 240850                            
+     93  240860 Paraná                                      240860                            
+     94  240870 Paraú                                       240870                            
+     95  240880 Parazinho                                   240880                            
+     96  240890 Parelhas                                    240890                            
+     97  240325 Parnamirim                                  240325                            
+     98  240910 Passa e Fica                                240910                            
+     99  240920 Passagem                                    240920                            
+    100  240930 Patu                                        240930                            
+    101  240940 Pau dos Ferros                              240940                            
+    102  240950 Pedra Grande                                240950                            
+    103  240960 Pedra Preta                                 240960                            
+    104  240970 Pedro Avelino                               240970                            
+    105  240980 Pedro Velho                                 240980                            
+    106  240990 Pendências                                  240990                            
+    107  241000 Pilões                                      241000                            
+    108  241010 Poço Branco                                 241010                            
+    109  241020 Portalegre                                  241020                            
+    110  241025 Porto do Mangue                             241025                            
+    111  241030 Presidente Juscelino                        241030                            
+    112  241040 Pureza                                      241040                            
+    113  241050 Rafael Fernandes                            241050                            
+    114  241060 Rafael Godeiro                              241060                            
+    115  241070 Riacho da Cruz                              241070                            
+    116  241080 Riacho de Santana                           241080                            
+    117  241090 Riachuelo                                   241090                            
+    118  240895 Rio do Fogo                                 240895                            
+    119  241100 Rodolfo Fernandes                           241100                            
+    120  241110 Ruy Barbosa                                 241110                            
+    121  241120 Santa Cruz                                  241120                            
+    122  240933 Santa Maria                                 240933                            
+    123  241140 Santana do Matos                            241140                            
+    124  241142 Santana do Seridó                           241142                            
+    125  241150 Santo Antônio                               241150                            
+    126  241160 São Bento do Norte                          241160                            
+    127  241170 São Bento do Trairí                         241170                            
+    128  241180 São Fernando                                241180                            
+    129  241190 São Francisco do Oeste                      241190                            
+    130  241200 São Gonçalo do Amarante                     241200                            
+    131  241210 São João do Sabugi                          241210                            
+    132  241220 São José de Mipibu                          241220                            
+    133  241230 São José do Campestre                       241230                            
+    134  241240 São José do Seridó                          241240                            
+    135  241250 São Miguel                                  241250                            
+    136  241255 São Miguel do Gostoso                       241255                            
+    137  241260 São Paulo do Potengi                        241260                            
+    138  241270 São Pedro                                   241270                            
+    139  241280 São Rafael                                  241280                            
+    140  241290 São Tomé                                    241290                            
+    141  241300 São Vicente                                 241300                            
+    142  241310 Senador Elói de Souza                       241310                            
+    143  241320 Senador Georgino Avelino                    241320                            
+    144  241330 Serra de São Bento                          241330                            
+    145  241335 Serra do Mel                                241335                            
+    146  241340 Serra Negra do Norte                        241340                            
+    147  241350 Serrinha                                    241350                            
+    148  241355 Serrinha dos Pintos                         241355                            
+    149  241360 Severiano Melo                              241360                            
+    150  241370 Sítio Novo                                  241370                            
+    151  241380 Taboleiro Grande                            241380                            
+    152  241390 Taipu                                       241390                            
+    153  241400 Tangará                                     241400                            
+    154  241410 Tenente Ananias                             241410                            
+    155  241415 Tenente Laurentino Cruz                     241415                            
+    156  241105 Tibau                                       241105                            
+    157  241420 Tibau do Sul                                241420                            
+    158  241430 Timbaúba dos Batistas                       241430                            
+    159  241440 Touros                                      241440                            
+    160  241445 Triunfo Potiguar                            241445                            
+    161  241450 Umarizal                                    241450                            
+    162  241460 Upanema                                     241460                            
+    163  241470 Várzea                                      241470                            
+    164  241475 Venha-Ver                                   241475                            
+    165  241480 Vera Cruz                                   241480                            
+    166  241490 Viçosa                                      241490                            
+    167  241500 Vila Flor                                   241500                            
+    168  240000 Município ignorado - RN                     240000,249999                     
+

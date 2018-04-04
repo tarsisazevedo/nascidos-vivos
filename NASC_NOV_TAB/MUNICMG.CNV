@@ -1,0 +1,856 @@
+    854  6                                                                                    
+      1  310010 Abadia dos Dourados                         310010                            
+      2  310020 Abaeté                                      310020                            
+      3  310030 Abre Campo                                  310030                            
+      4  310040 Acaiaca                                     310040                            
+      5  310050 Açucena                                     310050                            
+      6  310060 Água Boa                                    310060                            
+      7  310070 Água Comprida                               310070                            
+      8  310080 Aguanil                                     310080                            
+      9  310090 Águas Formosas                              310090                            
+     10  310100 Águas Vermelhas                             310100                            
+     11  310110 Aimorés                                     310110                            
+     12  310120 Aiuruoca                                    310120                            
+     13  310130 Alagoa                                      310130                            
+     14  310140 Albertina                                   310140                            
+     15  310150 Além Paraíba                                310150                            
+     16  310160 Alfenas                                     310160                            
+     17  310163 Alfredo Vasconcelos                         310163                            
+     18  310170 Almenara                                    310170                            
+     19  310180 Alpercata                                   310180                            
+     20  310190 Alpinópolis                                 310190                            
+     21  310200 Alterosa                                    310200                            
+     22  310205 Alto Caparaó                                310205                            
+     23  315350 Alto Jequitibá                              315350                            
+     24  310210 Alto Rio Doce                               310210                            
+     25  310220 Alvarenga                                   310220                            
+     26  310230 Alvinópolis                                 310230                            
+     27  310240 Alvorada de Minas                           310240                            
+     28  310250 Amparo do Serra                             310250                            
+     29  310260 Andradas                                    310260                            
+     30  310280 Andrelândia                                 310280                            
+     31  310285 Angelândia                                  310285                            
+     32  310290 Antônio Carlos                              310290                            
+     33  310300 Antônio Dias                                310300                            
+     34  310310 Antônio Prado de Minas                      310310                            
+     35  310320 Araçaí                                      310320                            
+     36  310330 Aracitaba                                   310330                            
+     37  310340 Araçuaí                                     310340                            
+     38  310350 Araguari                                    310350                            
+     39  310360 Arantina                                    310360                            
+     40  310370 Araponga                                    310370                            
+     41  310375 Araporã                                     310375                            
+     42  310380 Arapuá                                      310380                            
+     43  310390 Araújos                                     310390                            
+     44  310400 Araxá                                       310400                            
+     45  310410 Arceburgo                                   310410                            
+     46  310420 Arcos                                       310420                            
+     47  310430 Areado                                      310430                            
+     48  310440 Argirita                                    310440                            
+     49  310445 Aricanduva                                  310445                            
+     50  310450 Arinos                                      310450                            
+     51  310460 Astolfo Dutra                               310460                            
+     52  310470 Ataléia                                     310470                            
+     53  310480 Augusto de Lima                             310480                            
+     54  310490 Baependi                                    310490                            
+     55  310500 Baldim                                      310500                            
+     56  310510 Bambuí                                      310510                            
+     57  310520 Bandeira                                    310520                            
+     58  310530 Bandeira do Sul                             310530                            
+     59  310540 Barão de Cocais                             310540                            
+     60  310550 Barão de Monte Alto                         310550                            
+     61  310560 Barbacena                                   310560                            
+     62  310570 Barra Longa                                 310570                            
+     63  310590 Barroso                                     310590                            
+     64  310600 Bela Vista de Minas                         310600                            
+     65  310610 Belmiro Braga                               310610                            
+     66  310620 Belo Horizonte                              310620                            
+     67  310630 Belo Oriente                                310630                            
+     68  310640 Belo Vale                                   310640                            
+     69  310650 Berilo                                      310650                            
+     70  310665 Berizal                                     310665                            
+     71  310660 Bertópolis                                  310660                            
+     72  310670 Betim                                       310670                            
+     73  310680 Bias Fortes                                 310680                            
+     74  310690 Bicas                                       310690                            
+     75  310700 Biquinhas                                   310700                            
+     76  310710 Boa Esperança                               310710                            
+     77  310720 Bocaina de Minas                            310720                            
+     78  310730 Bocaiúva                                    310730                            
+     79  310740 Bom Despacho                                310740                            
+     80  310750 Bom Jardim de Minas                         310750                            
+     81  310760 Bom Jesus da Penha                          310760                            
+     82  310770 Bom Jesus do Amparo                         310770                            
+     83  310780 Bom Jesus do Galho                          310780                            
+     84  310790 Bom Repouso                                 310790                            
+     85  310800 Bom Sucesso                                 310800                            
+     86  310810 Bonfim                                      310810                            
+     87  310820 Bonfinópolis de Minas                       310820                            
+     88  310825 Bonito de Minas                             310825                            
+     89  310830 Borda da Mata                               310830                            
+     90  310840 Botelhos                                    310840                            
+     91  310850 Botumirim                                   310850                            
+     92  310870 Brás Pires                                  310870                            
+     93  310855 Brasilândia de Minas                        310855                            
+     94  310860 Brasília de Minas                           310860                            
+     95  310890 Brasópolis                                  310890                            
+     96  310880 Braúnas                                     310880                            
+     97  310900 Brumadinho                                  310900                            
+     98  310910 Bueno Brandão                               310910                            
+     99  310920 Buenópolis                                  310920                            
+    100  310925 Bugre                                       310925                            
+    101  310930 Buritis                                     310930                            
+    102  310940 Buritizeiro                                 310940                            
+    103  310945 Cabeceira Grande                            310945                            
+    104  310950 Cabo Verde                                  310950                            
+    105  310960 Cachoeira da Prata                          310960                            
+    106  310970 Cachoeira de Minas                          310970                            
+    107  310270 Cachoeira de Pajeú                          310270                            
+    108  310980 Cachoeira Dourada                           310980                            
+    109  310990 Caetanópolis                                310990                            
+    110  311000 Caeté                                       311000                            
+    111  311010 Caiana                                      311010                            
+    112  311020 Cajuri                                      311020                            
+    113  311030 Caldas                                      311030                            
+    114  311040 Camacho                                     311040                            
+    115  311050 Camanducaia                                 311050                            
+    116  311060 Cambuí                                      311060                            
+    117  311070 Cambuquira                                  311070                            
+    118  311080 Campanário                                  311080                            
+    119  311090 Campanha                                    311090                            
+    120  311100 Campestre                                   311100                            
+    121  311110 Campina Verde                               311110                            
+    122  311115 Campo Azul                                  311115                            
+    123  311120 Campo Belo                                  311120                            
+    124  311130 Campo do Meio                               311130                            
+    125  311140 Campo Florido                               311140                            
+    126  311150 Campos Altos                                311150                            
+    127  311160 Campos Gerais                               311160                            
+    128  311190 Cana Verde                                  311190                            
+    129  311170 Canaã                                       311170                            
+    130  311180 Canápolis                                   311180                            
+    131  311200 Candeias                                    311200                            
+    132  311205 Cantagalo                                   311205                            
+    133  311210 Caparaó                                     311210                            
+    134  311220 Capela Nova                                 311220                            
+    135  311230 Capelinha                                   311230                            
+    136  311240 Capetinga                                   311240                            
+    137  311250 Capim Branco                                311250                            
+    138  311260 Capinópolis                                 311260                            
+    139  311265 Capitão Andrade                             311265                            
+    140  311270 Capitão Enéas                               311270                            
+    141  311280 Capitólio                                   311280                            
+    142  311290 Caputira                                    311290                            
+    143  311300 Caraí                                       311300                            
+    144  311310 Caranaíba                                   311310                            
+    145  311320 Carandaí                                    311320                            
+    146  311330 Carangola                                   311330                            
+    147  311340 Caratinga                                   311340                            
+    148  311350 Carbonita                                   311350                            
+    149  311360 Careaçu                                     311360                            
+    150  311370 Carlos Chagas                               311370                            
+    151  311380 Carmésia                                    311380                            
+    152  311390 Carmo da Cachoeira                          311390                            
+    153  311400 Carmo da Mata                               311400                            
+    154  311410 Carmo de Minas                              311410                            
+    155  311420 Carmo do Cajuru                             311420                            
+    156  311430 Carmo do Paranaíba                          311430                            
+    157  311440 Carmo do Rio Claro                          311440                            
+    158  311450 Carmópolis de Minas                         311450                            
+    159  311455 Carneirinho                                 311455                            
+    160  311460 Carrancas                                   311460                            
+    161  311470 Carvalhópolis                               311470                            
+    162  311480 Carvalhos                                   311480                            
+    163  311490 Casa Grande                                 311490                            
+    164  311500 Cascalho Rico                               311500                            
+    165  311510 Cássia                                      311510                            
+    166  311530 Cataguases                                  311530                            
+    167  311535 Catas Altas                                 311535                            
+    168  311540 Catas Altas da Noruega                      311540                            
+    169  311545 Catuji                                      311545                            
+    170  311547 Catuti                                      311547                            
+    171  311550 Caxambu                                     311550                            
+    172  311560 Cedro do Abaeté                             311560                            
+    173  311570 Central de Minas                            311570                            
+    174  311580 Centralina                                  311580                            
+    175  311590 Chácara                                     311590                            
+    176  311600 Chalé                                       311600                            
+    177  311610 Chapada do Norte                            311610                            
+    178  311615 Chapada Gaúcha                              311615                            
+    179  311620 Chiador                                     311620                            
+    180  311630 Cipotânea                                   311630                            
+    181  311640 Claraval                                    311640                            
+    182  311650 Claro dos Poções                            311650                            
+    183  311660 Cláudio                                     311660                            
+    184  311670 Coimbra                                     311670                            
+    185  311680 Coluna                                      311680                            
+    186  311690 Comendador Gomes                            311690                            
+    187  311700 Comercinho                                  311700                            
+    188  311710 Conceição da Aparecida                      311710                            
+    189  311520 Conceição da Barra de Minas                 311520                            
+    190  311730 Conceição das Alagoas                       311730                            
+    191  311720 Conceição das Pedras                        311720                            
+    192  311740 Conceição de Ipanema                        311740                            
+    193  311750 Conceição do Mato Dentro                    311750                            
+    194  311760 Conceição do Pará                           311760                            
+    195  311770 Conceição do Rio Verde                      311770                            
+    196  311780 Conceição dos Ouros                         311780                            
+    197  311783 Cônego Marinho                              311783                            
+    198  311787 Confins                                     311787                            
+    199  311790 Congonhal                                   311790                            
+    200  311800 Congonhas                                   311800                            
+    201  311810 Congonhas do Norte                          311810                            
+    202  311820 Conquista                                   311820                            
+    203  311830 Conselheiro Lafaiete                        311830                            
+    204  311840 Conselheiro Pena                            311840                            
+    205  311850 Consolação                                  311850                            
+    206  311860 Contagem                                    311860                            
+    207  311870 Coqueiral                                   311870                            
+    208  311880 Coração de Jesus                            311880                            
+    209  311890 Cordisburgo                                 311890                            
+    210  311900 Cordislândia                                311900                            
+    211  311910 Corinto                                     311910                            
+    212  311920 Coroaci                                     311920                            
+    213  311930 Coromandel                                  311930                            
+    214  311940 Coronel Fabriciano                          311940                            
+    215  311950 Coronel Murta                               311950                            
+    216  311960 Coronel Pacheco                             311960                            
+    217  311970 Coronel Xavier Chaves                       311970                            
+    218  311980 Córrego Danta                               311980                            
+    219  311990 Córrego do Bom Jesus                        311990                            
+    220  311995 Córrego Fundo                               311995                            
+    221  312000 Córrego Novo                                312000                            
+    222  312010 Couto de Magalhães de Minas                 312010                            
+    223  312015 Crisólita                                   312015                            
+    224  312020 Cristais                                    312020                            
+    225  312030 Cristália                                   312030                            
+    226  312040 Cristiano Otoni                             312040                            
+    227  312050 Cristina                                    312050                            
+    228  312060 Crucilândia                                 312060                            
+    229  312070 Cruzeiro da Fortaleza                       312070                            
+    230  312080 Cruzília                                    312080                            
+    231  312083 Cuparaque                                   312083                            
+    232  312087 Curral de Dentro                            312087                            
+    233  312090 Curvelo                                     312090                            
+    234  312100 Datas                                       312100                            
+    235  312110 Delfim Moreira                              312110                            
+    236  312120 Delfinópolis                                312120                            
+    237  312125 Delta                                       312125                            
+    238  312130 Descoberto                                  312130                            
+    239  312140 Desterro de Entre Rios                      312140                            
+    240  312150 Desterro do Melo                            312150                            
+    241  312160 Diamantina                                  312160                            
+    242  312170 Diogo de Vasconcelos                        312170                            
+    243  312180 Dionísio                                    312180                            
+    244  312190 Divinésia                                   312190                            
+    245  312200 Divino                                      312200                            
+    246  312210 Divino das Laranjeiras                      312210                            
+    247  312220 Divinolândia de Minas                       312220                            
+    248  312230 Divinópolis                                 312230                            
+    249  312235 Divisa Alegre                               312235                            
+    250  312240 Divisa Nova                                 312240                            
+    251  312245 Divisópolis                                 312245                            
+    252  312247 Dom Bosco                                   312247                            
+    253  312250 Dom Cavati                                  312250                            
+    254  312260 Dom Joaquim                                 312260                            
+    255  312270 Dom Silvério                                312270                            
+    256  312280 Dom Viçoso                                  312280                            
+    257  312290 Dona Eusébia                                312290                            
+    258  312300 Dores de Campos                             312300                            
+    259  312310 Dores de Guanhães                           312310                            
+    260  312320 Dores do Indaiá                             312320                            
+    261  312330 Dores do Turvo                              312330                            
+    262  312340 Doresópolis                                 312340                            
+    263  312350 Douradoquara                                312350                            
+    264  312352 Durandé                                     312352                            
+    265  312360 Elói Mendes                                 312360                            
+    266  312370 Engenheiro Caldas                           312370                            
+    267  312380 Engenheiro Navarro                          312380                            
+    268  312385 Entre Folhas                                312385                            
+    269  312390 Entre Rios de Minas                         312390                            
+    270  312400 Ervália                                     312400                            
+    271  312410 Esmeraldas                                  312410                            
+    272  312420 Espera Feliz                                312420                            
+    273  312430 Espinosa                                    312430                            
+    274  312440 Espírito Santo do Dourado                   312440                            
+    275  312450 Estiva                                      312450                            
+    276  312460 Estrela Dalva                               312460                            
+    277  312470 Estrela do Indaiá                           312470                            
+    278  312480 Estrela do Sul                              312480                            
+    279  312490 Eugenópolis                                 312490                            
+    280  312500 Ewbank da Câmara                            312500                            
+    281  312510 Extrema                                     312510                            
+    282  312520 Fama                                        312520                            
+    283  312530 Faria Lemos                                 312530                            
+    284  312540 Felício dos Santos                          312540                            
+    285  312560 Felisburgo                                  312560                            
+    286  312570 Felixlândia                                 312570                            
+    287  312580 Fernandes Tourinho                          312580                            
+    288  312590 Ferros                                      312590                            
+    289  312595 Fervedouro                                  312595                            
+    290  312600 Florestal                                   312600                            
+    291  312610 Formiga                                     312610                            
+    292  312620 Formoso                                     312620                            
+    293  312630 Fortaleza de Minas                          312630                            
+    294  312640 Fortuna de Minas                            312640                            
+    295  312650 Francisco Badaró                            312650                            
+    296  312660 Francisco Dumont                            312660                            
+    297  312670 Francisco Sá                                312670                            
+    298  312675 Franciscópolis                              312675                            
+    299  312680 Frei Gaspar                                 312680                            
+    300  312690 Frei Inocêncio                              312690                            
+    301  312695 Frei Lagonegro                              312695                            
+    302  312700 Fronteira                                   312700                            
+    303  312705 Fronteira dos Vales                         312705                            
+    304  312707 Fruta de Leite                              312707                            
+    305  312710 Frutal                                      312710                            
+    306  312720 Funilândia                                  312720                            
+    307  312730 Galiléia                                    312730                            
+    308  312733 Gameleiras                                  312733                            
+    309  312735 Glaucilândia                                312735                            
+    310  312737 Goiabeira                                   312737                            
+    311  312738 Goianá                                      312738                            
+    312  312740 Gonçalves                                   312740                            
+    313  312750 Gonzaga                                     312750                            
+    314  312760 Gouveia                                     312760                            
+    315  312770 Governador Valadares                        312770                            
+    316  312780 Grão Mogol                                  312780                            
+    317  312790 Grupiara                                    312790                            
+    318  312800 Guanhães                                    312800                            
+    319  312810 Guapé                                       312810                            
+    320  312820 Guaraciaba                                  312820                            
+    321  312825 Guaraciama                                  312825                            
+    322  312830 Guaranésia                                  312830                            
+    323  312840 Guarani                                     312840                            
+    324  312850 Guarará                                     312850                            
+    325  312860 Guarda-Mor                                  312860                            
+    326  312870 Guaxupé                                     312870                            
+    327  312880 Guidoval                                    312880                            
+    328  312890 Guimarânia                                  312890                            
+    329  312900 Guiricema                                   312900                            
+    330  312910 Gurinhatã                                   312910                            
+    331  312920 Heliodora                                   312920                            
+    332  312930 Iapu                                        312930                            
+    333  312940 Ibertioga                                   312940                            
+    334  312950 Ibiá                                        312950                            
+    335  312960 Ibiaí                                       312960                            
+    336  312965 Ibiracatu                                   312965                            
+    337  312970 Ibiraci                                     312970                            
+    338  312980 Ibirité                                     312980                            
+    339  312990 Ibitiúra de Minas                           312990                            
+    340  313000 Ibituruna                                   313000                            
+    341  313005 Icaraí de Minas                             313005                            
+    342  313010 Igarapé                                     313010                            
+    343  313020 Igaratinga                                  313020                            
+    344  313030 Iguatama                                    313030                            
+    345  313040 Ijaci                                       313040                            
+    346  313050 Ilicínea                                    313050                            
+    347  313055 Imbé de Minas                               313055                            
+    348  313060 Inconfidentes                               313060                            
+    349  313065 Indaiabira                                  313065                            
+    350  313070 Indianópolis                                313070                            
+    351  313080 Ingaí                                       313080                            
+    352  313090 Inhapim                                     313090                            
+    353  313100 Inhaúma                                     313100                            
+    354  313110 Inimutaba                                   313110                            
+    355  313115 Ipaba                                       313115                            
+    356  313120 Ipanema                                     313120                            
+    357  313130 Ipatinga                                    313130                            
+    358  313140 Ipiaçu                                      313140                            
+    359  313150 Ipuiúna                                     313150                            
+    360  313160 Iraí de Minas                               313160                            
+    361  313170 Itabira                                     313170                            
+    362  313180 Itabirinha                                  313180                            
+    363  313190 Itabirito                                   313190                            
+    364  313200 Itacambira                                  313200                            
+    365  313210 Itacarambi                                  313210                            
+    366  313220 Itaguara                                    313220                            
+    367  313230 Itaipé                                      313230                            
+    368  313240 Itajubá                                     313240                            
+    369  313250 Itamarandiba                                313250                            
+    370  313260 Itamarati de Minas                          313260                            
+    371  313270 Itambacuri                                  313270                            
+    372  313280 Itambé do Mato Dentro                       313280                            
+    373  313290 Itamogi                                     313290                            
+    374  313300 Itamonte                                    313300                            
+    375  313310 Itanhandu                                   313310                            
+    376  313320 Itanhomi                                    313320                            
+    377  313330 Itaobim                                     313330                            
+    378  313340 Itapagipe                                   313340                            
+    379  313350 Itapecerica                                 313350                            
+    380  313360 Itapeva                                     313360                            
+    381  313370 Itatiaiuçu                                  313370                            
+    382  313375 Itaú de Minas                               313375                            
+    383  313380 Itaúna                                      313380                            
+    384  313390 Itaverava                                   313390                            
+    385  313400 Itinga                                      313400                            
+    386  313410 Itueta                                      313410                            
+    387  313420 Ituiutaba                                   313420                            
+    388  313430 Itumirim                                    313430                            
+    389  313440 Iturama                                     313440                            
+    390  313450 Itutinga                                    313450                            
+    391  313460 Jaboticatubas                               313460                            
+    392  313470 Jacinto                                     313470                            
+    393  313480 Jacuí                                       313480                            
+    394  313490 Jacutinga                                   313490                            
+    395  313500 Jaguaraçu                                   313500                            
+    396  313505 Jaíba                                       313505                            
+    397  313507 Jampruca                                    313507                            
+    398  313510 Janaúba                                     313510                            
+    399  313520 Januária                                    313520                            
+    400  313530 Japaraíba                                   313530                            
+    401  313535 Japonvar                                    313535                            
+    402  313540 Jeceaba                                     313540                            
+    403  313545 Jenipapo de Minas                           313545                            
+    404  313550 Jequeri                                     313550                            
+    405  313560 Jequitaí                                    313560                            
+    406  313570 Jequitibá                                   313570                            
+    407  313580 Jequitinhonha                               313580                            
+    408  313590 Jesuânia                                    313590                            
+    409  313600 Joaíma                                      313600                            
+    410  313610 Joanésia                                    313610                            
+    411  313620 João Monlevade                              313620                            
+    412  313630 João Pinheiro                               313630                            
+    413  313640 Joaquim Felício                             313640                            
+    414  313650 Jordânia                                    313650                            
+    415  313652 José Gonçalves de Minas                     313652                            
+    416  313655 José Raydan                                 313655                            
+    417  313657 Josenópolis                                 313657                            
+    418  313665 Juatuba                                     313665                            
+    419  313670 Juiz de Fora                                313670                            
+    420  313680 Juramento                                   313680                            
+    421  313690 Juruaia                                     313690                            
+    422  313695 Juvenília                                   313695                            
+    423  313700 Ladainha                                    313700                            
+    424  313710 Lagamar                                     313710                            
+    425  313720 Lagoa da Prata                              313720                            
+    426  313730 Lagoa dos Patos                             313730                            
+    427  313740 Lagoa Dourada                               313740                            
+    428  313750 Lagoa Formosa                               313750                            
+    429  313753 Lagoa Grande                                313753                            
+    430  313760 Lagoa Santa                                 313760                            
+    431  313770 Lajinha                                     313770                            
+    432  313780 Lambari                                     313780                            
+    433  313790 Lamim                                       313790                            
+    434  313800 Laranjal                                    313800                            
+    435  313810 Lassance                                    313810                            
+    436  313820 Lavras                                      313820                            
+    437  313830 Leandro Ferreira                            313830                            
+    438  313835 Leme do Prado                               313835                            
+    439  313840 Leopoldina                                  313840                            
+    440  313850 Liberdade                                   313850                            
+    441  313860 Lima Duarte                                 313860                            
+    442  313862 Limeira do Oeste                            313862                            
+    443  313865 Lontra                                      313865                            
+    444  313867 Luisburgo                                   313867                            
+    445  313868 Luislândia                                  313868                            
+    446  313870 Luminárias                                  313870                            
+    447  313880 Luz                                         313880                            
+    448  313890 Machacalis                                  313890                            
+    449  313900 Machado                                     313900                            
+    450  313910 Madre de Deus de Minas                      313910                            
+    451  313920 Malacacheta                                 313920                            
+    452  313925 Mamonas                                     313925                            
+    453  313930 Manga                                       313930                            
+    454  313940 Manhuaçu                                    313940                            
+    455  313950 Manhumirim                                  313950                            
+    456  313960 Mantena                                     313960                            
+    457  313980 Mar de Espanha                              313980                            
+    458  313970 Maravilhas                                  313970                            
+    459  313990 Maria da Fé                                 313990                            
+    460  314000 Mariana                                     314000                            
+    461  314010 Marilac                                     314010                            
+    462  314015 Mário Campos                                314015                            
+    463  314020 Maripá de Minas                             314020                            
+    464  314030 Marliéria                                   314030                            
+    465  314040 Marmelópolis                                314040                            
+    466  314050 Martinho Campos                             314050                            
+    467  314053 Martins Soares                              314053                            
+    468  314055 Mata Verde                                  314055                            
+    469  314060 Materlândia                                 314060                            
+    470  314070 Mateus Leme                                 314070                            
+    471  317150 Mathias Lobato                              317150                            
+    472  314080 Matias Barbosa                              314080                            
+    473  314085 Matias Cardoso                              314085                            
+    474  314090 Matipó                                      314090                            
+    475  314100 Mato Verde                                  314100                            
+    476  314110 Matozinhos                                  314110                            
+    477  314120 Matutina                                    314120                            
+    478  314130 Medeiros                                    314130                            
+    479  314140 Medina                                      314140                            
+    480  314150 Mendes Pimentel                             314150                            
+    481  314160 Mercês                                      314160                            
+    482  314170 Mesquita                                    314170                            
+    483  314180 Minas Novas                                 314180                            
+    484  314190 Minduri                                     314190                            
+    485  314200 Mirabela                                    314200                            
+    486  314210 Miradouro                                   314210                            
+    487  314220 Miraí                                       314220                            
+    488  314225 Miravânia                                   314225                            
+    489  314230 Moeda                                       314230                            
+    490  314240 Moema                                       314240                            
+    491  314250 Monjolos                                    314250                            
+    492  314260 Monsenhor Paulo                             314260                            
+    493  314270 Montalvânia                                 314270                            
+    494  314280 Monte Alegre de Minas                       314280                            
+    495  314290 Monte Azul                                  314290                            
+    496  314300 Monte Belo                                  314300                            
+    497  314310 Monte Carmelo                               314310                            
+    498  314315 Monte Formoso                               314315                            
+    499  314320 Monte Santo de Minas                        314320                            
+    500  314340 Monte Sião                                  314340                            
+    501  314330 Montes Claros                               314330                            
+    502  314345 Montezuma                                   314345                            
+    503  314350 Morada Nova de Minas                        314350                            
+    504  314360 Morro da Garça                              314360                            
+    505  314370 Morro do Pilar                              314370                            
+    506  314380 Munhoz                                      314380                            
+    507  314390 Muriaé                                      314390                            
+    508  314400 Mutum                                       314400                            
+    509  314410 Muzambinho                                  314410                            
+    510  314420 Nacip Raydan                                314420                            
+    511  314430 Nanuque                                     314430                            
+    512  314435 Naque                                       314435                            
+    513  314437 Natalândia                                  314437                            
+    514  314440 Natércia                                    314440                            
+    515  314450 Nazareno                                    314450                            
+    516  314460 Nepomuceno                                  314460                            
+    517  314465 Ninheira                                    314465                            
+    518  314467 Nova Belém                                  314467                            
+    519  314470 Nova Era                                    314470                            
+    520  314480 Nova Lima                                   314480                            
+    521  314490 Nova Módica                                 314490                            
+    522  314500 Nova Ponte                                  314500                            
+    523  314505 Nova Porteirinha                            314505                            
+    524  314510 Nova Resende                                314510                            
+    525  314520 Nova Serrana                                314520                            
+    526  313660 Nova União                                  313660                            
+    527  314530 Novo Cruzeiro                               314530                            
+    528  314535 Novo Oriente de Minas                       314535                            
+    529  314537 Novorizonte                                 314537                            
+    530  314540 Olaria                                      314540                            
+    531  314545 Olhos-d'Água                                314545                            
+    532  314550 Olímpio Noronha                             314550                            
+    533  314560 Oliveira                                    314560                            
+    534  314570 Oliveira Fortes                             314570                            
+    535  314580 Onça de Pitangui                            314580                            
+    536  314585 Oratórios                                   314585                            
+    537  314587 Orizânia                                    314587                            
+    538  314590 Ouro Branco                                 314590                            
+    539  314600 Ouro Fino                                   314600                            
+    540  314610 Ouro Preto                                  314610                            
+    541  314620 Ouro Verde de Minas                         314620                            
+    542  314625 Padre Carvalho                              314625                            
+    543  314630 Padre Paraíso                               314630                            
+    544  314655 Pai Pedro                                   314655                            
+    545  314640 Paineiras                                   314640                            
+    546  314650 Pains                                       314650                            
+    547  314660 Paiva                                       314660                            
+    548  314670 Palma                                       314670                            
+    549  314675 Palmópolis                                  314675                            
+    550  314690 Papagaios                                   314690                            
+    551  314710 Pará de Minas                               314710                            
+    552  314700 Paracatu                                    314700                            
+    553  314720 Paraguaçu                                   314720                            
+    554  314730 Paraisópolis                                314730                            
+    555  314740 Paraopeba                                   314740                            
+    556  314760 Passa Quatro                                314760                            
+    557  314770 Passa Tempo                                 314770                            
+    558  314780 Passa-Vinte                                 314780                            
+    559  314750 Passabém                                    314750                            
+    560  314790 Passos                                      314790                            
+    561  314795 Patis                                       314795                            
+    562  314800 Patos de Minas                              314800                            
+    563  314810 Patrocínio                                  314810                            
+    564  314820 Patrocínio do Muriaé                        314820                            
+    565  314830 Paula Cândido                               314830                            
+    566  314840 Paulistas                                   314840                            
+    567  314850 Pavão                                       314850                            
+    568  314860 Peçanha                                     314860                            
+    569  314870 Pedra Azul                                  314870                            
+    570  314875 Pedra Bonita                                314875                            
+    571  314880 Pedra do Anta                               314880                            
+    572  314890 Pedra do Indaiá                             314890                            
+    573  314900 Pedra Dourada                               314900                            
+    574  314910 Pedralva                                    314910                            
+    575  314915 Pedras de Maria da Cruz                     314915                            
+    576  314920 Pedrinópolis                                314920                            
+    577  314930 Pedro Leopoldo                              314930                            
+    578  314940 Pedro Teixeira                              314940                            
+    579  314950 Pequeri                                     314950                            
+    580  314960 Pequi                                       314960                            
+    581  314970 Perdigão                                    314970                            
+    582  314980 Perdizes                                    314980                            
+    583  314990 Perdões                                     314990                            
+    584  314995 Periquito                                   314995                            
+    585  315000 Pescador                                    315000                            
+    586  315010 Piau                                        315010                            
+    587  315015 Piedade de Caratinga                        315015                            
+    588  315020 Piedade de Ponte Nova                       315020                            
+    589  315030 Piedade do Rio Grande                       315030                            
+    590  315040 Piedade dos Gerais                          315040                            
+    591  315050 Pimenta                                     315050                            
+    592  315053 Pingo-d'Água                                315053                            
+    593  315057 Pintópolis                                  315057                            
+    594  315060 Piracema                                    315060                            
+    595  315070 Pirajuba                                    315070                            
+    596  315080 Piranga                                     315080                            
+    597  315090 Piranguçu                                   315090                            
+    598  315100 Piranguinho                                 315100                            
+    599  315110 Pirapetinga                                 315110                            
+    600  315120 Pirapora                                    315120                            
+    601  315130 Piraúba                                     315130                            
+    602  315140 Pitangui                                    315140                            
+    603  315150 Piumhi                                      315150                            
+    604  315160 Planura                                     315160                            
+    605  315170 Poço Fundo                                  315170                            
+    606  315180 Poços de Caldas                             315180                            
+    607  315190 Pocrane                                     315190                            
+    608  315200 Pompéu                                      315200                            
+    609  315210 Ponte Nova                                  315210                            
+    610  315213 Ponto Chique                                315213                            
+    611  315217 Ponto dos Volantes                          315217                            
+    612  315220 Porteirinha                                 315220                            
+    613  315230 Porto Firme                                 315230                            
+    614  315240 Poté                                        315240                            
+    615  315250 Pouso Alegre                                315250                            
+    616  315260 Pouso Alto                                  315260                            
+    617  315270 Prados                                      315270                            
+    618  315280 Prata                                       315280                            
+    619  315290 Pratápolis                                  315290                            
+    620  315300 Pratinha                                    315300                            
+    621  315310 Presidente Bernardes                        315310                            
+    622  315320 Presidente Juscelino                        315320                            
+    623  315330 Presidente Kubitschek                       315330                            
+    624  315340 Presidente Olegário                         315340                            
+    625  315360 Prudente de Morais                          315360                            
+    626  315370 Quartel Geral                               315370                            
+    627  315380 Queluzito                                   315380                            
+    628  315390 Raposos                                     315390                            
+    629  315400 Raul Soares                                 315400                            
+    630  315410 Recreio                                     315410                            
+    631  315415 Reduto                                      315415                            
+    632  315420 Resende Costa                               315420                            
+    633  315430 Resplendor                                  315430                            
+    634  315440 Ressaquinha                                 315440                            
+    635  315445 Riachinho                                   315445                            
+    636  315450 Riacho dos Machados                         315450                            
+    637  315460 Ribeirão das Neves                          315460                            
+    638  315470 Ribeirão Vermelho                           315470                            
+    639  315480 Rio Acima                                   315480                            
+    640  315490 Rio Casca                                   315490                            
+    641  315510 Rio do Prado                                315510                            
+    642  315500 Rio Doce                                    315500                            
+    643  315520 Rio Espera                                  315520                            
+    644  315530 Rio Manso                                   315530                            
+    645  315540 Rio Novo                                    315540                            
+    646  315550 Rio Paranaíba                               315550                            
+    647  315560 Rio Pardo de Minas                          315560                            
+    648  315570 Rio Piracicaba                              315570                            
+    649  315580 Rio Pomba                                   315580                            
+    650  315590 Rio Preto                                   315590                            
+    651  315600 Rio Vermelho                                315600                            
+    652  315610 Ritápolis                                   315610                            
+    653  315620 Rochedo de Minas                            315620                            
+    654  315630 Rodeiro                                     315630                            
+    655  315640 Romaria                                     315640                            
+    656  315645 Rosário da Limeira                          315645                            
+    657  315650 Rubelita                                    315650                            
+    658  315660 Rubim                                       315660                            
+    659  315670 Sabará                                      315670                            
+    660  315680 Sabinópolis                                 315680                            
+    661  315690 Sacramento                                  315690                            
+    662  315700 Salinas                                     315700                            
+    663  315710 Salto da Divisa                             315710                            
+    664  315720 Santa Bárbara                               315720                            
+    665  315725 Santa Bárbara do Leste                      315725                            
+    666  315727 Santa Bárbara do Monte Verde                315727                            
+    667  315730 Santa Bárbara do Tugúrio                    315730                            
+    668  315733 Santa Cruz de Minas                         315733                            
+    669  315737 Santa Cruz de Salinas                       315737                            
+    670  315740 Santa Cruz do Escalvado                     315740                            
+    671  315750 Santa Efigênia de Minas                     315750                            
+    672  315760 Santa Fé de Minas                           315760                            
+    673  315765 Santa Helena de Minas                       315765                            
+    674  315770 Santa Juliana                               315770                            
+    675  315780 Santa Luzia                                 315780                            
+    676  315790 Santa Margarida                             315790                            
+    677  315800 Santa Maria de Itabira                      315800                            
+    678  315810 Santa Maria do Salto                        315810                            
+    679  315820 Santa Maria do Suaçuí                       315820                            
+    680  315920 Santa Rita de Caldas                        315920                            
+    681  315940 Santa Rita de Ibitipoca                     315940                            
+    682  315930 Santa Rita de Jacutinga                     315930                            
+    683  315935 Santa Rita de Minas                         315935                            
+    684  315950 Santa Rita do Itueto                        315950                            
+    685  315960 Santa Rita do Sapucaí                       315960                            
+    686  315970 Santa Rosa da Serra                         315970                            
+    687  315980 Santa Vitória                               315980                            
+    688  315830 Santana da Vargem                           315830                            
+    689  315840 Santana de Cataguases                       315840                            
+    690  315850 Santana de Pirapama                         315850                            
+    691  315860 Santana do Deserto                          315860                            
+    692  315870 Santana do Garambéu                         315870                            
+    693  315880 Santana do Jacaré                           315880                            
+    694  315890 Santana do Manhuaçu                         315890                            
+    695  315895 Santana do Paraíso                          315895                            
+    696  315900 Santana do Riacho                           315900                            
+    697  315910 Santana dos Montes                          315910                            
+    698  315990 Santo Antônio do Amparo                     315990                            
+    699  316000 Santo Antônio do Aventureiro                316000                            
+    700  316010 Santo Antônio do Grama                      316010                            
+    701  316020 Santo Antônio do Itambé                     316020                            
+    702  316030 Santo Antônio do Jacinto                    316030                            
+    703  316040 Santo Antônio do Monte                      316040                            
+    704  316045 Santo Antônio do Retiro                     316045                            
+    705  316050 Santo Antônio do Rio Abaixo                 316050                            
+    706  316060 Santo Hipólito                              316060                            
+    707  316070 Santos Dumont                               316070                            
+    708  316080 São Bento Abade                             316080                            
+    709  316090 São Brás do Suaçuí                          316090                            
+    710  316095 São Domingos das Dores                      316095                            
+    711  316100 São Domingos do Prata                       316100                            
+    712  316105 São Félix de Minas                          316105                            
+    713  316110 São Francisco                               316110                            
+    714  316120 São Francisco de Paula                      316120                            
+    715  316130 São Francisco de Sales                      316130                            
+    716  316140 São Francisco do Glória                     316140                            
+    717  316150 São Geraldo                                 316150                            
+    718  316160 São Geraldo da Piedade                      316160                            
+    719  316165 São Geraldo do Baixio                       316165                            
+    720  316170 São Gonçalo do Abaeté                       316170                            
+    721  316180 São Gonçalo do Pará                         316180                            
+    722  316190 São Gonçalo do Rio Abaixo                   316190                            
+    723  312550 São Gonçalo do Rio Preto                    312550                            
+    724  316200 São Gonçalo do Sapucaí                      316200                            
+    725  316210 São Gotardo                                 316210                            
+    726  316220 São João Batista do Glória                  316220                            
+    727  316225 São João da Lagoa                           316225                            
+    728  316230 São João da Mata                            316230                            
+    729  316240 São João da Ponte                           316240                            
+    730  316245 São João das Missões                        316245                            
+    731  316250 São João del Rei                            316250                            
+    732  316255 São João do Manhuaçu                        316255                            
+    733  316257 São João do Manteninha                      316257                            
+    734  316260 São João do Oriente                         316260                            
+    735  316265 São João do Pacuí                           316265                            
+    736  316270 São João do Paraíso                         316270                            
+    737  316280 São João Evangelista                        316280                            
+    738  316290 São João Nepomuceno                         316290                            
+    739  316292 São Joaquim de Bicas                        316292                            
+    740  316294 São José da Barra                           316294                            
+    741  316295 São José da Lapa                            316295                            
+    742  316300 São José da Safira                          316300                            
+    743  316310 São José da Varginha                        316310                            
+    744  316320 São José do Alegre                          316320                            
+    745  316330 São José do Divino                          316330                            
+    746  316340 São José do Goiabal                         316340                            
+    747  316350 São José do Jacuri                          316350                            
+    748  316360 São José do Mantimento                      316360                            
+    749  316370 São Lourenço                                316370                            
+    750  316380 São Miguel do Anta                          316380                            
+    751  316390 São Pedro da União                          316390                            
+    752  316410 São Pedro do Suaçuí                         316410                            
+    753  316400 São Pedro dos Ferros                        316400                            
+    754  316420 São Romão                                   316420                            
+    755  316430 São Roque de Minas                          316430                            
+    756  316440 São Sebastião da Bela Vista                 316440                            
+    757  316443 São Sebastião da Vargem Alegre              316443                            
+    758  316447 São Sebastião do Anta                       316447                            
+    759  316450 São Sebastião do Maranhão                   316450                            
+    760  316460 São Sebastião do Oeste                      316460                            
+    761  316470 São Sebastião do Paraíso                    316470                            
+    762  316480 São Sebastião do Rio Preto                  316480                            
+    763  316490 São Sebastião do Rio Verde                  316490                            
+    764  316520 São Thomé das Letras                        316520                            
+    765  316500 São Tiago                                   316500                            
+    766  316510 São Tomás de Aquino                         316510                            
+    767  316530 São Vicente de Minas                        316530                            
+    768  316540 Sapucaí-Mirim                               316540                            
+    769  316550 Sardoá                                      316550                            
+    770  316553 Sarzedo                                     316553                            
+    771  316556 Sem-Peixe                                   316556                            
+    772  316557 Senador Amaral                              316557                            
+    773  316560 Senador Cortes                              316560                            
+    774  316570 Senador Firmino                             316570                            
+    775  316580 Senador José Bento                          316580                            
+    776  316590 Senador Modestino Gonçalves                 316590                            
+    777  316600 Senhora de Oliveira                         316600                            
+    778  316610 Senhora do Porto                            316610                            
+    779  316620 Senhora dos Remédios                        316620                            
+    780  316630 Sericita                                    316630                            
+    781  316640 Seritinga                                   316640                            
+    782  316650 Serra Azul de Minas                         316650                            
+    783  316660 Serra da Saudade                            316660                            
+    784  316680 Serra do Salitre                            316680                            
+    785  316670 Serra dos Aimorés                           316670                            
+    786  316690 Serrania                                    316690                            
+    787  316695 Serranópolis de Minas                       316695                            
+    788  316700 Serranos                                    316700                            
+    789  316710 Serro                                       316710                            
+    790  316720 Sete Lagoas                                 316720                            
+    791  316555 Setubinha                                   316555                            
+    792  316730 Silveirânia                                 316730                            
+    793  316740 Silvianópolis                               316740                            
+    794  316750 Simão Pereira                               316750                            
+    795  316760 Simonésia                                   316760                            
+    796  316770 Sobrália                                    316770                            
+    797  316780 Soledade de Minas                           316780                            
+    798  316790 Tabuleiro                                   316790                            
+    799  316800 Taiobeiras                                  316800                            
+    800  316805 Taparuba                                    316805                            
+    801  316810 Tapira                                      316810                            
+    802  316820 Tapiraí                                     316820                            
+    803  316830 Taquaraçu de Minas                          316830                            
+    804  316840 Tarumirim                                   316840                            
+    805  316850 Teixeiras                                   316850                            
+    806  316860 Teófilo Otoni                               316860                            
+    807  316870 Timóteo                                     316870                            
+    808  316880 Tiradentes                                  316880                            
+    809  316890 Tiros                                       316890                            
+    810  316900 Tocantins                                   316900                            
+    811  316905 Tocos do Moji                               316905                            
+    812  316910 Toledo                                      316910                            
+    813  316920 Tombos                                      316920                            
+    814  316930 Três Corações                               316930                            
+    815  316935 Três Marias                                 316935                            
+    816  316940 Três Pontas                                 316940                            
+    817  316950 Tumiritinga                                 316950                            
+    818  316960 Tupaciguara                                 316960                            
+    819  316970 Turmalina                                   316970                            
+    820  316980 Turvolândia                                 316980                            
+    821  316990 Ubá                                         316990                            
+    822  317000 Ubaí                                        317000                            
+    823  317005 Ubaporanga                                  317005                            
+    824  317010 Uberaba                                     317010                            
+    825  317020 Uberlândia                                  317020                            
+    826  317030 Umburatiba                                  317030                            
+    827  317040 Unaí                                        317040                            
+    828  317043 União de Minas                              317043                            
+    829  317047 Uruana de Minas                             317047                            
+    830  317050 Urucânia                                    317050                            
+    831  317052 Urucuia                                     317052                            
+    832  317057 Vargem Alegre                               317057                            
+    833  317060 Vargem Bonita                               317060                            
+    834  317065 Vargem Grande do Rio Pardo                  317065                            
+    835  317070 Varginha                                    317070                            
+    836  317075 Varjão de Minas                             317075                            
+    837  317080 Várzea da Palma                             317080                            
+    838  317090 Varzelândia                                 317090                            
+    839  317100 Vazante                                     317100                            
+    840  317103 Verdelândia                                 317103                            
+    841  317107 Veredinha                                   317107                            
+    842  317110 Veríssimo                                   317110                            
+    843  317115 Vermelho Novo                               317115                            
+    844  317120 Vespasiano                                  317120                            
+    845  317130 Viçosa                                      317130                            
+    846  317140 Vieiras                                     317140                            
+    847  317160 Virgem da Lapa                              317160                            
+    848  317170 Virgínia                                    317170                            
+    849  317180 Virginópolis                                317180                            
+    850  317190 Virgolândia                                 317190                            
+    851  317200 Visconde do Rio Branco                      317200                            
+    852  317210 Volta Grande                                317210                            
+    853  317220 Wenceslau Braz                              317220                            
+    854  310000 Município ignorado - MG                     310000,319999                     
+

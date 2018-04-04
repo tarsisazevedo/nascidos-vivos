@@ -1,0 +1,13 @@
+12 4  L
+      1  Membros das Forcas Armadas, Polic e Bombeiros      0101-0312
+      2  Membros Superiores do Poder Publico                1111-1499
+      3  Profissionais das ciencias e artes                 2011-2650
+      4  Tecnicos de nivel medio                            3001-3960
+      5  Trabalhadores servicos administrativos             4101-4250
+      6  Trab serv, Vendedores comercio e lojas             5100-5250
+      7  Trab agropec, florestais e pescaa                  6100-6450
+      8  Trab da producao de bens e serv industriais        7100-8659
+      9  Trab em servicos de reparacao e manutencao         9100-9922
+     10  Ignorada                                           9989
+     11  Codigos de exclusao                                9999
+     12  Nao Informada                                          ,

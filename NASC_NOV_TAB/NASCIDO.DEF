@@ -1,0 +1,294 @@
+; Nascidos Vivos - Brasil
+A\sinasc\dn??????.dbc
+; Definições para Ano e Mes do Nascimento
+;
+XAno do Nascimento,     DTNASC,  5,  ANO.CNV
+XMes do Nascimento,     DTNASC,  3,  MESES.CNV
+XMes do Cadastro-06,    DTCADASTRO, 3, MESANO.CNV
+XMes Recebimento-06,    DTRECEBIM,  3, MESANO.CNV
+;
+; Definições do Local de Ocorrencia
+;
+TLocal Ocorrencia, LOCNASC, 1, LOCOCOR.CNV
+SLocal Ocorrencia, LOCNASC, 1, LOCOCOR.CNV
+;
+; Definições para Sexo
+;
+DSexo,    SEXO,    1,  SEXO.CNV
+SSexo,    SEXO,    1,  SEXO.CNV
+CSexo,    SEXO,    1,  SEXOC.CNV 
+;  
+; Definições para Peso ao Nascer
+;
+LPeso ao Nascer,        PESO, 1, PESO.CNV
+CPeso ao Nascer,        PESO, 1, PESO.CNV
+SPeso ao Nascer,        PESO, 1, PESO.CNV
+LPeso ao Nascer(6),     PESO, 1, PESO1.CNV
+CPeso ao Nascer(6),     PESO, 1, PESO1.CNV
+SPeso (6),              PESO, 1, PESO1.CNV
+;
+; Definições para APGAR
+;
+LApgar 1º Minuto,  APGAR1, 1, APGAR.CNV
+LApgar 5º Minuto,  APGAR5, 1, APGAR.CNV
+CApgar 1º Minuto,  APGAR1, 1, APGAR.CNV
+CApgar 5º Minuto,  APGAR5, 1, APGAR.CNV
+;
+XHora nascimento,  HORANASC, 1, HORA.CNV
+;
+; Idade da mae
+;
+CFx Etaria Mae,    IDADEMAE, 1, FXIDADZ.CNV
+CFx.Etaria Mae(5), IDADEMAE, 1, IDADE5.CNV
+SFx.Etaria (5),    IDADEMAE, 1, IDADE5.CNV
+CFx.Padrão Mãe,    IDADEMAE, 1, IDADEMAE.CNV
+SFx.Padrão,        IDADEMAE, 1, IDADEMAE.CNV
+LFx.Et Detalhada,  IDADEMAE, 1, IDADET.CNV
+CFx Etaria 11,     IDADEMAE, 1, FXTABNET.CNV
+SFx.Et Detalhada,  IDADEMAE, 1, IDADET.CNV
+CFx.Mae adolescen, IDADEMAE, 1, IDADOL.CNV
+SFx.Mae adolescen, IDADEMAE, 1, IDADOL.CNV
+;
+SOcupacao Mae,     CODOCUPMAE, 1,  CBO2002.CNV
+LOcupacao Mae,     CODOCUPMAE, 1,  CBO2002.CNV
+LOcup Grande Grupo,CODOCUPMAE, 1,  GRUPO1.CNV
+SOcup Grande Grupo,CODOCUPMAE, 1,  GRUPO1.CNV
+LOcup Subgrupo 3d, CODOCUPMAE, 1,  GRUPO3.CNV
+SOcup Subgrupo 3d, CODOCUPMAE, 1,  GRUPO3.CNV
+LOc Subgrupo Princ,CODOCUPMAE, 1,  GRUPO2.CNV
+SOc Subgrupo Princ,CODOCUPMAE, 1,  GRUPO2.CNV
+LOcupac Familia 4d,CODOCUPMAE, 1,  GRUPO4.CNV
+SOcupac Familia 4d,CODOCUPMAE, 1,  GRUPO4.CNV
+LOcup Mae ate 2005,CODOCUPMAE, 1,  OCUPACAO.CNV
+; Definições para Duracao da Gestacao
+;
+XGestacao,           GESTACAO,  1,  SEMANAS.CNV
+;
+; Definições para Tipo de Gravidez
+;
+XTipo de Gravidez,   GRAVIDEZ,   1,  GRAVIDEZ.CNV 
+;
+; Definições para Tipo de Parto
+;
+XTipo de Parto,     PARTO,       1,  PARTO.CNV 
+;
+; Definições para Número de consultas Pré-Natal
+;
+XConsultas,         CONSULTAS,    1, CONSULT.CNV
+;
+LEstab Saude 2006,  CODESTAB,     1, ESTAB06.CNV
+SEstab Saude 2006,  CODESTAB,     1, ESTAB06.CNV
+XEsfera Admin 2006,   CODESTAB,   1, ESFERA.cnv
+LNat Org Estab 2006,  CODESTAB,   1, NAT_ORG.CNV
+SNat Org Estab 2006,  CODESTAB,   1, NAT_ORG.CNV
+LEstab Saude 2007,  CODESTAB,     1, CNESDN07.CNV
+SEstab Saude 2007,  CODESTAB,     1, CNESDN07.CNV
+XEsfera Admin 2007,   CODESTAB,   1, ESFEDN07.CNV
+LNat Org Estab 2007,  CODESTAB,   1, NATDN07.CNV
+SNat Org Estab 2007,  CODESTAB,   1, NATDN07.CNV
+;
+;       Definições para Regioes do Pais de Residencia da MÆe
+;
+DRegiao Resid,      CODMUNRES,   1,  REGIAO.CNV
+CRegiao Resid,      CODMUNRES,   1,  REGIAOC.CNV
+SRegiao Resid,      CODMUNRES,   1,  REGIAO.CNV
+;
+;       Definições para UF de Residencia da MÆe
+;
+DUF  Residencia,    CODMUNRES,   1,  UF.CNV
+CUF  Residencia,    CODMUNRES,   1,  UFC.CNV
+LUF/Regiao Res,     CODMUNRES,   1,  UFREG.CNV
+SUF  Residencia,    CODMUNRES,   1,  UF.CNV
+;
+;       Definições para Capitais de Residencia da MÆe
+;
+DCapital Residencia,    CODMUNRES,    1,  CAPITAIS.CNV
+SCapital Residencia,    CODMUNRES,    1,  CAPITAIS.CNV
+; 
+;       Definições para Municipio de residencia da Mãe
+;
+DMunic Resid-BR,   CODMUNRES,   1,  MUNICBR.CNV
+SMunic Resid-BR,   CODMUNRES,   1,  MUNICBR.CNV
+DMunic Resid-RO,   CODMUNRES,   1,  MUNICRO.CNV
+SMunic Resid-RO,   CODMUNRES,   1,  MUNICRO.CNV
+DMunic Resid-AC,   CODMUNRES,   1,  MUNICAC.CNV
+SMunic Resid-AC,   CODMUNRES,   1,  MUNICAC.CNV
+DMunic Resid-AM,   CODMUNRES,   1,  MUNICAM.CNV
+SMunic Resid-AM,   CODMUNRES,   1,  MUNICAM.CNV
+DMunic Resid-RR,   CODMUNRES,   1,  MUNICRR.CNV
+SMunic Resid-RR,   CODMUNRES,   1,  MUNICRR.CNV
+DMunic Resid-PA,   CODMUNRES,   1,  MUNICPA.CNV
+SMunic Resid-PA,   CODMUNRES,   1,  MUNICPA.CNV
+DMunic Resid-AP,   CODMUNRES,   1,  MUNICAP.CNV
+SMunic Resid-AP,   CODMUNRES,   1,  MUNICAP.CNV
+DMunic Resid-TO,   CODMUNRES,   1,  MUNICTO.CNV
+SMunic Resid-TO,   CODMUNRES,   1,  MUNICTO.CNV
+DMunic Resid-MA,   CODMUNRES,   1,  MUNICMA.CNV
+SMunic Resid-MA,   CODMUNRES,   1,  MUNICMA.CNV
+DMunic Resid-PI,   CODMUNRES,   1,  MUNICPI.CNV
+SMunic Resid-PI,   CODMUNRES,   1,  MUNICPI.CNV
+DMunic Resid-CE,   CODMUNRES,   1,  MUNICCE.CNV
+SMunic Resid-CE,   CODMUNRES,   1,  MUNICCE.CNV
+DMunic Resid-RN,   CODMUNRES,   1,  MUNICRN.CNV
+SMunic Resid-RN,   CODMUNRES,   1,  MUNICRN.CNV
+DMunic Resid-PB,   CODMUNRES,   1,  MUNICPB.CNV
+SMunic Resid-PB,   CODMUNRES,   1,  MUNICPB.CNV
+DMunic Resid-PE,   CODMUNRES,   1,  MUNICPE.CNV
+SMunic Resid-PE,   CODMUNRES,   1,  MUNICPE.CNV
+DMunic Resid-AL,   CODMUNRES,   1,  MUNICAL.CNV
+SMunic Resid-AL,   CODMUNRES,   1,  MUNICAL.CNV
+DMunic Resid-SE,   CODMUNRES,   1,  MUNICSE.CNV
+SMunic Resid-SE,   CODMUNRES,   1,  MUNICSE.CNV
+DMunic Resid-BA,   CODMUNRES,   1,  MUNICBA.CNV
+SMunic Resid-BA,   CODMUNRES,   1,  MUNICBA.CNV
+DMunic Resid-MG,   CODMUNRES,   1,  MUNICMG.CNV
+SMunic Resid-MG,   CODMUNRES,   1,  MUNICMG.CNV
+DMunic Resid-ES,   CODMUNRES,   1,  MUNICES.CNV
+SMunic Resid-ES,   CODMUNRES,   1,  MUNICES.CNV
+DMunic Resid-RJ,   CODMUNRES,   1,  MUNICRJ.CNV
+SMunic Resid-RJ,   CODMUNRES,   1,  MUNICRJ.CNV
+DMunic Resid-SP,   CODMUNRES,   1,  MUNICSP.CNV
+SMunic Resid-SP,   CODMUNRES,   1,  MUNICSP.CNV
+DMunic Resid-PR,   CODMUNRES,   1,  MUNICPR.CNV
+SMunic Resid-PR,   CODMUNRES,   1,  MUNICPR.CNV
+DMunic Resid-SC,   CODMUNRES,   1,  MUNICSC.CNV
+SMunic Resid-SC,   CODMUNRES,   1,  MUNICSC.CNV
+DMunic Resid-RS,   CODMUNRES,   1,  MUNICRS.CNV
+SMunic Resid-RS,   CODMUNRES,   1,  MUNICRS.CNV
+DMunic Resid-MS,   CODMUNRES,   1,  MUNICMS.CNV
+SMunic Resid-MS,   CODMUNRES,   1,  MUNICMS.CNV
+DMunic Resid-MT,   CODMUNRES,   1,  MUNICMT.CNV
+SMunic Resid-MT,   CODMUNRES,   1,  MUNICMT.CNV
+DMunic Resid-GO,   CODMUNRES,   1,  MUNICGO.CNV
+SMunic Resid-GO,   CODMUNRES,   1,  MUNICGO.CNV
+DMunic Resid-DF,   CODMUNRES,   1,  MUNICDF.CNV
+SMunic Resid-DF,   CODMUNRES,   1,  MUNICDF.CNV
+;
+;
+;
+;
+;       Definições para Regioes do Pais de Ocorrencia do Nascimento
+LUF/Regiao Ocor,         CODMUNNASC,   1,  UFREG.CNV
+DRegião Ocorrencia,      CODMUNNASC,   1,  REGIAO.CNV
+CRegião Ocorrencia,      CODMUNNASC,   1,  REGIAOC.CNV
+SRegião Ocorrencia,      CODMUNNASC,   1,  REGIAO.CNV
+XNivel Instal 2006,      CODINST,      1,  CODINST.CNV
+SMunic Instal 2006,      CODINST,      4,  MUNICBR.CNV
+LMunic Instal 2006,      CODINST,      4,  MUNICBR.CNV
+;
+;       Definições para UF de Ocorrencia do Nascimento
+;
+DUF Ocorrencia,     CODMUNNASC,   1,  UF.CNV
+CUF Ocorrencia,     CODMUNNASC,   1,  UFC.CNV
+SUF Ocorrencia,     CODMUNNASC,   1,  UF.CNV
+;
+;       Definições para Capitais de Ocorrencia do Nascimento
+;
+DCapital Ocorr,     CODMUNNASC,   1,  CAPITAIS.CNV
+SCapital Ocorr,     CODMUNNASC,   1,  CAPITAIS.CNV
+;
+;       Definições para Municipio de residencia da MÆe
+;
+DMunic Ocorr-BR,   CODMUNNASC,   1,  MUNICBR.CNV
+SMunic Ocorr-BR,   CODMUNNASC,   1,  MUNICBR.CNV
+DMunic Ocorr-RO,   CODMUNNASC,   1,  MUNICRO.CNV
+SMunic Ocorr-RO,   CODMUNNASC,   1,  MUNICRO.CNV
+DMunic Ocorr-AC,   CODMUNNASC,   1,  MUNICAC.CNV
+SMunic Ocorr-AC,   CODMUNNASC,   1,  MUNICAC.CNV
+DMunic Ocorr-AM,   CODMUNNASC,   1,  MUNICAM.CNV
+SMunic Ocorr-AM,   CODMUNNASC,   1,  MUNICAM.CNV
+DMunic Ocorr-RR,   CODMUNNASC,   1,  MUNICAM.CNV
+SMunic Ocorr-RR,   CODMUNNASC,   1,  MUNICAM.CNV
+DMunic Ocorr-PA,   CODMUNNASC,   1,  MUNICPA.CNV
+SMunic Ocorr-PA,   CODMUNNASC,   1,  MUNICPA.CNV
+DMunic Ocorr-AP,   CODMUNNASC,   1,  MUNICAP.CNV
+SMunic Ocorr-AP,   CODMUNNASC,   1,  MUNICAP.CNV
+DMunic Ocorr-TO,   CODMUNNASC,   1,  MUNICTO.CNV
+SMunic Ocorr-TO,   CODMUNNASC,   1,  MUNICTO.CNV
+DMunic Ocorr-MA,   CODMUNNASC,   1,  MUNICMA.CNV
+SMunic Ocorr-MA,   CODMUNNASC,   1,  MUNICMA.CNV
+DMunic Ocorr-PI,   CODMUNNASC,   1,  MUNICPI.CNV
+SMunic Ocorr-PI,   CODMUNNASC,   1,  MUNICPI.CNV
+DMunic Ocorr-CE,   CODMUNNASC,   1,  MUNICCE.CNV
+SMunic Ocorr-CE,   CODMUNNASC,   1,  MUNICCE.CNV
+DMunic Ocorr-RN,   CODMUNNASC,   1,  MUNICRN.CNV
+SMunic Ocorr-RN,   CODMUNNASC,   1,  MUNICRN.CNV
+DMunic Ocorr-PB,   CODMUNNASC,   1,  MUNICPB.CNV
+SMunic Ocorr-PB,   CODMUNNASC,   1,  MUNICPB.CNV
+DMunic Ocorr-PE,   CODMUNNASC,   1,  MUNICPE.CNV
+SMunic Ocorr-PE,   CODMUNNASC,   1,  MUNICPE.CNV
+DMunic Ocorr-AL,   CODMUNNASC,   1,  MUNICAL.CNV
+SMunic Ocorr-AL,   CODMUNNASC,   1,  MUNICAL.CNV
+DMunic Ocorr-SE,   CODMUNNASC,   1,  MUNICSE.CNV
+SMunic Ocorr-SE,   CODMUNNASC,   1,  MUNICSE.CNV
+DMunic Ocorr-BA,   CODMUNNASC,   1,  MUNICBA.CNV
+SMunic Ocorr-BA,   CODMUNNASC,   1,  MUNICBA.CNV
+DMunic Ocorr-MG,   CODMUNNASC,   1,  MUNICMG.CNV
+SMunic Ocorr-MG,   CODMUNNASC,   1,  MUNICMG.CNV
+DMunic Ocorr-ES,   CODMUNNASC,   1,  MUNICES.CNV
+SMunic Ocorr-ES,   CODMUNNASC,   1,  MUNICES.CNV
+DMunic Ocorr-RJ,   CODMUNNASC,   1,  MUNICRJ.CNV
+SMunic Ocorr-RJ,   CODMUNNASC,   1,  MUNICRJ.CNV
+DMunic Ocorr-SP,   CODMUNNASC,   1,  MUNICSP.CNV
+SMunic Ocorr-SP,   CODMUNNASC,   1,  MUNICSP.CNV
+DMunic Ocorr-PR,   CODMUNNASC,   1,  MUNICPR.CNV
+SMunic Ocorr-PR,   CODMUNNASC,   1,  MUNICPR.CNV
+DMunic Ocorr-SC,   CODMUNNASC,   1,  MUNICSC.CNV
+SMunic Ocorr-SC,   CODMUNNASC,   1,  MUNICSC.CNV
+DMunic Ocorr-RS,   CODMUNNASC,   1,  MUNICRS.CNV
+SMunic Ocorr-RS,   CODMUNNASC,   1,  MUNICRS.CNV
+DMunic Ocorr-MS,   CODMUNNASC,   1,  MUNICMS.CNV
+SMunic Ocorr-MS,   CODMUNNASC,   1,  MUNICMS.CNV
+DMunic Ocorr-MT,   CODMUNNASC,   1,  MUNICMT.CNV
+SMunic Ocorr-MT,   CODMUNNASC,   1,  MUNICMT.CNV
+DMunic Ocorr-GO,   CODMUNNASC,   1,  MUNICGO.CNV
+SMunic Ocorr-GO,   CODMUNNASC,   1,  MUNICGO.CNV
+DMunic Ocorr-DF,   CODMUNNASC,   1,  MUNICDF.CNV
+SMunic Ocorr-DF,   CODMUNNASC,   1,  MUNICDF.CNV
+;
+;
+;
+; Definições para a identificação da Mãe
+;
+XInstrucao,             ESCMAE,     1, INSTRUC.CNV
+TFilhos Nasc.Vivos,     QTDFILVIVO,  1, FILHO.CNV
+TFilhos Nasc.Mortos,    QTDFILMORT,  1, FILHO.CNV
+;
+; Definições para a raça
+;
+XRaca/Cor,            RACACOR,    1,   RACA.CNV
+;
+; Definições para estado civil
+;
+XEstado civil, ESTCIVMAE, 1, ESTCIV.CNV
+;
+; Definições para a anomalia
+;
+XAnomalia detectada,   IDANOMAL,  1, IDANOMAL.CNV
+;
+LAnomal Agrup 1,CODANOMAL, 1, ECLAMC.CNV
+LAnomal Agrup 2,CODANOMAL, 5, ECLAMC.CNV
+LAnomal Agrup 3,CODANOMAL, 9, ECLAMC.CNV
+LAnomal Agrup 4,CODANOMAL, 13,ECLAMC.CNV
+LAnomal Agrup 5,CODANOMAL, 17,ECLAMC.CNV
+LAnomalia 1,   CODANOMAL, 1, CID1017.CNV
+SAnomalia 1,   CODANOMAL, 1, CID1017.CNV
+LAnomalia 2,   CODANOMAL, 5, CID1017.CNV
+SAnomalia 2,   CODANOMAL, 5, CID1017.CNV
+LAnomalia 3,   CODANOMAL, 9, CID1017.CNV
+SAnomalia 3,   CODANOMAL, 9, CID1017.CNV
+LAnomalia 4,   CODANOMAL, 13, CID1017.CNV
+SAnomalia 4,   CODANOMAL, 13, CID1017.CNV
+LAnomalia 5,   CODANOMAL, 17, CID1017.CNV
+SAnomalia 5,   CODANOMAL, 17, CID1017.CNV
+;
+LAnomal 1 Aparelho, CODANOMAL, 1, ANOMA.CNV
+SAnomal 1 Aparelho, CODANOMAL, 1, ANOMA.CNV
+LAnomal 2 Aparelho, CODANOMAL, 5, ANOMA.CNV
+SAnomal 2 Aparelho, CODANOMAL, 5, ANOMA.CNV
+LAnomal 3 Aparelho, CODANOMAL, 9, ANOMA.CNV
+SAnomal 3 Aparelho, CODANOMAL, 9, ANOMA.CNV
+LAnomal 4 Aparelho, CODANOMAL, 13, ANOMA.CNV
+SAnomal 4 Aparelho, CODANOMAL, 13, ANOMA.CNV
+LAnomal 5 Aparelho, CODANOMAL, 17, ANOMA.CNV
+SAnomal 5 Aparelho, CODANOMAL, 17, ANOMA.CNV

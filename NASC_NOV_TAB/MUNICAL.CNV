@@ -1,0 +1,105 @@
+    103  6                                                                                    
+      1  270010 Água Branca                                 270010                            
+      2  270020 Anadia                                      270020                            
+      3  270030 Arapiraca                                   270030                            
+      4  270040 Atalaia                                     270040                            
+      5  270050 Barra de Santo Antônio                      270050                            
+      6  270060 Barra de São Miguel                         270060                            
+      7  270070 Batalha                                     270070                            
+      8  270080 Belém                                       270080                            
+      9  270090 Belo Monte                                  270090                            
+     10  270100 Boca da Mata                                270100                            
+     11  270110 Branquinha                                  270110                            
+     12  270120 Cacimbinhas                                 270120                            
+     13  270130 Cajueiro                                    270130                            
+     14  270135 Campestre                                   270135                            
+     15  270140 Campo Alegre                                270140                            
+     16  270150 Campo Grande                                270150                            
+     17  270160 Canapi                                      270160                            
+     18  270170 Capela                                      270170                            
+     19  270180 Carneiros                                   270180                            
+     20  270190 Chã Preta                                   270190                            
+     21  270200 Coité do Nóia                               270200                            
+     22  270210 Colônia Leopoldina                          270210                            
+     23  270220 Coqueiro Seco                               270220                            
+     24  270230 Coruripe                                    270230                            
+     25  270235 Craíbas                                     270235                            
+     26  270240 Delmiro Gouveia                             270240                            
+     27  270250 Dois Riachos                                270250                            
+     28  270255 Estrela de Alagoas                          270255                            
+     29  270260 Feira Grande                                270260                            
+     30  270270 Feliz Deserto                               270270                            
+     31  270280 Flexeiras                                   270280                            
+     32  270290 Girau do Ponciano                           270290                            
+     33  270300 Ibateguara                                  270300                            
+     34  270310 Igaci                                       270310                            
+     35  270320 Igreja Nova                                 270320                            
+     36  270330 Inhapi                                      270330                            
+     37  270340 Jacaré dos Homens                           270340                            
+     38  270350 Jacuípe                                     270350                            
+     39  270360 Japaratinga                                 270360                            
+     40  270370 Jaramataia                                  270370                            
+     41  270375 Jequiá da Praia                             270375                            
+     42  270380 Joaquim Gomes                               270380                            
+     43  270390 Jundiá                                      270390                            
+     44  270400 Junqueiro                                   270400                            
+     45  270410 Lagoa da Canoa                              270410                            
+     46  270420 Limoeiro de Anadia                          270420                            
+     47  270430 Maceió                                      270430                            
+     48  270440 Major Isidoro                               270440                            
+     49  270490 Mar Vermelho                                270490                            
+     50  270450 Maragogi                                    270450                            
+     51  270460 Maravilha                                   270460                            
+     52  270470 Marechal Deodoro                            270470                            
+     53  270480 Maribondo                                   270480                            
+     54  270500 Mata Grande                                 270500                            
+     55  270510 Matriz de Camaragibe                        270510                            
+     56  270520 Messias                                     270520                            
+     57  270530 Minador do Negrão                           270530                            
+     58  270540 Monteirópolis                               270540                            
+     59  270550 Murici                                      270550                            
+     60  270560 Novo Lino                                   270560                            
+     61  270570 Olho d'Água das Flores                      270570                            
+     62  270580 Olho d'Água do Casado                       270580                            
+     63  270590 Olho d'Água Grande                          270590                            
+     64  270600 Olivença                                    270600                            
+     65  270610 Ouro Branco                                 270610                            
+     66  270620 Palestina                                   270620                            
+     67  270630 Palmeira dos Índios                         270630                            
+     68  270640 Pão de Açúcar                               270640                            
+     69  270642 Pariconha                                   270642                            
+     70  270644 Paripueira                                  270644                            
+     71  270650 Passo de Camaragibe                         270650                            
+     72  270660 Paulo Jacinto                               270660                            
+     73  270670 Penedo                                      270670                            
+     74  270680 Piaçabuçu                                   270680                            
+     75  270690 Pilar                                       270690                            
+     76  270700 Pindoba                                     270700                            
+     77  270710 Piranhas                                    270710                            
+     78  270720 Poço das Trincheiras                        270720                            
+     79  270730 Porto Calvo                                 270730                            
+     80  270740 Porto de Pedras                             270740                            
+     81  270750 Porto Real do Colégio                       270750                            
+     82  270760 Quebrangulo                                 270760                            
+     83  270770 Rio Largo                                   270770                            
+     84  270780 Roteiro                                     270780                            
+     85  270790 Santa Luzia do Norte                        270790                            
+     86  270800 Santana do Ipanema                          270800                            
+     87  270810 Santana do Mundaú                           270810                            
+     88  270820 São Brás                                    270820                            
+     89  270830 São José da Laje                            270830                            
+     90  270840 São José da Tapera                          270840                            
+     91  270850 São Luís do Quitunde                        270850                            
+     92  270860 São Miguel dos Campos                       270860                            
+     93  270870 São Miguel dos Milagres                     270870                            
+     94  270880 São Sebastião                               270880                            
+     95  270890 Satuba                                      270890                            
+     96  270895 Senador Rui Palmeira                        270895                            
+     97  270900 Tanque d'Arca                               270900                            
+     98  270910 Taquarana                                   270910                            
+     99  270915 Teotônio Vilela                             270915                            
+    100  270920 Traipu                                      270920                            
+    101  270930 União dos Palmares                          270930                            
+    102  270940 Viçosa                                      270940                            
+    103  270000 Município ignorado - AL                     270000,279999                     
+

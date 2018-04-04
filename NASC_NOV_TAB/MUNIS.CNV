@@ -1,0 +1,205 @@
+204 6
+      1  ARIQUEMES                                          110002
+      2  OURO PRETO DO OESTE                                110015
+      3  PORTO VELHO                                        110020
+      4  VILHENA                                            110030
+      5  MANAUS                                             130260
+      6  BOA VISTA                                          140010
+      7  BELEM                                              150140
+      8  PARAGOMINAS                                        150550
+      9  REDENCAO                                           150613
+     10  SANTAREM                                           150680
+     11  TUCURUI                                            150810
+     12  MACAPA                                             160030
+     13  ARAGUAINA                                          170210
+     14  PALMAS                                             172100
+     15  COELHO NETO                                        210340
+     16  IMPERATRIZ                                         210530
+     17  SANTA LUZIA                                        211000
+     18  SAO LUIS                                           211130
+     19  PICOS                                              220800
+     20  TERESINA                                           221100
+     21  BARBALHA                                           230190
+     22  BATURITE                                           230210
+     23  FORTALEZA                                          230440
+     24  QUIXADA                                            231130
+     25  NATAL                                              240810
+     26  CAMPINA GRANDE                                     250400
+     27  JOAO PESSOA                                        250750
+     28  CARUARU                                            260410
+     29  PETROLINA                                          261110
+     30  RECIFE                                             261160
+     31  MACEIO                                             270430
+     32  ARACAJU                                            280030
+     33  BOQUIM                                             280067
+     34  ALAGOINHAS                                         290070
+     35  BARREIRAS                                          290320
+     36  IBITIARA                                           291300
+     37  ITABUNA                                            291480
+     38  JUAZEIRO                                           291840
+     39  POJUCA                                             292520
+     40  SALVADOR                                           292740
+     41  SAO FELIX DO CORIBE                                292905
+     42  VITORIA DA CONQUISTA                               293330
+     43  BARBACENA                                          310560
+     44  BELO HORIZONTE                                     310620
+     45  BETIM                                              310670
+     46  CAMPOS ALTOS                                       311150
+     47  DIVINOPOLIS                                        312230
+     48  GOVERNADOR VALADARES                               312770
+     49  JUIZ DE FORA                                       313670
+     50  LAVRAS                                             313830
+     51  MONTES CLAROS                                      314330
+     52  PASSOS                                             314790
+     53  PATOS DE MINAS                                     314800
+     54  POCOS DE CALDAS                                    315180
+     55  POUSO ALEGRE                                       315250
+     56  SAO SEBASTIAO DO PARAISO                           316470
+     57  TEOFILO OTONI                                      316860
+     58  UBERABA                                            317010
+     59  UBERLANDIA                                         317020
+     60  UNAI                                               317040
+     61  VARGINHA                                           317070
+     62  CACHOEIRO DE ITAPEMIRIM                            320120
+     63  CARIACICA                                          320130
+     64  LINHARES                                           320320
+     65  SERRA                                              320500
+     66  VILA VELHA                                         320520
+     67  VITORIA                                            320530
+     68  ANGRA DOS REIS                                     330010
+     69  ARARUAMA                                           330020
+     70  ARRAIAL DO CABO                                    330025
+     71  CAMPOS DOS GOYTACAZES                              330100
+     72  DUQUE DE CAXIAS                                    330170
+     73  ITAPERUNA                                          330220
+     74  MACAE                                              330240
+     75  NITEROI                                            330330
+     76  NOVA IGUACU                                        330350
+     77  PETROPOLIS                                         330390
+     78  RESENDE                                            330420
+     79  RIO DE JANEIRO                                     330455
+     80  SAO GONCALO                                        330490
+     81  VASSOURAS                                          330620
+     82  VOLTA REDONDA                                      330630
+     83  AMERICANA                                          350160
+     84  ARACATUBA                                          350280
+     85  ARARAQUARA                                         350320
+     86  ARARAS                                             350330
+     87  ASSIS                                              350400
+     88  BARRETOS                                           350550
+     89  BAURU                                              350600
+     90  BOTUCATU                                           350750
+     91  BRAGANCA PAULISTA                                  350760
+     92  CAMPINAS                                           350950
+     93  CARAPICUIBA                                        351060
+     94  CATANDUVA                                          351110
+     95  CUBATAO                                            351350
+     96  DIADEMA                                            351380
+     97  FERRAZ DE VASCONCELOS                              351570
+     98  FRANCA                                             351620
+     99  FRANCO DA ROCHA                                    351640
+    100  GUARUJA                                            351870
+    101  GUARULHOS                                          351880
+    102  ILHA SOLTEIRA                                      352044
+    103  ITAPECERICA DA SERRA                               352220
+    104  ITAPEVI                                            352250
+    105  ITAPIRA                                            352260
+    106  ITAQUAQUECETUBA                                    352310
+    107  ITU                                                352390
+    108  JACAREI                                            352440
+    109  JALES                                              352480
+    110  JUNDIAI                                            352590
+    111  LIMEIRA                                            352690
+    112  LINS                                               352710
+    113  MARILIA                                            352900
+    114  MAUA                                               352940
+    115  MOJI DAS CRUZES                                    353060
+    116  MOJI-GUACU                                         353070
+    117  OSASCO                                             353440
+    118  OURINHOS                                           353470
+    119  PINDAMONHANGABA                                    353800
+    120  PIRACICABA                                         353870
+    121  PRESIDENTE PRUDENTE                                354140
+    122  RIBEIRAO PRETO                                     354340
+    123  RIO CLARO                                          354390
+    124  SANTO ANDRE                                        354780
+    125  SANTOS                                             354850
+    126  SAO BERNARDO DO CAMPO                              354870
+    127  SAO CAETANO DO SUL                                 354880
+    128  SAO CARLOS                                         354890
+    129  SAO JOSE DO RIO PRETO                              354980
+    130  SAO JOSE DOS CAMPOS                                354990
+    131  SAO PAULO                                          355030
+    132  SAO VICENTE                                        355100
+    133  SERTAOZINHO                                        355170
+    134  SOROCABA                                           355220
+    135  SUMARE                                             355240
+    136  SUZANO                                             355250
+    137  TABOAO DA SERRA                                    355280
+    138  TAUBATE                                            355410
+    139  TUPA                                               355500
+    140  VOTUPORANGA                                        355710
+    141  APUCARANA                                          410140
+    142  CAMPINA GRANDE DO SUL                              410400
+    143  CAMPO LARGO                                        410420
+    144  CASCAVEL                                           410480
+    145  CURITIBA                                           410690
+    146  FOZ DO IGUACU                                      410830
+    147  FRANCISCO BELTRAO                                  410840
+    148  GUARAPUAVA                                         410940
+    149  IRATI                                              411070
+    150  IVAIPORA                                           411150
+    151  LONDRINA                                           411370
+    152  MARINGA                                            411520
+    153  MEDIANEIRA                                         411580
+    154  PATO BRANCO                                        411850
+    155  TOLEDO                                             412770
+    156  UMUARAMA                                           412810
+    157  UNIAO DA VITORIA                                   412820
+    158  BLUMENAU                                           420240
+    159  CONCORDIA                                          420430
+    160  FLORIANOPOLIS                                      420540
+    161  ITAJAI                                             420820
+    162  JARAGUA DO SUL                                     420890
+    163  JOINVILLE                                          420910
+    164  LAGES                                              420930
+    165  PAPANDUVA                                          421220
+    166  RIO DO SUL                                         421480
+    167  SAO JOSE                                           421660
+    168  TUBARAO                                            421870
+    169  XANXERE                                            421950
+    170  BAGE                                               430160
+    171  BENTO GONCALVES                                    430210
+    172  CACHOEIRA DO SUL                                   430300
+    173  CACHOEIRINHA                                       430310
+    174  CAXIAS DO SUL                                      430510
+    175  CRUZ ALTA                                          430610
+    176  ERECHIM                                            430700
+    177  IJUI                                               431020
+    178  LAJEADO                                            431140
+    179  MARAU                                              431180
+    180  MONTENEGRO                                         431240
+    181  NOVO HAMBURGO                                      431340
+    182  PASSO FUNDO                                        431410
+    183  PELOTAS                                            431440
+    184  PORTO ALEGRE                                       431490
+    185  RIO GRANDE                                         431560
+    186  SANTA CRUZ DO SUL                                  431680
+    187  SANTA MARIA                                        431690
+    188  SAO GABRIEL                                        431830
+    189  SAO LEOPOLDO                                       431870
+    190  TRAMANDAI                                          432160
+    191  CAMPO GRANDE                                       500270
+    192  DOURADOS                                           500370
+    193  TRES LAGOAS                                        500830
+    194  BARRA DO BUGRES                                    510170
+    195  CACERES                                            510250
+    196  CONFRESA                                           510335
+    197  CUIABA                                             510340
+    198  SAPEZAL                                            510787
+    199  ANAPOLIS                                           520110
+    200  APARECIDA DE GOIANIA                               520140
+    201  GOIANIA                                            520870
+    202  INHUMAS                                            521000
+    203  IPORA                                              521020
+    204  BRASILIA                                           530010

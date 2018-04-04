@@ -1,0 +1,226 @@
+    224  6                                                                                    
+      1  220005 Acauã                                       220005                            
+      2  220010 Agricolândia                                220010                            
+      3  220020 Água Branca                                 220020                            
+      4  220025 Alagoinha do Piauí                          220025                            
+      5  220027 Alegrete do Piauí                           220027                            
+      6  220030 Alto Longá                                  220030                            
+      7  220040 Altos                                       220040                            
+      8  220045 Alvorada do Gurguéia                        220045                            
+      9  220050 Amarante                                    220050                            
+     10  220060 Angical do Piauí                            220060                            
+     11  220070 Anísio de Abreu                             220070                            
+     12  220080 Antônio Almeida                             220080                            
+     13  220090 Aroazes                                     220090                            
+     14  220095 Aroeiras do Itaim                           220095                            
+     15  220100 Arraial                                     220100                            
+     16  220105 Assunção do Piauí                           220105                            
+     17  220110 Avelino Lopes                               220110                            
+     18  220115 Baixa Grande do Ribeiro                     220115                            
+     19  220117 Barra D'Alcântara                           220117                            
+     20  220120 Barras                                      220120                            
+     21  220130 Barreiras do Piauí                          220130                            
+     22  220140 Barro Duro                                  220140                            
+     23  220150 Batalha                                     220150                            
+     24  220155 Bela Vista do Piauí                         220155                            
+     25  220157 Belém do Piauí                              220157                            
+     26  220160 Beneditinos                                 220160                            
+     27  220170 Bertolínia                                  220170                            
+     28  220173 Betânia do Piauí                            220173                            
+     29  220177 Boa Hora                                    220177                            
+     30  220180 Bocaina                                     220180                            
+     31  220190 Bom Jesus                                   220190                            
+     32  220191 Bom Princípio do Piauí                      220191                            
+     33  220192 Bonfim do Piauí                             220192                            
+     34  220194 Boqueirão do Piauí                          220194                            
+     35  220196 Brasileira                                  220196                            
+     36  220198 Brejo do Piauí                              220198                            
+     37  220200 Buriti dos Lopes                            220200                            
+     38  220202 Buriti dos Montes                           220202                            
+     39  220205 Cabeceiras do Piauí                         220205                            
+     40  220207 Cajazeiras do Piauí                         220207                            
+     41  220208 Cajueiro da Praia                           220208                            
+     42  220209 Caldeirão Grande do Piauí                   220209                            
+     43  220210 Campinas do Piauí                           220210                            
+     44  220211 Campo Alegre do Fidalgo                     220211                            
+     45  220213 Campo Grande do Piauí                       220213                            
+     46  220217 Campo Largo do Piauí                        220217                            
+     47  220220 Campo Maior                                 220220                            
+     48  220225 Canavieira                                  220225                            
+     49  220230 Canto do Buriti                             220230                            
+     50  220240 Capitão de Campos                           220240                            
+     51  220245 Capitão Gervásio Oliveira                   220245                            
+     52  220250 Caracol                                     220250                            
+     53  220253 Caraúbas do Piauí                           220253                            
+     54  220255 Caridade do Piauí                           220255                            
+     55  220260 Castelo do Piauí                            220260                            
+     56  220265 Caxingó                                     220265                            
+     57  220270 Cocal                                       220270                            
+     58  220271 Cocal de Telha                              220271                            
+     59  220272 Cocal dos Alves                             220272                            
+     60  220273 Coivaras                                    220273                            
+     61  220275 Colônia do Gurguéia                         220275                            
+     62  220277 Colônia do Piauí                            220277                            
+     63  220280 Conceição do Canindé                        220280                            
+     64  220285 Coronel José Dias                           220285                            
+     65  220290 Corrente                                    220290                            
+     66  220300 Cristalândia do Piauí                       220300                            
+     67  220310 Cristino Castro                             220310                            
+     68  220320 Curimatá                                    220320                            
+     69  220323 Currais                                     220323                            
+     70  220327 Curral Novo do Piauí                        220327                            
+     71  220325 Curralinhos                                 220325                            
+     72  220330 Demerval Lobão                              220330                            
+     73  220335 Dirceu Arcoverde                            220335                            
+     74  220340 Dom Expedito Lopes                          220340                            
+     75  220345 Dom Inocêncio                               220345                            
+     76  220342 Domingos Mourão                             220342                            
+     77  220350 Elesbão Veloso                              220350                            
+     78  220360 Eliseu Martins                              220360                            
+     79  220370 Esperantina                                 220370                            
+     80  220375 Fartura do Piauí                            220375                            
+     81  220380 Flores do Piauí                             220380                            
+     82  220385 Floresta do Piauí                           220385                            
+     83  220390 Floriano                                    220390                            
+     84  220400 Francinópolis                               220400                            
+     85  220410 Francisco Ayres                             220410                            
+     86  220415 Francisco Macedo                            220415                            
+     87  220420 Francisco Santos                            220420                            
+     88  220430 Fronteiras                                  220430                            
+     89  220435 Geminiano                                   220435                            
+     90  220440 Gilbués                                     220440                            
+     91  220450 Guadalupe                                   220450                            
+     92  220455 Guaribas                                    220455                            
+     93  220460 Hugo Napoleão                               220460                            
+     94  220465 Ilha Grande                                 220465                            
+     95  220470 Inhuma                                      220470                            
+     96  220480 Ipiranga do Piauí                           220480                            
+     97  220490 Isaías Coelho                               220490                            
+     98  220500 Itainópolis                                 220500                            
+     99  220510 Itaueira                                    220510                            
+    100  220515 Jacobina do Piauí                           220515                            
+    101  220520 Jaicós                                      220520                            
+    102  220525 Jardim do Mulato                            220525                            
+    103  220527 Jatobá do Piauí                             220527                            
+    104  220530 Jerumenha                                   220530                            
+    105  220535 João Costa                                  220535                            
+    106  220540 Joaquim Pires                               220540                            
+    107  220545 Joca Marques                                220545                            
+    108  220550 José de Freitas                             220550                            
+    109  220551 Juazeiro do Piauí                           220551                            
+    110  220552 Júlio Borges                                220552                            
+    111  220553 Jurema                                      220553                            
+    112  220555 Lagoa Alegre                                220555                            
+    113  220557 Lagoa de São Francisco                      220557                            
+    114  220556 Lagoa do Barro do Piauí                     220556                            
+    115  220558 Lagoa do Piauí                              220558                            
+    116  220559 Lagoa do Sítio                              220559                            
+    117  220554 Lagoinha do Piauí                           220554                            
+    118  220560 Landri Sales                                220560                            
+    119  220570 Luís Correia                                220570                            
+    120  220580 Luzilândia                                  220580                            
+    121  220585 Madeiro                                     220585                            
+    122  220590 Manoel Emídio                               220590                            
+    123  220595 Marcolândia                                 220595                            
+    124  220600 Marcos Parente                              220600                            
+    125  220605 Massapê do Piauí                            220605                            
+    126  220610 Matias Olímpio                              220610                            
+    127  220620 Miguel Alves                                220620                            
+    128  220630 Miguel Leão                                 220630                            
+    129  220635 Milton Brandão                              220635                            
+    130  220640 Monsenhor Gil                               220640                            
+    131  220650 Monsenhor Hipólito                          220650                            
+    132  220660 Monte Alegre do Piauí                       220660                            
+    133  220665 Morro Cabeça no Tempo                       220665                            
+    134  220667 Morro do Chapéu do Piauí                    220667                            
+    135  220669 Murici dos Portelas                         220669                            
+    136  220670 Nazaré do Piauí                             220670                            
+    137  220675 Nossa Senhora de Nazaré                     220675                            
+    138  220680 Nossa Senhora dos Remédios                  220680                            
+    139  220795 Nova Santa Rita                             220795                            
+    140  220690 Novo Oriente do Piauí                       220690                            
+    141  220695 Novo Santo Antônio                          220695                            
+    142  220700 Oeiras                                      220700                            
+    143  220710 Olho D'Água do Piauí                        220710                            
+    144  220720 Padre Marcos                                220720                            
+    145  220730 Paes Landim                                 220730                            
+    146  220735 Pajeú do Piauí                              220735                            
+    147  220740 Palmeira do Piauí                           220740                            
+    148  220750 Palmeirais                                  220750                            
+    149  220755 Paquetá                                     220755                            
+    150  220760 Parnaguá                                    220760                            
+    151  220770 Parnaíba                                    220770                            
+    152  220775 Passagem Franca do Piauí                    220775                            
+    153  220777 Patos do Piauí                              220777                            
+    154  220779 Pau D'Arco do Piauí                         220779                            
+    155  220780 Paulistana                                  220780                            
+    156  220785 Pavussu                                     220785                            
+    157  220790 Pedro II                                    220790                            
+    158  220793 Pedro Laurentino                            220793                            
+    159  220800 Picos                                       220800                            
+    160  220810 Pimenteiras                                 220810                            
+    161  220820 Pio IX                                      220820                            
+    162  220830 Piracuruca                                  220830                            
+    163  220840 Piripiri                                    220840                            
+    164  220850 Porto                                       220850                            
+    165  220855 Porto Alegre do Piauí                       220855                            
+    166  220860 Prata do Piauí                              220860                            
+    167  220865 Queimada Nova                               220865                            
+    168  220870 Redenção do Gurguéia                        220870                            
+    169  220880 Regeneração                                 220880                            
+    170  220885 Riacho Frio                                 220885                            
+    171  220887 Ribeira do Piauí                            220887                            
+    172  220890 Ribeiro Gonçalves                           220890                            
+    173  220900 Rio Grande do Piauí                         220900                            
+    174  220910 Santa Cruz do Piauí                         220910                            
+    175  220915 Santa Cruz dos Milagres                     220915                            
+    176  220920 Santa Filomena                              220920                            
+    177  220930 Santa Luz                                   220930                            
+    178  220937 Santa Rosa do Piauí                         220937                            
+    179  220935 Santana do Piauí                            220935                            
+    180  220940 Santo Antônio de Lisboa                     220940                            
+    181  220945 Santo Antônio dos Milagres                  220945                            
+    182  220950 Santo Inácio do Piauí                       220950                            
+    183  220955 São Braz do Piauí                           220955                            
+    184  220960 São Félix do Piauí                          220960                            
+    185  220965 São Francisco de Assis do Piauí             220965                            
+    186  220970 São Francisco do Piauí                      220970                            
+    187  220975 São Gonçalo do Gurguéia                     220975                            
+    188  220980 São Gonçalo do Piauí                        220980                            
+    189  220985 São João da Canabrava                       220985                            
+    190  220987 São João da Fronteira                       220987                            
+    191  220990 São João da Serra                           220990                            
+    192  220995 São João da Varjota                         220995                            
+    193  220997 São João do Arraial                         220997                            
+    194  221000 São João do Piauí                           221000                            
+    195  221005 São José do Divino                          221005                            
+    196  221010 São José do Peixe                           221010                            
+    197  221020 São José do Piauí                           221020                            
+    198  221030 São Julião                                  221030                            
+    199  221035 São Lourenço do Piauí                       221035                            
+    200  221037 São Luis do Piauí                           221037                            
+    201  221038 São Miguel da Baixa Grande                  221038                            
+    202  221039 São Miguel do Fidalgo                       221039                            
+    203  221040 São Miguel do Tapuio                        221040                            
+    204  221050 São Pedro do Piauí                          221050                            
+    205  221060 São Raimundo Nonato                         221060                            
+    206  221062 Sebastião Barros                            221062                            
+    207  221063 Sebastião Leal                              221063                            
+    208  221065 Sigefredo Pacheco                           221065                            
+    209  221070 Simões                                      221070                            
+    210  221080 Simplício Mendes                            221080                            
+    211  221090 Socorro do Piauí                            221090                            
+    212  221093 Sussuapara                                  221093                            
+    213  221095 Tamboril do Piauí                           221095                            
+    214  221097 Tanque do Piauí                             221097                            
+    215  221100 Teresina                                    221100                            
+    216  221110 União                                       221110                            
+    217  221120 Uruçuí                                      221120                            
+    218  221130 Valença do Piauí                            221130                            
+    219  221135 Várzea Branca                               221135                            
+    220  221140 Várzea Grande                               221140                            
+    221  221150 Vera Mendes                                 221150                            
+    222  221160 Vila Nova do Piauí                          221160                            
+    223  221170 Wall Ferraz                                 221170                            
+    224  220000 Município ignorado - PI                     220000,229999                     
+

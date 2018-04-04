@@ -1,0 +1,13 @@
+012 4 
+      1  Malform sistema nervoso                            Q000-Q079
+      2  Malform olho ouvido face pescoco                   Q100-Q189
+      3  Malform aparelho circulatorio                      Q200-Q289
+      4  Malform Aparelho respiratorio                      Q300-Q349
+      5  Fenda Labial e Palatina                            Q350-Q379
+      6  Outras malf aparelho digestivo                     Q380-Q459
+      7  Malform orgao genitais                             Q500-Q569
+      8  Malform aparelho urinario                          Q600-Q649
+      9  Malform sistema osteomuscular                      Q650-Q799
+     10  Outras malformacoes congenitas                     Q800-Q899
+     11  Anomalias cromossonica ncop                        Q900-Q999
+     12  Hemangioma de qq localização                       D180

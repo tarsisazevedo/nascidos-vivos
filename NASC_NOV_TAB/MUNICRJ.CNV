@@ -1,0 +1,95 @@
+     93  6                                                                                    
+      1  330010 Angra dos Reis                              330010                            
+      2  330015 Aperibé                                     330015                            
+      3  330020 Araruama                                    330020                            
+      4  330022 Areal                                       330022                            
+      5  330023 Armação dos Búzios                          330023                            
+      6  330025 Arraial do Cabo                             330025                            
+      7  330030 Barra do Piraí                              330030                            
+      8  330040 Barra Mansa                                 330040                            
+      9  330045 Belford Roxo                                330045                            
+     10  330050 Bom Jardim                                  330050                            
+     11  330060 Bom Jesus do Itabapoana                     330060                            
+     12  330070 Cabo Frio                                   330070                            
+     13  330080 Cachoeiras de Macacu                        330080                            
+     14  330090 Cambuci                                     330090                            
+     15  330100 Campos dos Goytacazes                       330100                            
+     16  330110 Cantagalo                                   330110                            
+     17  330093 Carapebus                                   330093                            
+     18  330115 Cardoso Moreira                             330115                            
+     19  330120 Carmo                                       330120                            
+     20  330130 Casimiro de Abreu                           330130                            
+     21  330095 Comendador Levy Gasparian                   330095                            
+     22  330140 Conceição de Macabu                         330140                            
+     23  330150 Cordeiro                                    330150                            
+     24  330160 Duas Barras                                 330160                            
+     25  330170 Duque de Caxias                             330170                            
+     26  330180 Engenheiro Paulo de Frontin                 330180                            
+     27  330185 Guapimirim                                  330185                            
+     28  330187 Iguaba Grande                               330187                            
+     29  330190 Itaboraí                                    330190                            
+     30  330200 Itaguaí                                     330200                            
+     31  330205 Italva                                      330205                            
+     32  330210 Itaocara                                    330210                            
+     33  330220 Itaperuna                                   330220                            
+     34  330225 Itatiaia                                    330225                            
+     35  330227 Japeri                                      330227                            
+     36  330230 Laje do Muriaé                              330230                            
+     37  330240 Macaé                                       330240                            
+     38  330245 Macuco                                      330245                            
+     39  330250 Magé                                        330250                            
+     40  330260 Mangaratiba                                 330260                            
+     41  330270 Maricá                                      330270                            
+     42  330280 Mendes                                      330280                            
+     43  330285 Mesquita                                    330285                            
+     44  330290 Miguel Pereira                              330290                            
+     45  330300 Miracema                                    330300                            
+     46  330310 Natividade                                  330310                            
+     47  330320 Nilópolis                                   330320                            
+     48  330330 Niterói                                     330330                            
+     49  330340 Nova Friburgo                               330340                            
+     50  330350 Nova Iguaçu                                 330350                            
+     51  330360 Paracambi                                   330360                            
+     52  330370 Paraíba do Sul                              330370                            
+     53  330380 Parati                                      330380                            
+     54  330385 Paty do Alferes                             330385                            
+     55  330390 Petrópolis                                  330390                            
+     56  330395 Pinheiral                                   330395                            
+     57  330400 Piraí                                       330400                            
+     58  330410 Porciúncula                                 330410                            
+     59  330411 Porto Real                                  330411                            
+     60  330412 Quatis                                      330412                            
+     61  330414 Queimados                                   330414                            
+     62  330415 Quissamã                                    330415                            
+     63  330420 Resende                                     330420                            
+     64  330430 Rio Bonito                                  330430                            
+     65  330440 Rio Claro                                   330440                            
+     66  330450 Rio das Flores                              330450                            
+     67  330452 Rio das Ostras                              330452                            
+     68  330455 Rio de Janeiro                              330455,334501-334530              
+     69  330460 Santa Maria Madalena                        330460                            
+     70  330470 Santo Antônio de Pádua                      330470                            
+     71  330480 São Fidélis                                 330480                            
+     72  330475 São Francisco de Itabapoana                 330475                            
+     73  330490 São Gonçalo                                 330490                            
+     74  330500 São João da Barra                           330500                            
+     75  330510 São João de Meriti                          330510                            
+     76  330513 São José de Ubá                             330513                            
+     77  330515 São José do Vale do Rio Preto               330515                            
+     78  330520 São Pedro da Aldeia                         330520                            
+     79  330530 São Sebastião do Alto                       330530                            
+     80  330540 Sapucaia                                    330540                            
+     81  330550 Saquarema                                   330550                            
+     82  330555 Seropédica                                  330555                            
+     83  330560 Silva Jardim                                330560                            
+     84  330570 Sumidouro                                   330570                            
+     85  330575 Tanguá                                      330575                            
+     86  330580 Teresópolis                                 330580                            
+     87  330590 Trajano de Moraes                           330590                            
+     88  330600 Três Rios                                   330600                            
+     89  330610 Valença                                     330610                            
+     90  330615 Varre-Sai                                   330615                            
+     91  330620 Vassouras                                   330620                            
+     92  330630 Volta Redonda                               330630,336305                     
+     93  330000 Município ignorado - RJ                     330000,339999,330064              
+

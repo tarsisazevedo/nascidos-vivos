@@ -1,0 +1,188 @@
+    186  6                                                                                    
+      1  260005 Abreu e Lima                                260005                            
+      2  260010 Afogados da Ingazeira                       260010                            
+      3  260020 Afrânio                                     260020                            
+      4  260030 Agrestina                                   260030                            
+      5  260040 Água Preta                                  260040                            
+      6  260050 Águas Belas                                 260050                            
+      7  260060 Alagoinha                                   260060                            
+      8  260070 Aliança                                     260070                            
+      9  260080 Altinho                                     260080                            
+     10  260090 Amaraji                                     260090                            
+     11  260100 Angelim                                     260100                            
+     12  260105 Araçoiaba                                   260105                            
+     13  260110 Araripina                                   260110                            
+     14  260120 Arcoverde                                   260120                            
+     15  260130 Barra de Guabiraba                          260130                            
+     16  260140 Barreiros                                   260140                            
+     17  260150 Belém de Maria                              260150                            
+     18  260160 Belém de São Francisco                      260160                            
+     19  260170 Belo Jardim                                 260170                            
+     20  260180 Betânia                                     260180                            
+     21  260190 Bezerros                                    260190                            
+     22  260200 Bodocó                                      260200                            
+     23  260210 Bom Conselho                                260210                            
+     24  260220 Bom Jardim                                  260220                            
+     25  260230 Bonito                                      260230                            
+     26  260240 Brejão                                      260240                            
+     27  260250 Brejinho                                    260250                            
+     28  260260 Brejo da Madre de Deus                      260260                            
+     29  260270 Buenos Aires                                260270                            
+     30  260280 Buíque                                      260280                            
+     31  260290 Cabo de Santo Agostinho                     260290                            
+     32  260300 Cabrobó                                     260300                            
+     33  260310 Cachoeirinha                                260310                            
+     34  260320 Caetés                                      260320                            
+     35  260330 Calçado                                     260330                            
+     36  260340 Calumbi                                     260340                            
+     37  260345 Camaragibe                                  260345                            
+     38  260350 Camocim de São Félix                        260350                            
+     39  260360 Camutanga                                   260360                            
+     40  260370 Canhotinho                                  260370                            
+     41  260380 Capoeiras                                   260380                            
+     42  260390 Carnaíba                                    260390                            
+     43  260392 Carnaubeira da Penha                        260392                            
+     44  260400 Carpina                                     260400                            
+     45  260410 Caruaru                                     260410                            
+     46  260415 Casinhas                                    260415                            
+     47  260420 Catende                                     260420                            
+     48  260430 Cedro                                       260430                            
+     49  260440 Chã de Alegria                              260440                            
+     50  260450 Chã Grande                                  260450                            
+     51  260460 Condado                                     260460                            
+     52  260470 Correntes                                   260470                            
+     53  260480 Cortês                                      260480                            
+     54  260490 Cumaru                                      260490                            
+     55  260500 Cupira                                      260500                            
+     56  260510 Custódia                                    260510                            
+     57  260515 Dormentes                                   260515                            
+     58  260520 Escada                                      260520                            
+     59  260530 Exu                                         260530                            
+     60  260540 Feira Nova                                  260540                            
+     61  260545 Fernando de Noronha                         260545,200010                     
+     62  260550 Ferreiros                                   260550                            
+     63  260560 Flores                                      260560                            
+     64  260570 Floresta                                    260570                            
+     65  260580 Frei Miguelinho                             260580                            
+     66  260590 Gameleira                                   260590                            
+     67  260600 Garanhuns                                   260600                            
+     68  260610 Glória do Goitá                             260610                            
+     69  260620 Goiana                                      260620                            
+     70  260630 Granito                                     260630                            
+     71  260640 Gravatá                                     260640                            
+     72  260650 Iati                                        260650                            
+     73  260660 Ibimirim                                    260660                            
+     74  260670 Ibirajuba                                   260670                            
+     75  260680 Igarassu                                    260680                            
+     76  260690 Iguaraci                                    260690                            
+     77  260760 Ilha de Itamaracá                           260760                            
+     78  260700 Inajá                                       260700                            
+     79  260710 Ingazeira                                   260710                            
+     80  260720 Ipojuca                                     260720                            
+     81  260730 Ipubi                                       260730                            
+     82  260740 Itacuruba                                   260740                            
+     83  260750 Itaíba                                      260750                            
+     84  260765 Itambé                                      260765                            
+     85  260770 Itapetim                                    260770                            
+     86  260775 Itapissuma                                  260775                            
+     87  260780 Itaquitinga                                 260780                            
+     88  260790 Jaboatão dos Guararapes                     260790                            
+     89  260795 Jaqueira                                    260795                            
+     90  260800 Jataúba                                     260800                            
+     91  260805 Jatobá                                      260805                            
+     92  260810 João Alfredo                                260810                            
+     93  260820 Joaquim Nabuco                              260820                            
+     94  260825 Jucati                                      260825                            
+     95  260830 Jupi                                        260830                            
+     96  260840 Jurema                                      260840                            
+     97  260845 Lagoa do Carro                              260845                            
+     98  260850 Lagoa do Itaenga                            260850                            
+     99  260860 Lagoa do Ouro                               260860                            
+    100  260870 Lagoa dos Gatos                             260870                            
+    101  260875 Lagoa Grande                                260875                            
+    102  260880 Lajedo                                      260880                            
+    103  260890 Limoeiro                                    260890                            
+    104  260900 Macaparana                                  260900                            
+    105  260910 Machados                                    260910                            
+    106  260915 Manari                                      260915                            
+    107  260920 Maraial                                     260920                            
+    108  260930 Mirandiba                                   260930                            
+    109  261430 Moreilândia                                 261430                            
+    110  260940 Moreno                                      260940                            
+    111  260950 Nazaré da Mata                              260950                            
+    112  260960 Olinda                                      260960                            
+    113  260970 Orobó                                       260970                            
+    114  260980 Orocó                                       260980                            
+    115  260990 Ouricuri                                    260990                            
+    116  261000 Palmares                                    261000                            
+    117  261010 Palmeirina                                  261010                            
+    118  261020 Panelas                                     261020                            
+    119  261030 Paranatama                                  261030                            
+    120  261040 Parnamirim                                  261040                            
+    121  261050 Passira                                     261050                            
+    122  261060 Paudalho                                    261060                            
+    123  261070 Paulista                                    261070                            
+    124  261080 Pedra                                       261080                            
+    125  261090 Pesqueira                                   261090                            
+    126  261100 Petrolândia                                 261100                            
+    127  261110 Petrolina                                   261110                            
+    128  261120 Poção                                       261120                            
+    129  261130 Pombos                                      261130                            
+    130  261140 Primavera                                   261140                            
+    131  261150 Quipapá                                     261150                            
+    132  261153 Quixaba                                     261153                            
+    133  261160 Recife                                      261160                            
+    134  261170 Riacho das Almas                            261170                            
+    135  261180 Ribeirão                                    261180                            
+    136  261190 Rio Formoso                                 261190                            
+    137  261200 Sairé                                       261200                            
+    138  261210 Salgadinho                                  261210                            
+    139  261220 Salgueiro                                   261220                            
+    140  261230 Saloá                                       261230                            
+    141  261240 Sanharó                                     261240                            
+    142  261245 Santa Cruz                                  261245                            
+    143  261247 Santa Cruz da Baixa Verde                   261247                            
+    144  261250 Santa Cruz do Capibaribe                    261250                            
+    145  261255 Santa Filomena                              261255                            
+    146  261260 Santa Maria da Boa Vista                    261260                            
+    147  261270 Santa Maria do Cambucá                      261270                            
+    148  261280 Santa Terezinha                             261280                            
+    149  261290 São Benedito do Sul                         261290                            
+    150  261300 São Bento do Una                            261300                            
+    151  261310 São Caitano                                 261310                            
+    152  261320 São João                                    261320                            
+    153  261330 São Joaquim do Monte                        261330                            
+    154  261340 São José da Coroa Grande                    261340                            
+    155  261350 São José do Belmonte                        261350                            
+    156  261360 São José do Egito                           261360                            
+    157  261370 São Lourenço da Mata                        261370                            
+    158  261380 São Vicente Ferrer                          261380                            
+    159  261390 Serra Talhada                               261390                            
+    160  261400 Serrita                                     261400                            
+    161  261410 Sertânia                                    261410                            
+    162  261420 Sirinhaém                                   261420                            
+    163  261440 Solidão                                     261440                            
+    164  261450 Surubim                                     261450                            
+    165  261460 Tabira                                      261460                            
+    166  261470 Tacaimbó                                    261470                            
+    167  261480 Tacaratu                                    261480                            
+    168  261485 Tamandaré                                   261485                            
+    169  261500 Taquaritinga do Norte                       261500                            
+    170  261510 Terezinha                                   261510                            
+    171  261520 Terra Nova                                  261520                            
+    172  261530 Timbaúba                                    261530                            
+    173  261540 Toritama                                    261540                            
+    174  261550 Tracunhaém                                  261550                            
+    175  261560 Trindade                                    261560                            
+    176  261570 Triunfo                                     261570                            
+    177  261580 Tupanatinga                                 261580                            
+    178  261590 Tuparetama                                  261590                            
+    179  261600 Venturosa                                   261600                            
+    180  261610 Verdejante                                  261610                            
+    181  261618 Vertente do Lério                           261618                            
+    182  261620 Vertentes                                   261620                            
+    183  261630 Vicência                                    261630                            
+    184  261640 Vitória de Santo Antão                      261640                            
+    185  261650 Xexéu                                       261650                            
+    186  260000 Município ignorado - PE                     260000,269999                     
+

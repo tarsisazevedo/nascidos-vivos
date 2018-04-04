@@ -1,0 +1,15 @@
+13  3  
+      1  Q00 Anencefalia                                    Q00
+      2  Q03 Hidrocefalia                                   Q03
+      3  Q05 Espinha bifida                                 Q05
+      4  Q35   Fenda palatina                               Q35
+      5  Q36,Q37 Fenda labial                               Q36-Q37
+      6  Q39 Atresia esofago                                Q39
+      7  Q42 Atresia ano retal                              Q42
+      8  Q54 Hipospadias                                    Q54
+      9  Q71-Q73 Reducao de membros                         Q71-Q73
+     10  Q90   Sindr de Down                                Q90
+     11  Q20-Q26 Anomalias cardiacas                        Q20-Q26
+     12  Q60-Q64 Anomalia renal                             Q60-Q64
+     13  Outras anomalias                                   Q01,Q02,Q04,Q06-Q19,Q27-Q34,Q38,Q40,Q41,Q43-Q53,Q55-Q56,Q65-Q70,Q74-Q89,Q91-Q99,D18
+

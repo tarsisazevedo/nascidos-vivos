@@ -1,0 +1,648 @@
+    646  6                                                                                    
+      1  350010 Adamantina                                  350010                            
+      2  350020 Adolfo                                      350020                            
+      3  350030 Aguaí                                       350030                            
+      4  350040 Águas da Prata                              350040                            
+      5  350050 Águas de Lindóia                            350050                            
+      6  350055 Águas de Santa Bárbara                      350055                            
+      7  350060 Águas de São Pedro                          350060                            
+      8  350070 Agudos                                      350070                            
+      9  350075 Alambari                                    350075                            
+     10  350080 Alfredo Marcondes                           350080                            
+     11  350090 Altair                                      350090                            
+     12  350100 Altinópolis                                 350100                            
+     13  350110 Alto Alegre                                 350110                            
+     14  350115 Alumínio                                    350115                            
+     15  350120 Álvares Florence                            350120                            
+     16  350130 Álvares Machado                             350130                            
+     17  350140 Álvaro de Carvalho                          350140                            
+     18  350150 Alvinlândia                                 350150                            
+     19  350160 Americana                                   350160                            
+     20  350170 Américo Brasiliense                         350170                            
+     21  350180 Américo de Campos                           350180                            
+     22  350190 Amparo                                      350190                            
+     23  350200 Analândia                                   350200                            
+     24  350210 Andradina                                   350210                            
+     25  350220 Angatuba                                    350220                            
+     26  350230 Anhembi                                     350230                            
+     27  350240 Anhumas                                     350240                            
+     28  350250 Aparecida                                   350250                            
+     29  350260 Aparecida d'Oeste                           350260                            
+     30  350270 Apiaí                                       350270                            
+     31  350275 Araçariguama                                350275                            
+     32  350280 Araçatuba                                   350280                            
+     33  350290 Araçoiaba da Serra                          350290                            
+     34  350300 Aramina                                     350300                            
+     35  350310 Arandu                                      350310                            
+     36  350315 Arapeí                                      350315                            
+     37  350320 Araraquara                                  350320                            
+     38  350330 Araras                                      350330                            
+     39  350335 Arco-Íris                                   350335                            
+     40  350340 Arealva                                     350340                            
+     41  350350 Areias                                      350350                            
+     42  350360 Areiópolis                                  350360                            
+     43  350370 Ariranha                                    350370                            
+     44  350380 Artur Nogueira                              350380                            
+     45  350390 Arujá                                       350390                            
+     46  350395 Aspásia                                     350395                            
+     47  350400 Assis                                       350400                            
+     48  350410 Atibaia                                     350410                            
+     49  350420 Auriflama                                   350420                            
+     50  350430 Avaí                                        350430                            
+     51  350440 Avanhandava                                 350440                            
+     52  350450 Avaré                                       350450                            
+     53  350460 Bady Bassitt                                350460                            
+     54  350470 Balbinos                                    350470                            
+     55  350480 Bálsamo                                     350480                            
+     56  350490 Bananal                                     350490                            
+     57  350500 Barão de Antonina                           350500                            
+     58  350510 Barbosa                                     350510                            
+     59  350520 Bariri                                      350520                            
+     60  350530 Barra Bonita                                350530                            
+     61  350535 Barra do Chapéu                             350535                            
+     62  350540 Barra do Turvo                              350540                            
+     63  350550 Barretos                                    350550                            
+     64  350560 Barrinha                                    350560                            
+     65  350570 Barueri                                     350570                            
+     66  350580 Bastos                                      350580                            
+     67  350590 Batatais                                    350590                            
+     68  350600 Bauru                                       350600                            
+     69  350610 Bebedouro                                   350610                            
+     70  350620 Bento de Abreu                              350620                            
+     71  350630 Bernardino de Campos                        350630                            
+     72  350635 Bertioga                                    350635                            
+     73  350640 Bilac                                       350640                            
+     74  350650 Birigui                                     350650                            
+     75  350660 Biritiba-Mirim                              350660                            
+     76  350670 Boa Esperança do Sul                        350670                            
+     77  350680 Bocaina                                     350680                            
+     78  350690 Bofete                                      350690                            
+     79  350700 Boituva                                     350700                            
+     80  350710 Bom Jesus dos Perdões                       350710                            
+     81  350715 Bom Sucesso de Itararé                      350715                            
+     82  350720 Borá                                        350720                            
+     83  350730 Boracéia                                    350730                            
+     84  350740 Borborema                                   350740                            
+     85  350745 Borebi                                      350745                            
+     86  350750 Botucatu                                    350750                            
+     87  350760 Bragança Paulista                           350760                            
+     88  350770 Braúna                                      350770                            
+     89  350775 Brejo Alegre                                350775                            
+     90  350780 Brodowski                                   350780                            
+     91  350790 Brotas                                      350790                            
+     92  350800 Buri                                        350800                            
+     93  350810 Buritama                                    350810                            
+     94  350820 Buritizal                                   350820                            
+     95  350830 Cabrália Paulista                           350830                            
+     96  350840 Cabreúva                                    350840                            
+     97  350850 Caçapava                                    350850                            
+     98  350860 Cachoeira Paulista                          350860                            
+     99  350870 Caconde                                     350870                            
+    100  350880 Cafelândia                                  350880                            
+    101  350890 Caiabu                                      350890                            
+    102  350900 Caieiras                                    350900                            
+    103  350910 Caiuá                                       350910                            
+    104  350920 Cajamar                                     350920                            
+    105  350925 Cajati                                      350925                            
+    106  350930 Cajobi                                      350930                            
+    107  350940 Cajuru                                      350940                            
+    108  350945 Campina do Monte Alegre                     350945                            
+    109  350950 Campinas                                    350950                            
+    110  350960 Campo Limpo Paulista                        350960                            
+    111  350970 Campos do Jordão                            350970                            
+    112  350980 Campos Novos Paulista                       350980                            
+    113  350990 Cananéia                                    350990                            
+    114  350995 Canas                                       350995                            
+    115  351000 Cândido Mota                                351000                            
+    116  351010 Cândido Rodrigues                           351010                            
+    117  351015 Canitar                                     351015                            
+    118  351020 Capão Bonito                                351020                            
+    119  351030 Capela do Alto                              351030                            
+    120  351040 Capivari                                    351040                            
+    121  351050 Caraguatatuba                               351050                            
+    122  351060 Carapicuíba                                 351060                            
+    123  351070 Cardoso                                     351070                            
+    124  351080 Casa Branca                                 351080                            
+    125  351090 Cássia dos Coqueiros                        351090                            
+    126  351100 Castilho                                    351100                            
+    127  351110 Catanduva                                   351110                            
+    128  351120 Catiguá                                     351120                            
+    129  351130 Cedral                                      351130                            
+    130  351140 Cerqueira César                             351140                            
+    131  351150 Cerquilho                                   351150                            
+    132  351160 Cesário Lange                               351160                            
+    133  351170 Charqueada                                  351170                            
+    134  355720 Chavantes                                   355720                            
+    135  351190 Clementina                                  351190                            
+    136  351200 Colina                                      351200                            
+    137  351210 Colômbia                                    351210                            
+    138  351220 Conchal                                     351220                            
+    139  351230 Conchas                                     351230                            
+    140  351240 Cordeirópolis                               351240                            
+    141  351250 Coroados                                    351250                            
+    142  351260 Coronel Macedo                              351260                            
+    143  351270 Corumbataí                                  351270                            
+    144  351280 Cosmópolis                                  351280                            
+    145  351290 Cosmorama                                   351290                            
+    146  351300 Cotia                                       351300                            
+    147  351310 Cravinhos                                   351310                            
+    148  351320 Cristais Paulista                           351320                            
+    149  351330 Cruzália                                    351330                            
+    150  351340 Cruzeiro                                    351340                            
+    151  351350 Cubatão                                     351350                            
+    152  351360 Cunha                                       351360                            
+    153  351370 Descalvado                                  351370                            
+    154  351380 Diadema                                     351380                            
+    155  351385 Dirce Reis                                  351385                            
+    156  351390 Divinolândia                                351390                            
+    157  351400 Dobrada                                     351400                            
+    158  351410 Dois Córregos                               351410                            
+    159  351420 Dolcinópolis                                351420                            
+    160  351430 Dourado                                     351430                            
+    161  351440 Dracena                                     351440                            
+    162  351450 Duartina                                    351450                            
+    163  351460 Dumont                                      351460                            
+    164  351470 Echaporã                                    351470                            
+    165  351480 Eldorado                                    351480                            
+    166  351490 Elias Fausto                                351490                            
+    167  351492 Elisiário                                   351492                            
+    168  351495 Embaúba                                     351495                            
+    169  351500 Embu                                        351500                            
+    170  351510 Embu-Guaçu                                  351510                            
+    171  351512 Emilianópolis                               351512                            
+    172  351515 Engenheiro Coelho                           351515                            
+    173  351518 Espírito Santo do Pinhal                    351518                            
+    174  351519 Espírito Santo do Turvo                     351519                            
+    175  355730 Estiva Gerbi                                355730                            
+    176  351520 Estrela d'Oeste                             351520                            
+    177  351530 Estrela do Norte                            351530                            
+    178  351535 Euclides da Cunha Paulista                  351535                            
+    179  351540 Fartura                                     351540                            
+    180  351560 Fernando Prestes                            351560                            
+    181  351550 Fernandópolis                               351550                            
+    182  351565 Fernão                                      351565                            
+    183  351570 Ferraz de Vasconcelos                       351570                            
+    184  351580 Flora Rica                                  351580                            
+    185  351590 Floreal                                     351590                            
+    186  351600 Flórida Paulista                            351600                            
+    187  351610 Florínia                                    351610                            
+    188  351620 Franca                                      351620                            
+    189  351630 Francisco Morato                            351630                            
+    190  351640 Franco da Rocha                             351640                            
+    191  351650 Gabriel Monteiro                            351650                            
+    192  351660 Gália                                       351660                            
+    193  351670 Garça                                       351670                            
+    194  351680 Gastão Vidigal                              351680                            
+    195  351685 Gavião Peixoto                              351685                            
+    196  351690 General Salgado                             351690                            
+    197  351700 Getulina                                    351700                            
+    198  351710 Glicério                                    351710                            
+    199  351720 Guaiçara                                    351720                            
+    200  351730 Guaimbê                                     351730                            
+    201  351740 Guaíra                                      351740                            
+    202  351750 Guapiaçu                                    351750                            
+    203  351760 Guapiara                                    351760                            
+    204  351770 Guará                                       351770                            
+    205  351780 Guaraçaí                                    351780                            
+    206  351790 Guaraci                                     351790                            
+    207  351800 Guarani d'Oeste                             351800                            
+    208  351810 Guarantã                                    351810                            
+    209  351820 Guararapes                                  351820                            
+    210  351830 Guararema                                   351830                            
+    211  351840 Guaratinguetá                               351840                            
+    212  351850 Guareí                                      351850                            
+    213  351860 Guariba                                     351860                            
+    214  351870 Guarujá                                     351870                            
+    215  351880 Guarulhos                                   351880                            
+    216  351885 Guatapará                                   351885                            
+    217  351890 Guzolândia                                  351890                            
+    218  351900 Herculândia                                 351900                            
+    219  351905 Holambra                                    351905                            
+    220  351907 Hortolândia                                 351907                            
+    221  351910 Iacanga                                     351910                            
+    222  351920 Iacri                                       351920                            
+    223  351925 Iaras                                       351925                            
+    224  351930 Ibaté                                       351930                            
+    225  351940 Ibirá                                       351940                            
+    226  351950 Ibirarema                                   351950                            
+    227  351960 Ibitinga                                    351960                            
+    228  351970 Ibiúna                                      351970                            
+    229  351980 Icém                                        351980                            
+    230  351990 Iepê                                        351990                            
+    231  352000 Igaraçu do Tietê                            352000                            
+    232  352010 Igarapava                                   352010                            
+    233  352020 Igaratá                                     352020                            
+    234  352030 Iguape                                      352030                            
+    235  352042 Ilha Comprida                               352042                            
+    236  352044 Ilha Solteira                               352044                            
+    237  352040 Ilhabela                                    352040                            
+    238  352050 Indaiatuba                                  352050                            
+    239  352060 Indiana                                     352060                            
+    240  352070 Indiaporã                                   352070                            
+    241  352080 Inúbia Paulista                             352080                            
+    242  352090 Ipaussu                                     352090                            
+    243  352100 Iperó                                       352100                            
+    244  352110 Ipeúna                                      352110                            
+    245  352115 Ipiguá                                      352115                            
+    246  352120 Iporanga                                    352120                            
+    247  352130 Ipuã                                        352130                            
+    248  352140 Iracemápolis                                352140                            
+    249  352150 Irapuã                                      352150                            
+    250  352160 Irapuru                                     352160                            
+    251  352170 Itaberá                                     352170                            
+    252  352180 Itaí                                        352180                            
+    253  352190 Itajobi                                     352190                            
+    254  352200 Itaju                                       352200                            
+    255  352210 Itanhaém                                    352210                            
+    256  352215 Itaóca                                      352215                            
+    257  352220 Itapecerica da Serra                        352220                            
+    258  352230 Itapetininga                                352230                            
+    259  352240 Itapeva                                     352240                            
+    260  352250 Itapevi                                     352250                            
+    261  352260 Itapira                                     352260                            
+    262  352265 Itapirapuã Paulista                         352265                            
+    263  352270 Itápolis                                    352270                            
+    264  352280 Itaporanga                                  352280                            
+    265  352290 Itapuí                                      352290                            
+    266  352300 Itapura                                     352300                            
+    267  352310 Itaquaquecetuba                             352310                            
+    268  352320 Itararé                                     352320                            
+    269  352330 Itariri                                     352330                            
+    270  352340 Itatiba                                     352340                            
+    271  352350 Itatinga                                    352350                            
+    272  352360 Itirapina                                   352360                            
+    273  352370 Itirapuã                                    352370                            
+    274  352380 Itobi                                       352380                            
+    275  352390 Itu                                         352390                            
+    276  352400 Itupeva                                     352400                            
+    277  352410 Ituverava                                   352410                            
+    278  352420 Jaborandi                                   352420                            
+    279  352430 Jaboticabal                                 352430                            
+    280  352440 Jacareí                                     352440                            
+    281  352450 Jaci                                        352450                            
+    282  352460 Jacupiranga                                 352460                            
+    283  352470 Jaguariúna                                  352470                            
+    284  352480 Jales                                       352480                            
+    285  352490 Jambeiro                                    352490                            
+    286  352500 Jandira                                     352500                            
+    287  352510 Jardinópolis                                352510                            
+    288  352520 Jarinu                                      352520                            
+    289  352530 Jaú                                         352530                            
+    290  352540 Jeriquara                                   352540                            
+    291  352550 Joanópolis                                  352550                            
+    292  352560 João Ramalho                                352560                            
+    293  352570 José Bonifácio                              352570                            
+    294  352580 Júlio Mesquita                              352580                            
+    295  352585 Jumirim                                     352585                            
+    296  352590 Jundiaí                                     352590                            
+    297  352600 Junqueirópolis                              352600                            
+    298  352610 Juquiá                                      352610                            
+    299  352620 Juquitiba                                   352620                            
+    300  352630 Lagoinha                                    352630                            
+    301  352640 Laranjal Paulista                           352640                            
+    302  352650 Lavínia                                     352650                            
+    303  352660 Lavrinhas                                   352660                            
+    304  352670 Leme                                        352670                            
+    305  352680 Lençóis Paulista                            352680                            
+    306  352690 Limeira                                     352690                            
+    307  352700 Lindóia                                     352700                            
+    308  352710 Lins                                        352710                            
+    309  352720 Lorena                                      352720                            
+    310  352725 Lourdes                                     352725                            
+    311  352730 Louveira                                    352730                            
+    312  352740 Lucélia                                     352740                            
+    313  352750 Lucianópolis                                352750                            
+    314  352760 Luís Antônio                                352760                            
+    315  352770 Luiziânia                                   352770                            
+    316  352780 Lupércio                                    352780                            
+    317  352790 Lutécia                                     352790                            
+    318  352800 Macatuba                                    352800                            
+    319  352810 Macaubal                                    352810                            
+    320  352820 Macedônia                                   352820                            
+    321  352830 Magda                                       352830                            
+    322  352840 Mairinque                                   352840                            
+    323  352850 Mairiporã                                   352850                            
+    324  352860 Manduri                                     352860                            
+    325  352870 Marabá Paulista                             352870                            
+    326  352880 Maracaí                                     352880                            
+    327  352885 Marapoama                                   352885                            
+    328  352890 Mariápolis                                  352890                            
+    329  352900 Marília                                     352900                            
+    330  352910 Marinópolis                                 352910                            
+    331  352920 Martinópolis                                352920                            
+    332  352930 Matão                                       352930                            
+    333  352940 Mauá                                        352940                            
+    334  352950 Mendonça                                    352950                            
+    335  352960 Meridiano                                   352960                            
+    336  352965 Mesópolis                                   352965                            
+    337  352970 Miguelópolis                                352970                            
+    338  352980 Mineiros do Tietê                           352980                            
+    339  353000 Mira Estrela                                353000                            
+    340  352990 Miracatu                                    352990                            
+    341  353010 Mirandópolis                                353010                            
+    342  353020 Mirante do Paranapanema                     353020                            
+    343  353030 Mirassol                                    353030                            
+    344  353040 Mirassolândia                               353040                            
+    345  353050 Mococa                                      353050                            
+    346  353060 Mogi das Cruzes                             353060                            
+    347  353070 Mogi Guaçu                                  353070                            
+    348  353080 Moji Mirim                                  353080                            
+    349  353090 Mombuca                                     353090                            
+    350  353100 Monções                                     353100                            
+    351  353110 Mongaguá                                    353110                            
+    352  353120 Monte Alegre do Sul                         353120                            
+    353  353130 Monte Alto                                  353130                            
+    354  353140 Monte Aprazível                             353140                            
+    355  353150 Monte Azul Paulista                         353150                            
+    356  353160 Monte Castelo                               353160                            
+    357  353180 Monte Mor                                   353180                            
+    358  353170 Monteiro Lobato                             353170                            
+    359  353190 Morro Agudo                                 353190                            
+    360  353200 Morungaba                                   353200                            
+    361  353205 Motuca                                      353205                            
+    362  353210 Murutinga do Sul                            353210                            
+    363  353215 Nantes                                      353215                            
+    364  353220 Narandiba                                   353220                            
+    365  353230 Natividade da Serra                         353230                            
+    366  353240 Nazaré Paulista                             353240                            
+    367  353250 Neves Paulista                              353250                            
+    368  353260 Nhandeara                                   353260                            
+    369  353270 Nipoã                                       353270                            
+    370  353280 Nova Aliança                                353280                            
+    371  353282 Nova Campina                                353282                            
+    372  353284 Nova Canaã Paulista                         353284                            
+    373  353286 Nova Castilho                               353286                            
+    374  353290 Nova Europa                                 353290                            
+    375  353300 Nova Granada                                353300                            
+    376  353310 Nova Guataporanga                           353310                            
+    377  353320 Nova Independência                          353320                            
+    378  353330 Nova Luzitânia                              353330                            
+    379  353340 Nova Odessa                                 353340                            
+    380  353325 Novais                                      353325                            
+    381  353350 Novo Horizonte                              353350                            
+    382  353360 Nuporanga                                   353360                            
+    383  353370 Ocauçu                                      353370                            
+    384  353380 Óleo                                        353380                            
+    385  353390 Olímpia                                     353390                            
+    386  353400 Onda Verde                                  353400                            
+    387  353410 Oriente                                     353410                            
+    388  353420 Orindiúva                                   353420                            
+    389  353430 Orlândia                                    353430                            
+    390  353440 Osasco                                      353440                            
+    391  353450 Oscar Bressane                              353450                            
+    392  353460 Osvaldo Cruz                                353460                            
+    393  353470 Ourinhos                                    353470                            
+    394  353480 Ouro Verde                                  353480                            
+    395  353475 Ouroeste                                    353475                            
+    396  353490 Pacaembu                                    353490                            
+    397  353500 Palestina                                   353500                            
+    398  353510 Palmares Paulista                           353510                            
+    399  353520 Palmeira d'Oeste                            353520                            
+    400  353530 Palmital                                    353530                            
+    401  353540 Panorama                                    353540                            
+    402  353550 Paraguaçu Paulista                          353550                            
+    403  353560 Paraibuna                                   353560                            
+    404  353570 Paraíso                                     353570                            
+    405  353580 Paranapanema                                353580                            
+    406  353590 Paranapuã                                   353590                            
+    407  353600 Parapuã                                     353600                            
+    408  353610 Pardinho                                    353610                            
+    409  353620 Pariquera-Açu                               353620                            
+    410  353625 Parisi                                      353625                            
+    411  353630 Patrocínio Paulista                         353630                            
+    412  353640 Paulicéia                                   353640                            
+    413  353650 Paulínia                                    353650                            
+    414  353657 Paulistânia                                 353657                            
+    415  353660 Paulo de Faria                              353660                            
+    416  353670 Pederneiras                                 353670                            
+    417  353680 Pedra Bela                                  353680                            
+    418  353690 Pedranópolis                                353690                            
+    419  353700 Pedregulho                                  353700                            
+    420  353710 Pedreira                                    353710                            
+    421  353715 Pedrinhas Paulista                          353715                            
+    422  353720 Pedro de Toledo                             353720                            
+    423  353730 Penápolis                                   353730                            
+    424  353740 Pereira Barreto                             353740                            
+    425  353750 Pereiras                                    353750                            
+    426  353760 Peruíbe                                     353760                            
+    427  353770 Piacatu                                     353770                            
+    428  353780 Piedade                                     353780                            
+    429  353790 Pilar do Sul                                353790                            
+    430  353800 Pindamonhangaba                             353800                            
+    431  353810 Pindorama                                   353810                            
+    432  353820 Pinhalzinho                                 353820                            
+    433  353830 Piquerobi                                   353830                            
+    434  353850 Piquete                                     353850                            
+    435  353860 Piracaia                                    353860                            
+    436  353870 Piracicaba                                  353870                            
+    437  353880 Piraju                                      353880                            
+    438  353890 Pirajuí                                     353890                            
+    439  353900 Pirangi                                     353900                            
+    440  353910 Pirapora do Bom Jesus                       353910                            
+    441  353920 Pirapozinho                                 353920                            
+    442  353930 Pirassununga                                353930                            
+    443  353940 Piratininga                                 353940                            
+    444  353950 Pitangueiras                                353950                            
+    445  353960 Planalto                                    353960                            
+    446  353970 Platina                                     353970                            
+    447  353980 Poá                                         353980                            
+    448  353990 Poloni                                      353990                            
+    449  354000 Pompéia                                     354000                            
+    450  354010 Pongaí                                      354010                            
+    451  354020 Pontal                                      354020                            
+    452  354025 Pontalinda                                  354025                            
+    453  354030 Pontes Gestal                               354030                            
+    454  354040 Populina                                    354040                            
+    455  354050 Porangaba                                   354050                            
+    456  354060 Porto Feliz                                 354060                            
+    457  354070 Porto Ferreira                              354070                            
+    458  354075 Potim                                       354075                            
+    459  354080 Potirendaba                                 354080                            
+    460  354085 Pracinha                                    354085                            
+    461  354090 Pradópolis                                  354090                            
+    462  354100 Praia Grande                                354100                            
+    463  354105 Pratânia                                    354105                            
+    464  354110 Presidente Alves                            354110                            
+    465  354120 Presidente Bernardes                        354120                            
+    466  354130 Presidente Epitácio                         354130                            
+    467  354140 Presidente Prudente                         354140                            
+    468  354150 Presidente Venceslau                        354150                            
+    469  354160 Promissão                                   354160                            
+    470  354165 Quadra                                      354165                            
+    471  354170 Quatá                                       354170                            
+    472  354180 Queiroz                                     354180                            
+    473  354190 Queluz                                      354190                            
+    474  354200 Quintana                                    354200                            
+    475  354210 Rafard                                      354210                            
+    476  354220 Rancharia                                   354220                            
+    477  354230 Redenção da Serra                           354230                            
+    478  354240 Regente Feijó                               354240                            
+    479  354250 Reginópolis                                 354250                            
+    480  354260 Registro                                    354260                            
+    481  354270 Restinga                                    354270                            
+    482  354280 Ribeira                                     354280                            
+    483  354290 Ribeirão Bonito                             354290                            
+    484  354300 Ribeirão Branco                             354300                            
+    485  354310 Ribeirão Corrente                           354310                            
+    486  354320 Ribeirão do Sul                             354320                            
+    487  354323 Ribeirão dos Índios                         354323                            
+    488  354325 Ribeirão Grande                             354325                            
+    489  354330 Ribeirão Pires                              354330                            
+    490  354340 Ribeirão Preto                              354340                            
+    491  354360 Rifaina                                     354360                            
+    492  354370 Rincão                                      354370                            
+    493  354380 Rinópolis                                   354380                            
+    494  354390 Rio Claro                                   354390                            
+    495  354400 Rio das Pedras                              354400                            
+    496  354410 Rio Grande da Serra                         354410                            
+    497  354420 Riolândia                                   354420                            
+    498  354350 Riversul                                    354350                            
+    499  354425 Rosana                                      354425                            
+    500  354430 Roseira                                     354430                            
+    501  354440 Rubiácea                                    354440                            
+    502  354450 Rubinéia                                    354450                            
+    503  354460 Sabino                                      354460                            
+    504  354470 Sagres                                      354470                            
+    505  354480 Sales                                       354480                            
+    506  354490 Sales Oliveira                              354490                            
+    507  354500 Salesópolis                                 354500                            
+    508  354510 Salmourão                                   354510                            
+    509  354515 Saltinho                                    354515                            
+    510  354520 Salto                                       354520                            
+    511  354530 Salto de Pirapora                           354530                            
+    512  354540 Salto Grande                                354540                            
+    513  354550 Sandovalina                                 354550                            
+    514  354560 Santa Adélia                                354560                            
+    515  354570 Santa Albertina                             354570                            
+    516  354580 Santa Bárbara d'Oeste                       354580                            
+    517  354600 Santa Branca                                354600                            
+    518  354610 Santa Clara d'Oeste                         354610                            
+    519  354620 Santa Cruz da Conceição                     354620                            
+    520  354625 Santa Cruz da Esperança                     354625                            
+    521  354630 Santa Cruz das Palmeiras                    354630                            
+    522  354640 Santa Cruz do Rio Pardo                     354640                            
+    523  354650 Santa Ernestina                             354650                            
+    524  354660 Santa Fé do Sul                             354660                            
+    525  354670 Santa Gertrudes                             354670                            
+    526  354680 Santa Isabel                                354680                            
+    527  354690 Santa Lúcia                                 354690                            
+    528  354700 Santa Maria da Serra                        354700                            
+    529  354710 Santa Mercedes                              354710                            
+    530  354740 Santa Rita d'Oeste                          354740                            
+    531  354750 Santa Rita do Passa Quatro                  354750                            
+    532  354760 Santa Rosa de Viterbo                       354760                            
+    533  354765 Santa Salete                                354765                            
+    534  354720 Santana da Ponte Pensa                      354720                            
+    535  354730 Santana de Parnaíba                         354730                            
+    536  354770 Santo Anastácio                             354770                            
+    537  354780 Santo André                                 354780                            
+    538  354790 Santo Antônio da Alegria                    354790                            
+    539  354800 Santo Antônio de Posse                      354800                            
+    540  354805 Santo Antônio do Aracanguá                  354805                            
+    541  354810 Santo Antônio do Jardim                     354810                            
+    542  354820 Santo Antônio do Pinhal                     354820                            
+    543  354830 Santo Expedito                              354830                            
+    544  354840 Santópolis do Aguapeí                       354840                            
+    545  354850 Santos                                      354850                            
+    546  354860 São Bento do Sapucaí                        354860                            
+    547  354870 São Bernardo do Campo                       354870                            
+    548  354880 São Caetano do Sul                          354880                            
+    549  354890 São Carlos                                  354890                            
+    550  354900 São Francisco                               354900                            
+    551  354910 São João da Boa Vista                       354910                            
+    552  354920 São João das Duas Pontes                    354920                            
+    553  354925 São João de Iracema                         354925                            
+    554  354930 São João do Pau d'Alho                      354930                            
+    555  354940 São Joaquim da Barra                        354940                            
+    556  354950 São José da Bela Vista                      354950                            
+    557  354960 São José do Barreiro                        354960                            
+    558  354970 São José do Rio Pardo                       354970                            
+    559  354980 São José do Rio Preto                       354980                            
+    560  354990 São José dos Campos                         354990                            
+    561  354995 São Lourenço da Serra                       354995                            
+    562  355000 São Luís do Paraitinga                      355000                            
+    563  355010 São Manuel                                  355010                            
+    564  355020 São Miguel Arcanjo                          355020                            
+    565  355030 São Paulo                                   355030,358001-358058              
+    566  355040 São Pedro                                   355040                            
+    567  355050 São Pedro do Turvo                          355050                            
+    568  355060 São Roque                                   355060                            
+    569  355070 São Sebastião                               355070                            
+    570  355080 São Sebastião da Grama                      355080                            
+    571  355090 São Simão                                   355090                            
+    572  355100 São Vicente                                 355100                            
+    573  355110 Sarapuí                                     355110                            
+    574  355120 Sarutaiá                                    355120                            
+    575  355130 Sebastianópolis do Sul                      355130                            
+    576  355140 Serra Azul                                  355140                            
+    577  355160 Serra Negra                                 355160                            
+    578  355150 Serrana                                     355150                            
+    579  355170 Sertãozinho                                 355170                            
+    580  355180 Sete Barras                                 355180                            
+    581  355190 Severínia                                   355190                            
+    582  355200 Silveiras                                   355200                            
+    583  355210 Socorro                                     355210                            
+    584  355220 Sorocaba                                    355220                            
+    585  355230 Sud Mennucci                                355230                            
+    586  355240 Sumaré                                      355240                            
+    587  355255 Suzanápolis                                 355255                            
+    588  355250 Suzano                                      355250                            
+    589  355260 Tabapuã                                     355260                            
+    590  355270 Tabatinga                                   355270                            
+    591  355280 Taboão da Serra                             355280                            
+    592  355290 Taciba                                      355290                            
+    593  355300 Taguaí                                      355300                            
+    594  355310 Taiaçu                                      355310                            
+    595  355320 Taiúva                                      355320                            
+    596  355330 Tambaú                                      355330                            
+    597  355340 Tanabi                                      355340                            
+    598  355350 Tapiraí                                     355350                            
+    599  355360 Tapiratiba                                  355360                            
+    600  355365 Taquaral                                    355365                            
+    601  355370 Taquaritinga                                355370                            
+    602  355380 Taquarituba                                 355380                            
+    603  355385 Taquarivaí                                  355385                            
+    604  355390 Tarabai                                     355390                            
+    605  355395 Tarumã                                      355395                            
+    606  355400 Tatuí                                       355400                            
+    607  355410 Taubaté                                     355410                            
+    608  355420 Tejupá                                      355420                            
+    609  355430 Teodoro Sampaio                             355430                            
+    610  355440 Terra Roxa                                  355440                            
+    611  355450 Tietê                                       355450                            
+    612  355460 Timburi                                     355460                            
+    613  355465 Torre de Pedra                              355465                            
+    614  355470 Torrinha                                    355470                            
+    615  355475 Trabiju                                     355475                            
+    616  355480 Tremembé                                    355480                            
+    617  355490 Três Fronteiras                             355490                            
+    618  355495 Tuiuti                                      355495                            
+    619  355500 Tupã                                        355500                            
+    620  355510 Tupi Paulista                               355510                            
+    621  355520 Turiúba                                     355520                            
+    622  355530 Turmalina                                   355530                            
+    623  355535 Ubarana                                     355535                            
+    624  355540 Ubatuba                                     355540                            
+    625  355550 Ubirajara                                   355550                            
+    626  355560 Uchoa                                       355560                            
+    627  355570 União Paulista                              355570                            
+    628  355580 Urânia                                      355580                            
+    629  355590 Uru                                         355590                            
+    630  355600 Urupês                                      355600                            
+    631  355610 Valentim Gentil                             355610                            
+    632  355620 Valinhos                                    355620                            
+    633  355630 Valparaíso                                  355630                            
+    634  355635 Vargem                                      355635                            
+    635  355640 Vargem Grande do Sul                        355640                            
+    636  355645 Vargem Grande Paulista                      355645                            
+    637  355650 Várzea Paulista                             355650                            
+    638  355660 Vera Cruz                                   355660                            
+    639  355670 Vinhedo                                     355670                            
+    640  355680 Viradouro                                   355680                            
+    641  355690 Vista Alegre do Alto                        355690                            
+    642  355695 Vitória Brasil                              355695                            
+    643  355700 Votorantim                                  355700                            
+    644  355710 Votuporanga                                 355710                            
+    645  355715 Zacarias                                    355715                            
+    646  350000 Município ignorado - SP                     350000,359999                     
+

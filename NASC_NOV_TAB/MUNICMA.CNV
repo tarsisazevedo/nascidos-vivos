@@ -1,0 +1,220 @@
+    218  6                                                                                    
+      1  210005 Açailândia                                  210005                            
+      2  210010 Afonso Cunha                                210010                            
+      3  210015 Água Doce do Maranhão                       210015                            
+      4  210020 Alcântara                                   210020                            
+      5  210030 Aldeias Altas                               210030                            
+      6  210040 Altamira do Maranhão                        210040                            
+      7  210043 Alto Alegre do Maranhão                     210043                            
+      8  210047 Alto Alegre do Pindaré                      210047                            
+      9  210050 Alto Parnaíba                               210050                            
+     10  210055 Amapá do Maranhão                           210055                            
+     11  210060 Amarante do Maranhão                        210060                            
+     12  210070 Anajatuba                                   210070                            
+     13  210080 Anapurus                                    210080                            
+     14  210083 Apicum-Açu                                  210083                            
+     15  210087 Araguanã                                    210087                            
+     16  210090 Araioses                                    210090                            
+     17  210095 Arame                                       210095                            
+     18  210100 Arari                                       210100                            
+     19  210110 Axixá                                       210110                            
+     20  210120 Bacabal                                     210120                            
+     21  210125 Bacabeira                                   210125                            
+     22  210130 Bacuri                                      210130                            
+     23  210135 Bacurituba                                  210135                            
+     24  210140 Balsas                                      210140                            
+     25  210150 Barão de Grajaú                             210150                            
+     26  210160 Barra do Corda                              210160                            
+     27  210170 Barreirinhas                                210170,211707                     
+     28  210177 Bela Vista do Maranhão                      210177                            
+     29  210173 Belágua                                     210173                            
+     30  210180 Benedito Leite                              210180                            
+     31  210190 Bequimão                                    210190                            
+     32  210193 Bernardo do Mearim                          210193                            
+     33  210197 Boa Vista do Gurupi                         210197                            
+     34  210200 Bom Jardim                                  210200                            
+     35  210203 Bom Jesus das Selvas                        210203                            
+     36  210207 Bom Lugar                                   210207                            
+     37  210210 Brejo                                       210210                            
+     38  210215 Brejo de Areia                              210215                            
+     39  210220 Buriti                                      210220                            
+     40  210230 Buriti Bravo                                210230                            
+     41  210232 Buriticupu                                  210232                            
+     42  210235 Buritirana                                  210235                            
+     43  210237 Cachoeira Grande                            210237                            
+     44  210240 Cajapió                                     210240                            
+     45  210250 Cajari                                      210250                            
+     46  210255 Campestre do Maranhão                       210255                            
+     47  210260 Cândido Mendes                              210260                            
+     48  210270 Cantanhede                                  210270                            
+     49  210275 Capinzal do Norte                           210275                            
+     50  210280 Carolina                                    210280                            
+     51  210290 Carutapera                                  210290                            
+     52  210300 Caxias                                      210300                            
+     53  210310 Cedral                                      210310                            
+     54  210312 Central do Maranhão                         210312                            
+     55  210315 Centro do Guilherme                         210315                            
+     56  210317 Centro Novo do Maranhão                     210317                            
+     57  210320 Chapadinha                                  210320                            
+     58  210325 Cidelândia                                  210325                            
+     59  210330 Codó                                        210330,213307                     
+     60  210340 Coelho Neto                                 210340                            
+     61  210350 Colinas                                     210350                            
+     62  210355 Conceição do Lago-Açu                       210355                            
+     63  210360 Coroatá                                     210360                            
+     64  210370 Cururupu                                    210370                            
+     65  210375 Davinópolis                                 210375                            
+     66  210380 Dom Pedro                                   210380                            
+     67  210390 Duque Bacelar                               210390                            
+     68  210400 Esperantinópolis                            210400                            
+     69  210405 Estreito                                    210405                            
+     70  210407 Feira Nova do Maranhão                      210407                            
+     71  210408 Fernando Falcão                             210408                            
+     72  210409 Formosa da Serra Negra                      210409                            
+     73  210410 Fortaleza dos Nogueiras                     210410                            
+     74  210420 Fortuna                                     210420                            
+     75  210430 Godofredo Viana                             210430                            
+     76  210440 Gonçalves Dias                              210440                            
+     77  210450 Governador Archer                           210450                            
+     78  210455 Governador Edison Lobão                     210455                            
+     79  210460 Governador Eugênio Barros                   210460                            
+     80  210462 Governador Luiz Rocha                       210462                            
+     81  210465 Governador Newton Bello                     210465                            
+     82  210467 Governador Nunes Freire                     210467                            
+     83  210470 Graça Aranha                                210470                            
+     84  210480 Grajaú                                      210480                            
+     85  210490 Guimarães                                   210490                            
+     86  210500 Humberto de Campos                          210500                            
+     87  210510 Icatu                                       210510                            
+     88  210515 Igarapé do Meio                             210515                            
+     89  210520 Igarapé Grande                              210520                            
+     90  210530 Imperatriz                                  210530                            
+     91  210535 Itaipava do Grajaú                          210535                            
+     92  210540 Itapecuru Mirim                             210540                            
+     93  210542 Itinga do Maranhão                          210542                            
+     94  210545 Jatobá                                      210545                            
+     95  210547 Jenipapo dos Vieiras                        210547                            
+     96  210550 João Lisboa                                 210550                            
+     97  210560 Joselândia                                  210560                            
+     98  210565 Junco do Maranhão                           210565                            
+     99  210570 Lago da Pedra                               210570                            
+    100  210580 Lago do Junco                               210580                            
+    101  210594 Lago dos Rodrigues                          210594                            
+    102  210590 Lago Verde                                  210590                            
+    103  210592 Lagoa do Mato                               210592                            
+    104  210596 Lagoa Grande do Maranhão                    210596                            
+    105  210598 Lajeado Novo                                210598                            
+    106  210600 Lima Campos                                 210600                            
+    107  210610 Loreto                                      210610                            
+    108  210620 Luís Domingues                              210620                            
+    109  210630 Magalhães de Almeida                        210630                            
+    110  210632 Maracaçumé                                  210632                            
+    111  210635 Marajá do Sena                              210635                            
+    112  210637 Maranhãozinho                               210637                            
+    113  210640 Mata Roma                                   210640                            
+    114  210650 Matinha                                     210650                            
+    115  210660 Matões                                      210660                            
+    116  210663 Matões do Norte                             210663                            
+    117  210667 Milagres do Maranhão                        210667                            
+    118  210670 Mirador                                     210670                            
+    119  210675 Miranda do Norte                            210675                            
+    120  210680 Mirinzal                                    210680                            
+    121  210690 Monção                                      210690                            
+    122  210700 Montes Altos                                210700                            
+    123  210710 Morros                                      210710                            
+    124  210720 Nina Rodrigues                              210720                            
+    125  210725 Nova Colinas                                210725                            
+    126  210730 Nova Iorque                                 210730                            
+    127  210735 Nova Olinda do Maranhão                     210735                            
+    128  210740 Olho d'Água das Cunhãs                      210740                            
+    129  210745 Olinda Nova do Maranhão                     210745                            
+    130  210750 Paço do Lumiar                              210750                            
+    131  210760 Palmeirândia                                210760                            
+    132  210770 Paraibano                                   210770                            
+    133  210780 Parnarama                                   210780                            
+    134  210790 Passagem Franca                             210790                            
+    135  210800 Pastos Bons                                 210800                            
+    136  210805 Paulino Neves                               210805                            
+    137  210810 Paulo Ramos                                 210810                            
+    138  210820 Pedreiras                                   210820                            
+    139  210825 Pedro do Rosário                            210825                            
+    140  210830 Penalva                                     210830                            
+    141  210840 Peri Mirim                                  210840                            
+    142  210845 Peritoró                                    210845                            
+    143  210850 Pindaré-Mirim                               210850                            
+    144  210860 Pinheiro                                    210860                            
+    145  210870 Pio XII                                     210870                            
+    146  210880 Pirapemas                                   210880                            
+    147  210890 Poção de Pedras                             210890                            
+    148  210900 Porto Franco                                210900                            
+    149  210905 Porto Rico do Maranhão                      210905                            
+    150  210910 Presidente Dutra                            210910                            
+    151  210920 Presidente Juscelino                        210920                            
+    152  210923 Presidente Médici                           210923                            
+    153  210927 Presidente Sarney                           210927                            
+    154  210930 Presidente Vargas                           210930                            
+    155  210940 Primeira Cruz                               210940                            
+    156  210945 Raposa                                      210945                            
+    157  210950 Riachão                                     210950                            
+    158  210955 Ribamar Fiquene                             210955                            
+    159  210960 Rosário                                     210960                            
+    160  210970 Sambaíba                                    210970                            
+    161  210975 Santa Filomena do Maranhão                  210975                            
+    162  210980 Santa Helena                                210980                            
+    163  210990 Santa Inês                                  210990                            
+    164  211000 Santa Luzia                                 211000                            
+    165  211003 Santa Luzia do Paruá                        211003                            
+    166  211010 Santa Quitéria do Maranhão                  211010                            
+    167  211020 Santa Rita                                  211020                            
+    168  211023 Santana do Maranhão                         211023                            
+    169  211027 Santo Amaro do Maranhão                     211027                            
+    170  211030 Santo Antônio dos Lopes                     211030                            
+    171  211040 São Benedito do Rio Preto                   211040                            
+    172  211050 São Bento                                   211050                            
+    173  211060 São Bernardo                                211060                            
+    174  211065 São Domingos do Azeitão                     211065                            
+    175  211070 São Domingos do Maranhão                    211070                            
+    176  211080 São Félix de Balsas                         211080                            
+    177  211085 São Francisco do Brejão                     211085                            
+    178  211090 São Francisco do Maranhão                   211090                            
+    179  211100 São João Batista                            211100                            
+    180  211102 São João do Carú                            211102                            
+    181  211105 São João do Paraíso                         211105                            
+    182  211107 São João do Soter                           211107                            
+    183  211110 São João dos Patos                          211110                            
+    184  211120 São José de Ribamar                         211120                            
+    185  211125 São José dos Basílios                       211125                            
+    186  211130 São Luís                                    211130                            
+    187  211140 São Luís Gonzaga do Maranhão                211140                            
+    188  211150 São Mateus do Maranhão                      211150                            
+    189  211153 São Pedro da Água Branca                    211153                            
+    190  211157 São Pedro dos Crentes                       211157                            
+    191  211160 São Raimundo das Mangabeiras                211160                            
+    192  211163 São Raimundo do Doca Bezerra                211163                            
+    193  211167 São Roberto                                 211167                            
+    194  211170 São Vicente Ferrer                          211170                            
+    195  211172 Satubinha                                   211172                            
+    196  211174 Senador Alexandre Costa                     211174                            
+    197  211176 Senador La Rocque                           211176                            
+    198  211178 Serrano do Maranhão                         211178                            
+    199  211180 Sítio Novo                                  211180                            
+    200  211190 Sucupira do Norte                           211190                            
+    201  211195 Sucupira do Riachão                         211195                            
+    202  211200 Tasso Fragoso                               211200                            
+    203  211210 Timbiras                                    211210                            
+    204  211220 Timon                                       211220                            
+    205  211223 Trizidela do Vale                           211223                            
+    206  211227 Tufilândia                                  211227                            
+    207  211230 Tuntum                                      211230                            
+    208  211240 Turiaçu                                     211240                            
+    209  211245 Turilândia                                  211245                            
+    210  211250 Tutóia                                      211250                            
+    211  211260 Urbano Santos                               211260                            
+    212  211270 Vargem Grande                               211270                            
+    213  211280 Viana                                       211280                            
+    214  211285 Vila Nova dos Martírios                     211285                            
+    215  211290 Vitória do Mearim                           211290                            
+    216  211300 Vitorino Freire                             211300                            
+    217  211400 Zé Doca                                     211400                            
+    218  210000 Município ignorado - MA                     210000,219999                     
+
